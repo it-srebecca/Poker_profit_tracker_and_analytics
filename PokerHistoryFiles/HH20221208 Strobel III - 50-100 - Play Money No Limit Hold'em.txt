@@ -1,0 +1,1213 @@
+﻿PokerStars Hand #240332603379:  Hold'em No Limit (50/100) - 2022/12/08 12:33:29 CUST [2022/12/08 6:33:29 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #5 is the button
+Seat 1: serioushippo677 (10000 in chips) 
+Seat 2: gingermegg39 (10405 in chips) 
+Seat 3: mdk54 (10005 in chips) 
+Seat 4: vitornune224 (8954 in chips) 
+Seat 5: HyperPair4R1 (18112 in chips) 
+Seat 6: htomasz (6439 in chips) 
+htomasz: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3c 4s]
+gingermegg39: calls 100
+mdk54: folds 
+vitornune224: calls 100
+HyperPair4R1: calls 100
+htomasz: calls 50
+serioushippo677: checks 
+*** FLOP *** [4h 5c Ah]
+htomasz: bets 100
+serioushippo677: calls 100
+gingermegg39: calls 100
+vitornune224: calls 100
+HyperPair4R1: calls 100
+*** TURN *** [4h 5c Ah] [Td]
+htomasz: bets 100
+serioushippo677: calls 100
+gingermegg39: calls 100
+vitornune224: raises 1345 to 1445
+HyperPair4R1: raises 16467 to 17912 and is all-in
+htomasz: calls 6139 and is all-in
+serioushippo677: folds 
+gingermegg39: folds 
+vitornune224: calls 7309 and is all-in
+Uncalled bet (9158) returned to HyperPair4R1
+*** RIVER *** [4h 5c Ah Td] [Kc]
+*** SHOW DOWN ***
+vitornune224: shows [2s Ac] (a pair of Aces)
+HyperPair4R1: shows [Ts Tc] (three of a kind, Tens)
+HyperPair4R1 collected 4753 from side pot
+htomasz: shows [As 3h] (a pair of Aces)
+HyperPair4R1 collected 18822 from main pot
+*** SUMMARY ***
+Total pot 24947 Main pot 18822. Side pot 4753. | Rake 1372 
+Board [4h 5c Ah Td Kc]
+Seat 1: serioushippo677 (big blind) folded on the Turn
+Seat 2: gingermegg39 folded on the Turn
+Seat 3: mdk54 folded before Flop (didn't bet)
+Seat 4: vitornune224 showed [2s Ac] and lost with a pair of Aces
+Seat 5: HyperPair4R1 (button) showed [Ts Tc] and won (23575) with three of a kind, Tens
+Seat 6: htomasz (small blind) showed [As 3h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #240332617006:  Hold'em No Limit (50/100) - 2022/12/08 12:34:47 CUST [2022/12/08 6:34:47 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #1 is the button
+Seat 1: serioushippo677 (9700 in chips) 
+Seat 2: gingermegg39 (10105 in chips) 
+Seat 3: mdk54 (10005 in chips) 
+Seat 5: HyperPair4R1 (32733 in chips) 
+gingermegg39: posts small blind 50
+mdk54: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4d 9d]
+HyperPair4R1: calls 100
+serioushippo677: folds 
+gingermegg39: calls 50
+mdk54: raises 600 to 700
+HyperPair4R1: calls 600
+gingermegg39: folds 
+*** FLOP *** [6h Ks Td]
+mdk54: bets 700
+HyperPair4R1: folds 
+Uncalled bet (700) returned to mdk54
+mdk54 collected 1417 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 83 
+Board [6h Ks Td]
+Seat 1: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 2: gingermegg39 (small blind) folded before Flop
+Seat 3: mdk54 (big blind) collected (1417)
+Seat 5: HyperPair4R1 folded on the Flop
+
+
+
+PokerStars Hand #240332621130:  Hold'em No Limit (50/100) - 2022/12/08 12:35:10 CUST [2022/12/08 6:35:10 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #2 is the button
+Seat 1: serioushippo677 (9700 in chips) 
+Seat 2: gingermegg39 (10005 in chips) 
+Seat 3: mdk54 (10722 in chips) 
+Seat 4: vitornune224 (10000 in chips) 
+Seat 5: HyperPair4R1 (32033 in chips) 
+mdk54: posts small blind 50
+vitornune224: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4s 7d]
+HyperPair4R1: calls 100
+serioushippo677: folds 
+gingermegg39: calls 100
+mdk54: calls 50
+vitornune224: checks 
+*** FLOP *** [Tc 9d 5s]
+mdk54: checks 
+vitornune224: bets 378
+HyperPair4R1: raises 13622 to 14000
+gingermegg39: calls 9905 and is all-in
+mdk54: folds 
+vitornune224: calls 9522 and is all-in
+Uncalled bet (4095) returned to HyperPair4R1
+*** TURN *** [Tc 9d 5s] [Js]
+*** RIVER *** [Tc 9d 5s Js] [3s]
+*** SHOW DOWN ***
+HyperPair4R1: shows [Th 9s] (two pair, Tens and Nines)
+gingermegg39: shows [9c 5d] (two pair, Nines and Fives)
+HyperPair4R1 collected 10 from side pot
+vitornune224: shows [7h Td] (a pair of Tens)
+HyperPair4R1 collected 28444 from main pot
+*** SUMMARY ***
+Total pot 30110 Main pot 28444. Side pot 10. | Rake 1656 
+Board [Tc 9d 5s Js 3s]
+Seat 1: serioushippo677 folded before Flop (didn't bet)
+Seat 2: gingermegg39 (button) showed [9c 5d] and lost with two pair, Nines and Fives
+Seat 3: mdk54 (small blind) folded on the Flop
+Seat 4: vitornune224 (big blind) showed [7h Td] and lost with a pair of Tens
+Seat 5: HyperPair4R1 showed [Th 9s] and won (28454) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #240332629537:  Hold'em No Limit (50/100) - 2022/12/08 12:35:58 CUST [2022/12/08 6:35:58 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #3 is the button
+Seat 1: serioushippo677 (9700 in chips) 
+Seat 3: mdk54 (10622 in chips) 
+Seat 5: HyperPair4R1 (50482 in chips) 
+HyperPair4R1: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3c Qd]
+mdk54: folds 
+HyperPair4R1: calls 50
+serioushippo677: checks 
+*** FLOP *** [2c 5h 8c]
+HyperPair4R1: checks 
+serioushippo677: checks 
+*** TURN *** [2c 5h 8c] [Td]
+HyperPair4R1: checks 
+serioushippo677: checks 
+*** RIVER *** [2c 5h 8c Td] [4h]
+HyperPair4R1: checks 
+serioushippo677: checks 
+*** SHOW DOWN ***
+HyperPair4R1: shows [Kh 8d] (a pair of Eights)
+serioushippo677: mucks hand 
+HyperPair4R1 collected 189 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 11 
+Board [2c 5h 8c Td 4h]
+Seat 1: serioushippo677 (big blind) mucked [3c Qd]
+Seat 3: mdk54 (button) folded before Flop (didn't bet)
+Seat 5: HyperPair4R1 (small blind) showed [Kh 8d] and won (189) with a pair of Eights
+
+
+
+PokerStars Hand #240332636099:  Hold'em No Limit (50/100) - 2022/12/08 12:36:36 CUST [2022/12/08 6:36:36 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #5 is the button
+Seat 1: serioushippo677 (9600 in chips) 
+Seat 2: gingermegg39 (10000 in chips) 
+Seat 3: mdk54 (10622 in chips) 
+Seat 4: vitornune224 (10000 in chips) 
+Seat 5: HyperPair4R1 (50571 in chips) 
+serioushippo677: posts small blind 50
+gingermegg39: posts big blind 100
+vitornune224: posts small blind 50
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jc Ac]
+mdk54: calls 100
+vitornune224: calls 100
+HyperPair4R1: calls 100
+serioushippo677: raises 200 to 300
+gingermegg39: calls 200
+mdk54: calls 200
+vitornune224: calls 200
+HyperPair4R1: calls 200
+*** FLOP *** [Ts 6d 5s]
+serioushippo677: bets 732
+gingermegg39: calls 732
+mdk54: folds 
+vitornune224: calls 732
+HyperPair4R1: calls 732
+*** TURN *** [Ts 6d 5s] [7c]
+serioushippo677: bets 4232
+gingermegg39: calls 4232
+vitornune224: folds 
+HyperPair4R1: folds 
+*** RIVER *** [Ts 6d 5s 7c] [9s]
+serioushippo677: checks 
+gingermegg39: checks 
+*** SHOW DOWN ***
+serioushippo677: shows [Jc Ac] (high card Ace)
+gingermegg39: shows [6s Qh] (a pair of Sixes)
+gingermegg39 collected 12230 from pot
+*** SUMMARY ***
+Total pot 12942 | Rake 712 
+Board [Ts 6d 5s 7c 9s]
+Seat 1: serioushippo677 (small blind) showed [Jc Ac] and lost with high card Ace
+Seat 2: gingermegg39 (big blind) showed [6s Qh] and won (12230) with a pair of Sixes
+Seat 3: mdk54 folded on the Flop
+Seat 4: vitornune224 folded on the Turn
+Seat 5: HyperPair4R1 (button) folded on the Turn
+
+
+
+PokerStars Hand #240332653146:  Hold'em No Limit (50/100) - 2022/12/08 12:38:13 CUST [2022/12/08 6:38:13 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #1 is the button
+Seat 1: serioushippo677 (4336 in chips) 
+Seat 2: gingermegg39 (16966 in chips) 
+Seat 3: mdk54 (10322 in chips) 
+Seat 4: vitornune224 (8918 in chips) 
+Seat 5: HyperPair4R1 (49539 in chips) 
+Seat 6: htomasz (10000 in chips) 
+gingermegg39: posts small blind 50
+mdk54: posts big blind 100
+htomasz: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6d 3s]
+vitornune224: folds 
+HyperPair4R1: folds 
+htomasz: checks 
+serioushippo677: folds 
+gingermegg39: calls 50
+mdk54: checks 
+*** FLOP *** [Kd 8d 5c]
+gingermegg39: bets 1200
+mdk54: folds 
+htomasz: folds 
+Uncalled bet (1200) returned to gingermegg39
+gingermegg39 collected 331 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 19 
+Board [Kd 8d 5c]
+Seat 1: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 2: gingermegg39 (small blind) collected (331)
+Seat 3: mdk54 (big blind) folded on the Flop
+Seat 4: vitornune224 folded before Flop (didn't bet)
+Seat 5: HyperPair4R1 folded before Flop (didn't bet)
+Seat 6: htomasz folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #240332659682:  Hold'em No Limit (50/100) - 2022/12/08 12:38:50 CUST [2022/12/08 6:38:50 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #2 is the button
+Seat 1: serioushippo677 (4336 in chips) 
+Seat 2: gingermegg39 (17197 in chips) 
+Seat 3: mdk54 (10222 in chips) 
+Seat 4: vitornune224 (8918 in chips) 
+Seat 5: HyperPair4R1 (49539 in chips) 
+Seat 6: htomasz (9850 in chips) 
+mdk54: posts small blind 50
+vitornune224: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4h 2c]
+HyperPair4R1: calls 100
+htomasz: calls 100
+serioushippo677: folds 
+gingermegg39: calls 100
+mdk54: folds 
+vitornune224: raises 100 to 200
+HyperPair4R1: calls 100
+htomasz: raises 100 to 300
+gingermegg39: calls 200
+vitornune224: calls 100
+HyperPair4R1: calls 100
+*** FLOP *** [3h Jh 7c]
+vitornune224: checks 
+HyperPair4R1: checks 
+htomasz: bets 1181
+gingermegg39: folds 
+vitornune224: calls 1181
+HyperPair4R1: calls 1181
+*** TURN *** [3h Jh 7c] [Tc]
+vitornune224: checks 
+HyperPair4R1: bets 48058 and is all-in
+htomasz: folds 
+vitornune224: folds 
+Uncalled bet (48058) returned to HyperPair4R1
+HyperPair4R1 collected 4529 from pot
+*** SUMMARY ***
+Total pot 4793 | Rake 264 
+Board [3h Jh 7c Tc]
+Seat 1: serioushippo677 folded before Flop (didn't bet)
+Seat 2: gingermegg39 (button) folded on the Flop
+Seat 3: mdk54 (small blind) folded before Flop
+Seat 4: vitornune224 (big blind) folded on the Turn
+Seat 5: HyperPair4R1 collected (4529)
+Seat 6: htomasz folded on the Turn
+
+
+
+PokerStars Hand #240332674019:  Hold'em No Limit (50/100) - 2022/12/08 12:40:13 CUST [2022/12/08 6:40:13 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #3 is the button
+Seat 1: serioushippo677 (4336 in chips) 
+Seat 2: gingermegg39 (16897 in chips) 
+Seat 3: mdk54 (10172 in chips) 
+Seat 4: vitornune224 (7437 in chips) 
+Seat 5: HyperPair4R1 (52587 in chips) 
+Seat 6: htomasz (8369 in chips) 
+vitornune224: posts small blind 50
+HyperPair4R1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8d 3c]
+htomasz: folds 
+serioushippo677: folds 
+gingermegg39: raises 100 to 200
+mdk54: calls 200
+vitornune224: calls 150
+HyperPair4R1: raises 1000 to 1200
+gingermegg39: calls 1000
+mdk54: folds 
+vitornune224: folds 
+*** FLOP *** [6c 9h 4h]
+HyperPair4R1: checks 
+gingermegg39: checks 
+*** TURN *** [6c 9h 4h] [Ac]
+HyperPair4R1: checks 
+gingermegg39: bets 2646
+HyperPair4R1: folds 
+Uncalled bet (2646) returned to gingermegg39
+gingermegg39 collected 2646 from pot
+*** SUMMARY ***
+Total pot 2800 | Rake 154 
+Board [6c 9h 4h Ac]
+Seat 1: serioushippo677 folded before Flop (didn't bet)
+Seat 2: gingermegg39 collected (2646)
+Seat 3: mdk54 (button) folded before Flop
+Seat 4: vitornune224 (small blind) folded before Flop
+Seat 5: HyperPair4R1 (big blind) folded on the Turn
+Seat 6: htomasz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240332682068:  Hold'em No Limit (50/100) - 2022/12/08 12:40:58 CUST [2022/12/08 6:40:58 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #4 is the button
+Seat 1: serioushippo677 (4336 in chips) 
+Seat 2: gingermegg39 (18343 in chips) 
+Seat 3: mdk54 (9972 in chips) 
+Seat 4: vitornune224 (7237 in chips) 
+Seat 5: HyperPair4R1 (51387 in chips) 
+Seat 6: htomasz (8369 in chips) 
+HyperPair4R1: posts small blind 50
+htomasz: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4d 2h]
+serioushippo677: folds 
+gingermegg39: calls 100
+mdk54: folds 
+vitornune224: calls 100
+HyperPair4R1: calls 50
+htomasz: raises 400 to 500
+gingermegg39: folds 
+vitornune224: calls 400
+HyperPair4R1: calls 400
+*** FLOP *** [5c Td 6s]
+HyperPair4R1: checks 
+htomasz: bets 756
+vitornune224: folds 
+HyperPair4R1: calls 756
+*** TURN *** [5c Td 6s] [Kh]
+HyperPair4R1: checks 
+htomasz: checks 
+*** RIVER *** [5c Td 6s Kh] [9d]
+HyperPair4R1: checks 
+htomasz: bets 7113 and is all-in
+HyperPair4R1: folds 
+Uncalled bet (7113) returned to htomasz
+htomasz collected 2941 from pot
+*** SUMMARY ***
+Total pot 3112 | Rake 171 
+Board [5c Td 6s Kh 9d]
+Seat 1: serioushippo677 folded before Flop (didn't bet)
+Seat 2: gingermegg39 folded before Flop
+Seat 3: mdk54 folded before Flop (didn't bet)
+Seat 4: vitornune224 (button) folded on the Flop
+Seat 5: HyperPair4R1 (small blind) folded on the River
+Seat 6: htomasz (big blind) collected (2941)
+
+
+
+PokerStars Hand #240332694429:  Hold'em No Limit (50/100) - 2022/12/08 12:42:08 CUST [2022/12/08 6:42:08 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #5 is the button
+Seat 1: serioushippo677 (4336 in chips) 
+Seat 2: gingermegg39 (18243 in chips) 
+Seat 3: mdk54 (9972 in chips) 
+Seat 4: vitornune224 (6737 in chips) 
+Seat 5: HyperPair4R1 (50131 in chips) 
+Seat 6: htomasz (10054 in chips) 
+htomasz: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2s 6d]
+gingermegg39: calls 100
+mdk54: folds 
+vitornune224: calls 100
+HyperPair4R1: calls 100
+htomasz: calls 50
+serioushippo677: checks 
+*** FLOP *** [2h 7d 5c]
+htomasz: checks 
+serioushippo677: checks 
+gingermegg39: checks 
+vitornune224: bets 236
+HyperPair4R1: folds 
+htomasz: folds 
+serioushippo677: calls 236
+gingermegg39: calls 236
+*** TURN *** [2h 7d 5c] [Kd]
+serioushippo677: checks 
+gingermegg39: checks 
+vitornune224: bets 1142
+serioushippo677: folds 
+gingermegg39: folds 
+Uncalled bet (1142) returned to vitornune224
+vitornune224 collected 1142 from pot
+vitornune224: doesn't show hand 
+*** SUMMARY ***
+Total pot 1208 | Rake 66 
+Board [2h 7d 5c Kd]
+Seat 1: serioushippo677 (big blind) folded on the Turn
+Seat 2: gingermegg39 folded on the Turn
+Seat 3: mdk54 folded before Flop (didn't bet)
+Seat 4: vitornune224 collected (1142)
+Seat 5: HyperPair4R1 (button) folded on the Flop
+Seat 6: htomasz (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240332704864:  Hold'em No Limit (50/100) - 2022/12/08 12:43:06 CUST [2022/12/08 6:43:06 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #6 is the button
+Seat 1: serioushippo677 (4000 in chips) 
+Seat 2: gingermegg39 (17907 in chips) 
+Seat 3: mdk54 (9972 in chips) 
+Seat 4: vitornune224 (7543 in chips) 
+Seat 5: HyperPair4R1 (50031 in chips) 
+Seat 6: htomasz (9954 in chips) 
+serioushippo677: posts small blind 50
+gingermegg39: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ah 9s]
+mdk54: folds 
+vitornune224: folds 
+HyperPair4R1: calls 100
+htomasz: folds 
+serioushippo677: raises 3900 to 4000 and is all-in
+gingermegg39: folds 
+HyperPair4R1: folds 
+Uncalled bet (3900) returned to serioushippo677
+serioushippo677 collected 300 from pot
+serioushippo677: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: serioushippo677 (small blind) collected (300)
+Seat 2: gingermegg39 (big blind) folded before Flop
+Seat 3: mdk54 folded before Flop (didn't bet)
+Seat 4: vitornune224 folded before Flop (didn't bet)
+Seat 5: HyperPair4R1 folded before Flop
+Seat 6: htomasz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240332708530:  Hold'em No Limit (50/100) - 2022/12/08 12:43:27 CUST [2022/12/08 6:43:27 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #1 is the button
+Seat 1: serioushippo677 (4200 in chips) 
+Seat 2: gingermegg39 (17807 in chips) 
+Seat 3: mdk54 (9972 in chips) 
+Seat 4: vitornune224 (7543 in chips) 
+Seat 5: HyperPair4R1 (49931 in chips) 
+Seat 6: htomasz (9954 in chips) 
+gingermegg39: posts small blind 50
+mdk54: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ks 6h]
+vitornune224: raises 250 to 350
+HyperPair4R1: calls 350
+htomasz: raises 9604 to 9954 and is all-in
+serioushippo677: folds 
+gingermegg39: folds 
+mdk54 has timed out
+mdk54: folds 
+vitornune224: calls 7193 and is all-in
+HyperPair4R1: folds 
+Uncalled bet (2411) returned to htomasz
+*** FLOP *** [4c 7d 8c]
+*** TURN *** [4c 7d 8c] [2h]
+*** RIVER *** [4c 7d 8c 2h] [Tc]
+*** SHOW DOWN ***
+vitornune224: shows [Kd Td] (a pair of Tens)
+htomasz: shows [Jh Qh] (high card Queen)
+vitornune224 collected 14729 from pot
+*** SUMMARY ***
+Total pot 15586 | Rake 857 
+Board [4c 7d 8c 2h Tc]
+Seat 1: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 2: gingermegg39 (small blind) folded before Flop
+Seat 3: mdk54 (big blind) folded before Flop
+Seat 4: vitornune224 showed [Kd Td] and won (14729) with a pair of Tens
+Seat 5: HyperPair4R1 folded before Flop
+Seat 6: htomasz showed [Jh Qh] and lost with high card Queen
+
+
+
+PokerStars Hand #240332718718:  Hold'em No Limit (50/100) - 2022/12/08 12:44:24 CUST [2022/12/08 6:44:24 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #2 is the button
+Seat 1: serioushippo677 (4200 in chips) 
+Seat 2: gingermegg39 (17757 in chips) 
+Seat 4: vitornune224 (14729 in chips) 
+Seat 5: HyperPair4R1 (49581 in chips) 
+Seat 6: htomasz (2411 in chips) 
+vitornune224: posts small blind 50
+HyperPair4R1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6h Ad]
+htomasz: calls 100
+serioushippo677: calls 100
+gingermegg39: folds 
+vitornune224: calls 50
+HyperPair4R1: checks 
+*** FLOP *** [3h 8c 2s]
+vitornune224: bets 189
+HyperPair4R1: calls 189
+htomasz: calls 189
+serioushippo677: raises 3911 to 4100 and is all-in
+vitornune224: calls 3911
+HyperPair4R1: folds 
+htomasz: folds 
+*** TURN *** [3h 8c 2s] [Kh]
+*** RIVER *** [3h 8c 2s Kh] [3s]
+*** SHOW DOWN ***
+vitornune224: shows [8s Qs] (two pair, Eights and Threes)
+serioushippo677: shows [6h Ad] (a pair of Threes)
+vitornune224 collected 8484 from pot
+*** SUMMARY ***
+Total pot 8978 | Rake 494 
+Board [3h 8c 2s Kh 3s]
+Seat 1: serioushippo677 showed [6h Ad] and lost with a pair of Threes
+Seat 2: gingermegg39 (button) folded before Flop (didn't bet)
+Seat 4: vitornune224 (small blind) showed [8s Qs] and won (8484) with two pair, Eights and Threes
+Seat 5: HyperPair4R1 (big blind) folded on the Flop
+Seat 6: htomasz folded on the Flop
+
+
+
+PokerStars Hand #240332732755:  Hold'em No Limit (50/100) - 2022/12/08 12:45:42 CUST [2022/12/08 6:45:42 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #5 is the button
+Seat 1: serioushippo677 (10000 in chips) 
+Seat 2: gingermegg39 (21698 in chips) 
+Seat 3: mdk54 (9822 in chips) 
+Seat 4: vitornune224 (19013 in chips) 
+Seat 5: HyperPair4R1 (47170 in chips) 
+serioushippo677: posts small blind 50
+gingermegg39: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jd Qd]
+htomasz leaves the table
+mdk54: folds 
+vitornune224: calls 100
+HyperPair4R1: calls 100
+serioushippo677: raises 100 to 200
+gingermegg39: calls 100
+vitornune224: calls 100
+HyperPair4R1: calls 100
+*** FLOP *** [8s 6h Th]
+serioushippo677: checks 
+gingermegg39: bets 756
+vitornune224: calls 756
+HyperPair4R1: folds 
+serioushippo677: folds 
+*** TURN *** [8s 6h Th] [2s]
+gingermegg39: bets 2185
+vitornune224: calls 2185
+*** RIVER *** [8s 6h Th 2s] [Tc]
+gingermegg39: bets 3157
+vitornune224: calls 3157
+*** SHOW DOWN ***
+gingermegg39: shows [Ad Ts] (three of a kind, Tens)
+vitornune224: mucks hand 
+gingermegg39 collected 12281 from pot
+*** SUMMARY ***
+Total pot 12996 | Rake 715 
+Board [8s 6h Th 2s Tc]
+Seat 1: serioushippo677 (small blind) folded on the Flop
+Seat 2: gingermegg39 (big blind) showed [Ad Ts] and won (12281) with three of a kind, Tens
+Seat 3: mdk54 folded before Flop (didn't bet)
+Seat 4: vitornune224 mucked [8d Kc]
+Seat 5: HyperPair4R1 (button) folded on the Flop
+
+
+
+PokerStars Hand #240332744377:  Hold'em No Limit (50/100) - 2022/12/08 12:46:48 CUST [2022/12/08 6:46:48 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #1 is the button
+Seat 1: serioushippo677 (9800 in chips) 
+Seat 3: mdk54 (9822 in chips) 
+Seat 4: vitornune224 (12715 in chips) 
+Seat 5: HyperPair4R1 (46970 in chips) 
+mdk54: posts small blind 50
+vitornune224: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4d 4c]
+risottino123 joins the table at seat #6 
+HyperPair4R1: calls 100
+serioushippo677: calls 100
+mdk54: raises 200 to 300
+vitornune224: folds 
+HyperPair4R1: calls 200
+serioushippo677: calls 200
+*** FLOP *** [5h Td 9c]
+mdk54: bets 400
+HyperPair4R1: folds 
+serioushippo677: calls 400
+*** TURN *** [5h Td 9c] [4s]
+mdk54: bets 500
+serioushippo677: raises 500 to 1000
+mdk54: calls 500
+*** RIVER *** [5h Td 9c 4s] [7s]
+mdk54: checks 
+serioushippo677: bets 3591
+mdk54: folds 
+Uncalled bet (3591) returned to serioushippo677
+serioushippo677 collected 3591 from pot
+serioushippo677: doesn't show hand 
+*** SUMMARY ***
+Total pot 3800 | Rake 209 
+Board [5h Td 9c 4s 7s]
+Seat 1: serioushippo677 (button) collected (3591)
+Seat 3: mdk54 (small blind) folded on the River
+Seat 4: vitornune224 (big blind) folded before Flop
+Seat 5: HyperPair4R1 folded on the Flop
+
+
+
+PokerStars Hand #240332756924:  Hold'em No Limit (50/100) - 2022/12/08 12:47:57 CUST [2022/12/08 6:47:57 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #3 is the button
+Seat 1: serioushippo677 (11691 in chips) 
+Seat 3: mdk54 (8122 in chips) 
+Seat 4: vitornune224 (12615 in chips) 
+Seat 5: HyperPair4R1 (46670 in chips) 
+Seat 6: risottino123 (10000 in chips) 
+vitornune224: posts small blind 50
+HyperPair4R1: posts big blind 100
+risottino123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kd 9h]
+risottino123: checks 
+serioushippo677: folds 
+mdk54: raises 500 to 600
+vitornune224: folds 
+HyperPair4R1: calls 500
+risottino123: folds 
+*** FLOP *** [3d 6c Js]
+HyperPair4R1: checks 
+mdk54: bets 600
+HyperPair4R1: calls 600
+*** TURN *** [3d 6c Js] [7d]
+HyperPair4R1: checks 
+mdk54: bets 1700
+HyperPair4R1: calls 1700
+*** RIVER *** [3d 6c Js 7d] [8c]
+HyperPair4R1: bets 43770 and is all-in
+mdk54: folds 
+Uncalled bet (43770) returned to HyperPair4R1
+HyperPair4R1 collected 5623 from pot
+*** SUMMARY ***
+Total pot 5950 | Rake 327 
+Board [3d 6c Js 7d 8c]
+Seat 1: serioushippo677 folded before Flop (didn't bet)
+Seat 3: mdk54 (button) folded on the River
+Seat 4: vitornune224 (small blind) folded before Flop
+Seat 5: HyperPair4R1 (big blind) collected (5623)
+Seat 6: risottino123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240332765485:  Hold'em No Limit (50/100) - 2022/12/08 12:48:45 CUST [2022/12/08 6:48:45 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #4 is the button
+Seat 1: serioushippo677 (11691 in chips) 
+Seat 3: mdk54 (5222 in chips) 
+Seat 4: vitornune224 (12565 in chips) 
+Seat 5: HyperPair4R1 (49393 in chips) 
+Seat 6: risottino123 (9900 in chips) 
+HyperPair4R1: posts small blind 50
+risottino123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8s 7s]
+serioushippo677: calls 100
+gingermegg39 is disconnected 
+mdk54: folds 
+vitornune224: calls 100
+HyperPair4R1: calls 50
+risottino123: checks 
+*** FLOP *** [7c Qs Kc]
+HyperPair4R1: checks 
+risottino123: checks 
+serioushippo677: checks 
+vitornune224: bets 100
+HyperPair4R1: calls 100
+risottino123: calls 100
+serioushippo677: calls 100
+*** TURN *** [7c Qs Kc] [6c]
+HyperPair4R1: checks 
+risottino123 has timed out
+risottino123: checks 
+serioushippo677: checks 
+vitornune224: bets 756
+HyperPair4R1: raises 48437 to 49193 and is all-in
+risottino123: calls 9700 and is all-in
+serioushippo677: folds 
+vitornune224: calls 11609 and is all-in
+Uncalled bet (36828) returned to HyperPair4R1
+*** RIVER *** [7c Qs Kc 6c] [Ts]
+*** SHOW DOWN ***
+HyperPair4R1: shows [4c Tc] (a flush, King high)
+vitornune224: shows [8c 5c] (a flush, King high - lower cards)
+HyperPair4R1 collected 5037 from side pot
+risottino123: shows [3s Jc] (high card King)
+HyperPair4R1 collected 28255 from main pot
+*** SUMMARY ***
+Total pot 35230 Main pot 28255. Side pot 5037. | Rake 1938 
+Board [7c Qs Kc 6c Ts]
+Seat 1: serioushippo677 folded on the Turn
+Seat 3: mdk54 folded before Flop (didn't bet)
+Seat 4: vitornune224 (button) showed [8c 5c] and lost with a flush, King high
+Seat 5: HyperPair4R1 (small blind) showed [4c Tc] and won (33292) with a flush, King high
+Seat 6: risottino123 (big blind) showed [3s Jc] and lost with high card King
+
+
+
+PokerStars Hand #240332791308:  Hold'em No Limit (50/100) - 2022/12/08 12:51:10 CUST [2022/12/08 6:51:10 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #5 is the button
+Seat 1: serioushippo677 (11491 in chips) 
+Seat 3: mdk54 (5222 in chips) 
+Seat 5: HyperPair4R1 (70120 in chips) 
+serioushippo677: posts small blind 50
+mdk54: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [7s Kh]
+HyperPair4R1: calls 100
+serioushippo677: folds 
+mdk54: checks 
+*** FLOP *** [9h Jd 9s]
+mdk54: checks 
+HyperPair4R1: checks 
+*** TURN *** [9h Jd 9s] [Qh]
+mdk54: checks 
+HyperPair4R1: checks 
+*** RIVER *** [9h Jd 9s Qh] [2c]
+mdk54: checks 
+HyperPair4R1: checks 
+*** SHOW DOWN ***
+mdk54: shows [Ad 8s] (a pair of Nines)
+HyperPair4R1: shows [Qc 3s] (two pair, Queens and Nines)
+risottino123 is disconnected 
+HyperPair4R1 collected 236 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 14 
+Board [9h Jd 9s Qh 2c]
+Seat 1: serioushippo677 (small blind) folded before Flop
+Seat 3: mdk54 (big blind) showed [Ad 8s] and lost with a pair of Nines
+Seat 5: HyperPair4R1 (button) showed [Qc 3s] and won (236) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #240332795739:  Hold'em No Limit (50/100) - 2022/12/08 12:51:35 CUST [2022/12/08 6:51:35 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #1 is the button
+Seat 1: serioushippo677 (11441 in chips) 
+Seat 3: mdk54 (5122 in chips) 
+Seat 4: vitornune224 (10000 in chips) 
+Seat 5: HyperPair4R1 (70256 in chips) 
+mdk54: posts small blind 50
+vitornune224: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Js Qd]
+HyperPair4R1: calls 100
+serioushippo677: raises 200 to 300
+mdk54: calls 250
+vitornune224: folds 
+HyperPair4R1: calls 200
+*** FLOP *** [9s 4d 4h]
+mdk54: checks 
+HyperPair4R1: checks 
+serioushippo677: bets 945
+mdk54: folds 
+HyperPair4R1: folds 
+Uncalled bet (945) returned to serioushippo677
+serioushippo677 collected 945 from pot
+serioushippo677: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 55 
+Board [9s 4d 4h]
+Seat 1: serioushippo677 (button) collected (945)
+Seat 3: mdk54 (small blind) folded on the Flop
+Seat 4: vitornune224 (big blind) folded before Flop
+Seat 5: HyperPair4R1 folded on the Flop
+
+
+
+PokerStars Hand #240332803400:  Hold'em No Limit (50/100) - 2022/12/08 12:52:17 CUST [2022/12/08 6:52:17 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #3 is the button
+Seat 1: serioushippo677 (12086 in chips) 
+Seat 3: mdk54 (4822 in chips) 
+Seat 4: vitornune224 (9900 in chips) 
+Seat 5: HyperPair4R1 (69956 in chips) 
+vitornune224: posts small blind 50
+HyperPair4R1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jh 4c]
+serioushippo677: folds 
+mdk54: folds 
+vitornune224: raises 200 to 300
+HyperPair4R1: calls 200
+*** FLOP *** [Ah 7d Kh]
+vitornune224: bets 567
+HyperPair4R1: calls 567
+*** TURN *** [Ah 7d Kh] [5s]
+vitornune224: bets 1639
+HyperPair4R1: calls 1639
+*** RIVER *** [Ah 7d Kh 5s] [2s]
+vitornune224: bets 4736
+HyperPair4R1: folds 
+Uncalled bet (4736) returned to vitornune224
+vitornune224 collected 4736 from pot
+vitornune224: doesn't show hand 
+*** SUMMARY ***
+Total pot 5012 | Rake 276 
+Board [Ah 7d Kh 5s 2s]
+Seat 1: serioushippo677 folded before Flop (didn't bet)
+Seat 3: mdk54 (button) folded before Flop (didn't bet)
+Seat 4: vitornune224 (small blind) collected (4736)
+Seat 5: HyperPair4R1 (big blind) folded on the River
+
+
+
+PokerStars Hand #240332814344:  Hold'em No Limit (50/100) - 2022/12/08 12:53:18 CUST [2022/12/08 6:53:18 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #4 is the button
+Seat 1: serioushippo677 (12086 in chips) 
+Seat 3: mdk54 (4822 in chips) 
+Seat 4: vitornune224 (12130 in chips) 
+Seat 5: HyperPair4R1 (67450 in chips) 
+HyperPair4R1: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8h 9s]
+mdk54: folds 
+vitornune224: calls 100
+HyperPair4R1: raises 350 to 450
+serioushippo677: folds 
+vitornune224: calls 350
+*** FLOP *** [8d 7c 9c]
+HyperPair4R1: checks 
+vitornune224: checks 
+*** TURN *** [8d 7c 9c] [Kd]
+HyperPair4R1: checks 
+vitornune224: checks 
+*** RIVER *** [8d 7c 9c Kd] [Qh]
+HyperPair4R1: checks 
+vitornune224: checks 
+*** SHOW DOWN ***
+HyperPair4R1: shows [4d Ah] (high card Ace)
+vitornune224: mucks hand 
+HyperPair4R1 collected 945 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 55 
+Board [8d 7c 9c Kd Qh]
+Seat 1: serioushippo677 (big blind) folded before Flop
+Seat 3: mdk54 folded before Flop (didn't bet)
+Seat 4: vitornune224 (button) mucked [3d 6s]
+Seat 5: HyperPair4R1 (small blind) showed [4d Ah] and won (945) with high card Ace
+
+
+
+PokerStars Hand #240332820610:  Hold'em No Limit (50/100) - 2022/12/08 12:53:53 CUST [2022/12/08 6:53:53 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #5 is the button
+Seat 1: serioushippo677 (11986 in chips) 
+Seat 3: mdk54 (4822 in chips) 
+Seat 4: vitornune224 (11680 in chips) 
+Seat 5: HyperPair4R1 (67945 in chips) 
+serioushippo677: posts small blind 50
+mdk54: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4d 7c]
+vitornune224: calls 100
+HyperPair4R1: calls 100
+serioushippo677: folds 
+mdk54: checks 
+*** FLOP *** [5h 5d 3d]
+mdk54: checks 
+vitornune224: checks 
+HyperPair4R1: checks 
+*** TURN *** [5h 5d 3d] [Ah]
+mdk54: checks 
+vitornune224: checks 
+HyperPair4R1: folds 
+*** RIVER *** [5h 5d 3d Ah] [Ts]
+mdk54: checks 
+vitornune224: checks 
+*** SHOW DOWN ***
+mdk54: shows [8h 6d] (a pair of Fives)
+vitornune224: shows [Js 7s] (a pair of Fives - Ace+Jack kicker)
+vitornune224 collected 331 from pot
+gingermegg39 leaves the table
+*** SUMMARY ***
+Total pot 350 | Rake 19 
+Board [5h 5d 3d Ah Ts]
+Seat 1: serioushippo677 (small blind) folded before Flop
+Seat 3: mdk54 (big blind) showed [8h 6d] and lost with a pair of Fives
+Seat 4: vitornune224 showed [Js 7s] and won (331) with a pair of Fives
+Seat 5: HyperPair4R1 (button) folded on the Turn
+
+
+
+PokerStars Hand #240332829033:  Hold'em No Limit (50/100) - 2022/12/08 12:54:39 CUST [2022/12/08 6:54:39 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #1 is the button
+Seat 1: serioushippo677 (11936 in chips) 
+Seat 3: mdk54 (4722 in chips) 
+Seat 4: vitornune224 (11911 in chips) 
+Seat 5: HyperPair4R1 (67845 in chips) 
+mdk54: posts small blind 50
+vitornune224: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3h 9c]
+HyperPair4R1: calls 100
+serioushippo677: folds 
+mdk54: calls 50
+vitornune224: raises 300 to 400
+HyperPair4R1: calls 300
+mdk54: folds 
+*** FLOP *** [8h 2c Qc]
+mischi20057 joins the table at seat #2 
+vitornune224: bets 100
+HyperPair4R1: folds 
+Uncalled bet (100) returned to vitornune224
+vitornune224 collected 850 from pot
+vitornune224: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 50 
+Board [8h 2c Qc]
+Seat 1: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 3: mdk54 (small blind) folded before Flop
+Seat 4: vitornune224 (big blind) collected (850)
+Seat 5: HyperPair4R1 folded on the Flop
+
+
+
+PokerStars Hand #240332834260:  Hold'em No Limit (50/100) - 2022/12/08 12:55:08 CUST [2022/12/08 6:55:08 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #3 is the button
+Seat 1: serioushippo677 (11936 in chips) 
+Seat 2: mischi20057 (10000 in chips) 
+Seat 3: mdk54 (4622 in chips) 
+Seat 4: vitornune224 (12361 in chips) 
+Seat 5: HyperPair4R1 (67445 in chips) 
+vitornune224: posts small blind 50
+HyperPair4R1: posts big blind 100
+mischi20057: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [7c 9s]
+serioushippo677: folds 
+mischi20057: checks 
+mdk54: folds 
+vitornune224: raises 200 to 300
+HyperPair4R1: raises 15700 to 16000
+mischi20057: calls 9900 and is all-in
+vitornune224: folds 
+Uncalled bet (6000) returned to HyperPair4R1
+*** FLOP *** [Ah 4h 2h]
+*** TURN *** [Ah 4h 2h] [4d]
+*** RIVER *** [Ah 4h 2h 4d] [Js]
+*** SHOW DOWN ***
+HyperPair4R1: shows [Jd Ks] (two pair, Jacks and Fours)
+mischi20057: shows [As 5s] (two pair, Aces and Fours)
+mischi20057 collected 19183 from pot
+*** SUMMARY ***
+Total pot 20300 | Rake 1117 
+Board [Ah 4h 2h 4d Js]
+Seat 1: serioushippo677 folded before Flop (didn't bet)
+Seat 2: mischi20057 showed [As 5s] and won (19183) with two pair, Aces and Fours
+Seat 3: mdk54 (button) folded before Flop (didn't bet)
+Seat 4: vitornune224 (small blind) folded before Flop
+Seat 5: HyperPair4R1 (big blind) showed [Jd Ks] and lost with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #240332840988:  Hold'em No Limit (50/100) - 2022/12/08 12:55:51 CUST [2022/12/08 6:55:51 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #4 is the button
+Seat 1: serioushippo677 (11936 in chips) 
+Seat 2: mischi20057 (19183 in chips) 
+Seat 3: mdk54 (4622 in chips) 
+Seat 4: vitornune224 (12061 in chips) 
+Seat 5: HyperPair4R1 (57445 in chips) 
+HyperPair4R1: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8s Ks]
+mischi20057: calls 100
+mdk54: folds 
+vitornune224: folds 
+HyperPair4R1: calls 50
+serioushippo677: checks 
+*** FLOP *** [Qd 9h 8d]
+HyperPair4R1: checks 
+serioushippo677: bets 141
+mischi20057: raises 959 to 1100
+HyperPair4R1: calls 1100
+serioushippo677: folds 
+*** TURN *** [Qd 9h 8d] [2s]
+HyperPair4R1: checks 
+mischi20057: bets 2500
+HyperPair4R1: calls 2500
+*** RIVER *** [Qd 9h 8d 2s] [Ah]
+HyperPair4R1: checks 
+mischi20057: bets 7300
+HyperPair4R1: folds 
+Uncalled bet (7300) returned to mischi20057
+mischi20057 collected 7221 from pot
+risottino123 leaves the table
+mischi20057: doesn't show hand 
+*** SUMMARY ***
+Total pot 7641 | Rake 420 
+Board [Qd 9h 8d 2s Ah]
+Seat 1: serioushippo677 (big blind) folded on the Flop
+Seat 2: mischi20057 collected (7221)
+Seat 3: mdk54 folded before Flop (didn't bet)
+Seat 4: vitornune224 (button) folded before Flop (didn't bet)
+Seat 5: HyperPair4R1 (small blind) folded on the River
+
+
+
+PokerStars Hand #240332850164:  Hold'em No Limit (50/100) - 2022/12/08 12:56:48 CUST [2022/12/08 6:56:48 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #5 is the button
+Seat 1: serioushippo677 (11695 in chips) 
+Seat 2: mischi20057 (22704 in chips) 
+Seat 3: mdk54 (4622 in chips) 
+Seat 4: vitornune224 (12061 in chips) 
+Seat 5: HyperPair4R1 (53745 in chips) 
+serioushippo677: posts small blind 50
+mischi20057: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [9d 4c]
+WAYRANINA joins the table at seat #6 
+mdk54: raises 400 to 500
+vitornune224: folds 
+HyperPair4R1: raises 23100 to 23600
+serioushippo677: folds 
+mischi20057 has timed out
+mischi20057: folds 
+mdk54: calls 4122 and is all-in
+Uncalled bet (18978) returned to HyperPair4R1
+*** FLOP *** [Js 7c Ts]
+*** TURN *** [Js 7c Ts] [8d]
+*** RIVER *** [Js 7c Ts 8d] [Qc]
+*** SHOW DOWN ***
+mdk54: shows [Ad Jh] (a pair of Jacks)
+HyperPair4R1: shows [Jc 9s] (a straight, Eight to Queen)
+HyperPair4R1 collected 8877 from pot
+*** SUMMARY ***
+Total pot 9394 | Rake 517 
+Board [Js 7c Ts 8d Qc]
+Seat 1: serioushippo677 (small blind) folded before Flop
+Seat 2: mischi20057 (big blind) folded before Flop
+Seat 3: mdk54 showed [Ad Jh] and lost with a pair of Jacks
+Seat 4: vitornune224 folded before Flop (didn't bet)
+Seat 5: HyperPair4R1 (button) showed [Jc 9s] and won (8877) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #240332858904:  Hold'em No Limit (50/100) - 2022/12/08 12:57:42 CUST [2022/12/08 6:57:42 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #1 is the button
+Seat 1: serioushippo677 (11645 in chips) 
+Seat 2: mischi20057 (22604 in chips) 
+Seat 4: vitornune224 (12061 in chips) 
+Seat 5: HyperPair4R1 (58000 in chips) 
+Seat 6: WAYRANINA (5000 in chips) 
+mischi20057: posts small blind 50
+vitornune224: posts big blind 100
+WAYRANINA: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8s 6c]
+HyperPair4R1: calls 100
+WAYRANINA: raises 350 to 450
+serioushippo677: folds 
+mischi20057: calls 400
+mdk54 leaves the table
+davidmangaba joins the table at seat #3 
+vitornune224: folds 
+HyperPair4R1: calls 350
+*** FLOP *** [8d 8h 5s]
+mischi20057: checks 
+HyperPair4R1: checks 
+WAYRANINA: bets 700
+mischi20057: calls 700
+HyperPair4R1: folds 
+*** TURN *** [8d 8h 5s] [5h]
+mischi20057: checks 
+WAYRANINA: bets 2700
+mischi20057: calls 2700
+*** RIVER *** [8d 8h 5s 5h] [9c]
+mischi20057: checks 
+WAYRANINA: bets 1150 and is all-in
+mischi20057: calls 1150
+*** SHOW DOWN ***
+WAYRANINA: shows [Ac Ad] (two pair, Aces and Eights)
+mischi20057: shows [Qh 9h] (two pair, Nines and Eights)
+WAYRANINA collected 9970 from pot
+*** SUMMARY ***
+Total pot 10550 | Rake 580 
+Board [8d 8h 5s 5h 9c]
+Seat 1: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 2: mischi20057 (small blind) showed [Qh 9h] and lost with two pair, Nines and Eights
+Seat 4: vitornune224 (big blind) folded before Flop
+Seat 5: HyperPair4R1 folded on the Flop
+Seat 6: WAYRANINA showed [Ac Ad] and won (9970) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #240332874540:  Hold'em No Limit (50/100) - 2022/12/08 12:59:20 CUST [2022/12/08 6:59:20 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #2 is the button
+Seat 1: serioushippo677 (11645 in chips) 
+Seat 2: mischi20057 (17604 in chips) 
+Seat 4: vitornune224 (11961 in chips) 
+Seat 5: HyperPair4R1 (57550 in chips) 
+Seat 6: WAYRANINA (9970 in chips) 
+vitornune224: posts small blind 50
+HyperPair4R1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8h 3s]
+WAYRANINA: raises 250 to 350
+serioushippo677: folds 
+mischi20057: calls 350
+vitornune224: calls 300
+HyperPair4R1: calls 250
+*** FLOP *** [2h Ks Td]
+vitornune224: checks 
+HyperPair4R1: checks 
+WAYRANINA: bets 700
+mischi20057: calls 700
+vitornune224: folds 
+HyperPair4R1: folds 
+*** TURN *** [2h Ks Td] [Th]
+WAYRANINA: checks 
+mischi20057: checks 
+*** RIVER *** [2h Ks Td Th] [Tc]
+WAYRANINA: checks 
+mischi20057: bets 1400
+WAYRANINA: folds 
+Uncalled bet (1400) returned to mischi20057
+mischi20057 collected 2646 from pot
+mischi20057: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 154 
+Board [2h Ks Td Th Tc]
+Seat 1: serioushippo677 folded before Flop (didn't bet)
+Seat 2: mischi20057 (button) collected (2646)
+Seat 4: vitornune224 (small blind) folded on the Flop
+Seat 5: HyperPair4R1 (big blind) folded on the Flop
+Seat 6: WAYRANINA folded on the River
+
+
+
+PokerStars Hand #240332883767:  Hold'em No Limit (50/100) - 2022/12/08 13:00:18 CUST [2022/12/08 7:00:18 ET]
+Table 'Strobel III' 6-max (Play Money) Seat #4 is the button
+Seat 1: serioushippo677 (11645 in chips) 
+Seat 2: mischi20057 (19200 in chips) 
+Seat 3: davidmangaba (5000 in chips) 
+Seat 4: vitornune224 (11611 in chips) 
+Seat 5: HyperPair4R1 (57200 in chips) 
+Seat 6: WAYRANINA (8920 in chips) 
+HyperPair4R1: posts small blind 50
+WAYRANINA: posts big blind 100
+davidmangaba: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6c 5h]
+serioushippo677: folds 
+mischi20057: calls 100
+davidmangaba: checks 
+vitornune224: calls 100
+HyperPair4R1: calls 50
+WAYRANINA: raises 500 to 600
+mischi20057: folds 
+davidmangaba: calls 500
+vitornune224: calls 500
+HyperPair4R1: raises 10700 to 11300
+WAYRANINA: calls 8320 and is all-in
+davidmangaba: calls 4400 and is all-in
+vitornune224: raises 311 to 11611 and is all-in
+HyperPair4R1: calls 311
+*** FLOP *** [3h 5c 3c]
+*** TURN *** [3h 5c 3c] [2h]
+*** RIVER *** [3h 5c 3c 2h] [6d]
+*** SHOW DOWN ***
+HyperPair4R1: shows [7h Jh] (a pair of Threes)
+vitornune224: shows [Ac 9h] (a pair of Threes - Ace kicker)
+vitornune224 collected 5086 from side pot-2 
+WAYRANINA: shows [Ts Ks] (a pair of Threes - lower kicker)
+vitornune224 collected 11114 from side pot-1 
+davidmangaba: shows [9d Jc] (a pair of Threes - lower kicker)
+vitornune224 collected 18994 from main pot
+*** SUMMARY ***
+Total pot 37242 Main pot 18994. Side pot-1 11114. Side pot-2 5086. | Rake 2048 
+Board [3h 5c 3c 2h 6d]
+Seat 1: serioushippo677 folded before Flop (didn't bet)
+Seat 2: mischi20057 folded before Flop
+Seat 3: davidmangaba showed [9d Jc] and lost with a pair of Threes
+Seat 4: vitornune224 (button) showed [Ac 9h] and won (35194) with a pair of Threes
+Seat 5: HyperPair4R1 (small blind) showed [7h Jh] and lost with a pair of Threes
+Seat 6: WAYRANINA (big blind) showed [Ts Ks] and lost with a pair of Threes
+
+
+

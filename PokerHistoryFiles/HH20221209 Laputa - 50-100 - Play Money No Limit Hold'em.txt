@@ -1,0 +1,283 @@
+﻿PokerStars Hand #240356403676:  Hold'em No Limit (50/100) - 2022/12/09 17:03:40 CUST [2022/12/09 11:03:40 ET]
+Table 'Laputa' 6-max (Play Money) Seat #4 is the button
+Seat 1: Renata RDV (15737 in chips) 
+Seat 2: pico516 (35036 in chips) 
+Seat 3: Dr.Smokealot (14427 in chips) 
+Seat 4: hotti60 (10078 in chips) 
+Seat 5: AlterJuEgo (11585 in chips) 
+Seat 6: serioushippo677 (10000 in chips) 
+AlterJuEgo: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [5c Qc]
+Renata RDV: calls 100
+pico516: raises 1000 to 1100
+Dr.Smokealot: folds 
+hotti60: folds 
+AlterJuEgo: folds 
+serioushippo677: folds 
+Renata RDV: folds 
+Uncalled bet (1000) returned to pico516
+pico516 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: Renata RDV folded before Flop
+Seat 2: pico516 collected (350)
+Seat 3: Dr.Smokealot folded before Flop (didn't bet)
+Seat 4: hotti60 (button) folded before Flop (didn't bet)
+Seat 5: AlterJuEgo (small blind) folded before Flop
+Seat 6: serioushippo677 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240356410578:  Hold'em No Limit (50/100) - 2022/12/09 17:04:07 CUST [2022/12/09 11:04:07 ET]
+Table 'Laputa' 6-max (Play Money) Seat #6 is the button
+Seat 1: Renata RDV (15637 in chips) 
+Seat 2: pico516 (35286 in chips) 
+Seat 3: Dr.Smokealot (14427 in chips) 
+Seat 4: hotti60 (10078 in chips) 
+Seat 6: serioushippo677 (9900 in chips) 
+Renata RDV: posts small blind 50
+pico516: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jc 8c]
+Dr.Smokealot: folds 
+hotti60: calls 100
+serioushippo677: raises 200 to 300
+Renata RDV: folds 
+pico516: calls 200
+hotti60: calls 200
+*** FLOP *** [7s Qc Td]
+pico516: bets 100
+hotti60: folds 
+serioushippo677: calls 100
+*** TURN *** [7s Qc Td] [6h]
+pico516: bets 100
+serioushippo677: calls 100
+*** RIVER *** [7s Qc Td 6h] [8s]
+AlterJuEgo is disconnected 
+pico516: bets 1276
+serioushippo677: folds 
+Uncalled bet (1276) returned to pico516
+pico516 collected 1276 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 74 
+Board [7s Qc Td 6h 8s]
+Seat 1: Renata RDV (small blind) folded before Flop
+Seat 2: pico516 (big blind) collected (1276)
+Seat 3: Dr.Smokealot folded before Flop (didn't bet)
+Seat 4: hotti60 folded on the Flop
+Seat 6: serioushippo677 (button) folded on the River
+
+
+
+PokerStars Hand #240356423789:  Hold'em No Limit (50/100) - 2022/12/09 17:04:59 CUST [2022/12/09 11:04:59 ET]
+Table 'Laputa' 6-max (Play Money) Seat #1 is the button
+Seat 1: Renata RDV (15587 in chips) 
+Seat 2: pico516 (36062 in chips) 
+Seat 3: Dr.Smokealot (14427 in chips) 
+Seat 4: hotti60 (9778 in chips) 
+Seat 6: serioushippo677 (9400 in chips) 
+pico516: posts small blind 50
+Dr.Smokealot: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4s Ad]
+hotti60: calls 100
+serioushippo677: raises 100 to 200
+Renata RDV: calls 200
+pico516: calls 150
+Dr.Smokealot: calls 100
+hotti60: calls 100
+*** FLOP *** [As 9c Kd]
+pico516: checks 
+Dr.Smokealot: checks 
+hotti60: checks 
+serioushippo677: bets 472
+Renata RDV: calls 472
+pico516: folds 
+Dr.Smokealot: calls 472
+hotti60: folds 
+*** TURN *** [As 9c Kd] [3d]
+Dr.Smokealot: checks 
+serioushippo677: checks 
+Renata RDV: checks 
+*** RIVER *** [As 9c Kd 3d] [4h]
+Dr.Smokealot: bets 2283
+serioushippo677: calls 2283
+Renata RDV: folds 
+*** SHOW DOWN ***
+Dr.Smokealot: shows [2c Ac] (a pair of Aces)
+serioushippo677: shows [4s Ad] (two pair, Aces and Fours)
+serioushippo677 collected 6598 from pot
+*** SUMMARY ***
+Total pot 6982 | Rake 384 
+Board [As 9c Kd 3d 4h]
+Seat 1: Renata RDV (button) folded on the River
+Seat 2: pico516 (small blind) folded on the Flop
+Seat 3: Dr.Smokealot (big blind) showed [2c Ac] and lost with a pair of Aces
+Seat 4: hotti60 folded on the Flop
+Seat 6: serioushippo677 showed [4s Ad] and won (6598) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #240356439035:  Hold'em No Limit (50/100) - 2022/12/09 17:05:59 CUST [2022/12/09 11:05:59 ET]
+Table 'Laputa' 6-max (Play Money) Seat #2 is the button
+Seat 1: Renata RDV (14915 in chips) 
+Seat 2: pico516 (35862 in chips) 
+Seat 3: Dr.Smokealot (11472 in chips) 
+Seat 4: hotti60 (9578 in chips) 
+Seat 6: serioushippo677 (13043 in chips) 
+Dr.Smokealot: posts small blind 50
+hotti60: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qh Qs]
+serioushippo677: raises 200 to 300
+Renata RDV: folds 
+pico516: calls 300
+Dr.Smokealot: folds 
+hotti60: calls 200
+*** FLOP *** [9c 9d Ts]
+hotti60: checks 
+serioushippo677: bets 449
+pico516: calls 449
+hotti60: folds 
+*** TURN *** [9c 9d Ts] [3h]
+serioushippo677: checks 
+pico516: bets 1746
+serioushippo677: calls 1746
+*** RIVER *** [9c 9d Ts 3h] [Ks]
+serioushippo677: checks 
+pico516: bets 5046
+serioushippo677: calls 5046
+*** SHOW DOWN ***
+pico516: shows [Ad 9s] (three of a kind, Nines)
+serioushippo677: mucks hand 
+pico516 collected 14583 from pot
+*** SUMMARY ***
+Total pot 15432 | Rake 849 
+Board [9c 9d Ts 3h Ks]
+Seat 1: Renata RDV folded before Flop (didn't bet)
+Seat 2: pico516 (button) showed [Ad 9s] and won (14583) with three of a kind, Nines
+Seat 3: Dr.Smokealot (small blind) folded before Flop
+Seat 4: hotti60 (big blind) folded on the Flop
+Seat 6: serioushippo677 mucked [Qh Qs]
+
+
+
+PokerStars Hand #240356449666:  Hold'em No Limit (50/100) - 2022/12/09 17:06:40 CUST [2022/12/09 11:06:40 ET]
+Table 'Laputa' 6-max (Play Money) Seat #3 is the button
+Seat 1: Renata RDV (14915 in chips) 
+Seat 2: pico516 (42904 in chips) 
+Seat 3: Dr.Smokealot (11422 in chips) 
+Seat 4: hotti60 (9278 in chips) 
+Seat 6: serioushippo677 (5502 in chips) 
+hotti60: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ts Qc]
+Renata RDV: calls 100
+pico516: raises 350 to 450
+Dr.Smokealot: folds 
+hotti60: calls 400
+serioushippo677: folds 
+Renata RDV: calls 350
+*** FLOP *** [3d Js 9h]
+hotti60: checks 
+Renata RDV: checks 
+pico516: checks 
+*** TURN *** [3d Js 9h] [4c]
+hotti60: checks 
+Renata RDV: checks 
+pico516: bets 100
+hotti60: folds 
+Renata RDV: calls 100
+*** RIVER *** [3d Js 9h 4c] [2d]
+hotti60 leaves the table
+Renata RDV: checks 
+pico516: bets 779
+JoseLuísJorg joins the table at seat #4 
+Renata RDV: calls 779
+*** SHOW DOWN ***
+pico516: shows [8s Kc] (high card King)
+Renata RDV: shows [3c Qd] (a pair of Threes)
+Renata RDV collected 3032 from pot
+*** SUMMARY ***
+Total pot 3208 | Rake 176 
+Board [3d Js 9h 4c 2d]
+Seat 1: Renata RDV showed [3c Qd] and won (3032) with a pair of Threes
+Seat 2: pico516 showed [8s Kc] and lost with high card King
+Seat 3: Dr.Smokealot (button) folded before Flop (didn't bet)
+Seat 4: hotti60 (small blind) folded on the Turn
+Seat 6: serioushippo677 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240356464006:  Hold'em No Limit (50/100) - 2022/12/09 17:07:35 CUST [2022/12/09 11:07:35 ET]
+Table 'Laputa' 6-max (Play Money) Seat #6 is the button
+Seat 1: Renata RDV (16618 in chips) 
+Seat 2: pico516 (41575 in chips) 
+Seat 3: Dr.Smokealot (11422 in chips) 
+Seat 4: JoseLuísJorg (10000 in chips) 
+Seat 6: serioushippo677 (5402 in chips) 
+Renata RDV: posts small blind 50
+pico516: posts big blind 100
+JoseLuísJorg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qd 8c]
+Dr.Smokealot: folds 
+JoseLuísJorg: raises 9900 to 10000 and is all-in
+serioushippo677: folds 
+Renata RDV: folds 
+pico516: folds 
+Uncalled bet (9900) returned to JoseLuísJorg
+JoseLuísJorg collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Renata RDV (small blind) folded before Flop
+Seat 2: pico516 (big blind) folded before Flop
+Seat 3: Dr.Smokealot folded before Flop (didn't bet)
+Seat 4: JoseLuísJorg collected (250)
+Seat 6: serioushippo677 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240356470122:  Hold'em No Limit (50/100) - 2022/12/09 17:07:58 CUST [2022/12/09 11:07:58 ET]
+Table 'Laputa' 6-max (Play Money) Seat #1 is the button
+Seat 1: Renata RDV (16568 in chips) 
+Seat 2: pico516 (41475 in chips) 
+Seat 3: Dr.Smokealot (11422 in chips) 
+Seat 4: JoseLuísJorg (10150 in chips) 
+Seat 6: serioushippo677 (5402 in chips) 
+pico516: posts small blind 50
+Dr.Smokealot: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qc 5s]
+JoseLuísJorg: calls 100
+serioushippo677: folds 
+Renata RDV: calls 100
+pico516: calls 50
+Dr.Smokealot: checks 
+*** FLOP *** [3d 2h Th]
+pico516: bets 100
+Dr.Smokealot: folds 
+JoseLuísJorg: raises 9950 to 10050 and is all-in
+Renata RDV: calls 10050
+pico516: folds 
+*** TURN *** [3d 2h Th] [Ah]
+*** RIVER *** [3d 2h Th Ah] [2s]
+*** SHOW DOWN ***
+JoseLuísJorg: shows [6h Td] (two pair, Tens and Deuces)
+Renata RDV: shows [7s Tc] (two pair, Tens and Deuces)
+JoseLuísJorg collected 9734 from pot
+Renata RDV collected 9733 from pot
+*** SUMMARY ***
+Total pot 20600 | Rake 1133 
+Board [3d 2h Th Ah 2s]
+Seat 1: Renata RDV (button) showed [7s Tc] and won (9733) with two pair, Tens and Deuces
+Seat 2: pico516 (small blind) folded on the Flop
+Seat 3: Dr.Smokealot (big blind) folded on the Flop
+Seat 4: JoseLuísJorg showed [6h Td] and won (9734) with two pair, Tens and Deuces
+Seat 6: serioushippo677 folded before Flop (didn't bet)
+
+
+

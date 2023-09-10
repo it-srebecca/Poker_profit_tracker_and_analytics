@@ -1,0 +1,863 @@
+﻿PokerStars Hand #240364759367:  Hold'em No Limit (50/100) - 2022/12/10 0:15:47 CUST [2022/12/09 18:15:47 ET]
+Table 'Guisan' 6-max (Play Money) Seat #6 is the button
+Seat 1: Mellix_8 (8772 in chips) 
+Seat 2: serioushippo677 (10000 in chips) 
+Seat 3: 2bg2chu (39292 in chips) 
+Seat 4: maadbrewer (9850 in chips) 
+Seat 5: jax1002 (12158 in chips) 
+Seat 6: tochita917 (10081 in chips) 
+Mellix_8: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [7s Jh]
+2bg2chu: folds 
+maadbrewer: folds 
+jax1002: folds 
+tochita917: calls 100
+Mellix_8: folds 
+serioushippo677: checks 
+*** FLOP *** [6d As 9s]
+serioushippo677: checks 
+tochita917: checks 
+*** TURN *** [6d As 9s] [7c]
+serioushippo677: bets 118
+tochita917: raises 118 to 236
+serioushippo677: calls 118
+*** RIVER *** [6d As 9s 7c] [5d]
+serioushippo677: checks 
+tochita917: checks 
+*** SHOW DOWN ***
+serioushippo677: shows [7s Jh] (a pair of Sevens)
+tochita917: mucks hand 
+serioushippo677 collected 682 from pot
+*** SUMMARY ***
+Total pot 722 | Rake 40 
+Board [6d As 9s 7c 5d]
+Seat 1: Mellix_8 (small blind) folded before Flop
+Seat 2: serioushippo677 (big blind) showed [7s Jh] and won (682) with a pair of Sevens
+Seat 3: 2bg2chu folded before Flop (didn't bet)
+Seat 4: maadbrewer folded before Flop (didn't bet)
+Seat 5: jax1002 folded before Flop (didn't bet)
+Seat 6: tochita917 (button) mucked [Tc 7d]
+
+
+
+PokerStars Hand #240364772120:  Hold'em No Limit (50/100) - 2022/12/10 0:16:26 CUST [2022/12/09 18:16:26 ET]
+Table 'Guisan' 6-max (Play Money) Seat #1 is the button
+Seat 1: Mellix_8 (8722 in chips) 
+Seat 2: serioushippo677 (10346 in chips) 
+Seat 3: 2bg2chu (39292 in chips) 
+Seat 4: maadbrewer (9850 in chips) 
+Seat 5: jax1002 (12158 in chips) 
+serioushippo677: posts small blind 50
+2bg2chu: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ks 2c]
+maadbrewer: calls 100
+jax1002: folds 
+Mellix_8: calls 100
+serioushippo677: raises 100 to 200
+2bg2chu: calls 100
+maadbrewer: calls 100
+Mellix_8: calls 100
+*** FLOP *** [Qs Th Kc]
+serioushippo677: checks 
+2bg2chu: checks 
+maadbrewer: bets 400
+Mellix_8: folds 
+serioushippo677: raises 400 to 800
+2bg2chu: calls 800
+maadbrewer: calls 400
+*** TURN *** [Qs Th Kc] [Ac]
+serioushippo677: checks 
+2bg2chu: checks 
+maadbrewer: bets 3024
+serioushippo677: folds 
+2bg2chu: raises 3024 to 6048
+maadbrewer: calls 3024
+*** RIVER *** [Qs Th Kc Ac] [6h]
+2bg2chu: bets 100
+maadbrewer: raises 2702 to 2802 and is all-in
+2bg2chu: calls 2702
+*** SHOW DOWN ***
+maadbrewer: shows [7d Td] (a pair of Tens)
+2bg2chu: shows [Jd Js] (a straight, Ten to Ace)
+2bg2chu collected 19750 from pot
+*** SUMMARY ***
+Total pot 20900 | Rake 1150 
+Board [Qs Th Kc Ac 6h]
+Seat 1: Mellix_8 (button) folded on the Flop
+Seat 2: serioushippo677 (small blind) folded on the Turn
+Seat 3: 2bg2chu (big blind) showed [Jd Js] and won (19750) with a straight, Ten to Ace
+Seat 4: maadbrewer showed [7d Td] and lost with a pair of Tens
+Seat 5: jax1002 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240364802724:  Hold'em No Limit (50/100) - 2022/12/10 0:17:59 CUST [2022/12/09 18:17:59 ET]
+Table 'Guisan' 6-max (Play Money) Seat #2 is the button
+Seat 1: Mellix_8 (8522 in chips) 
+Seat 2: serioushippo677 (9346 in chips) 
+Seat 3: 2bg2chu (49192 in chips) 
+Seat 5: jax1002 (12158 in chips) 
+2bg2chu: posts small blind 50
+jax1002: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [9h 3s]
+Mellix_8: calls 100
+serioushippo677: folds 
+2bg2chu: calls 50
+jax1002: checks 
+*** FLOP *** [Ad 5h 9c]
+2bg2chu: checks 
+jax1002: checks 
+Mellix_8: checks 
+*** TURN *** [Ad 5h 9c] [Ks]
+2bg2chu: checks 
+jax1002: checks 
+Mellix_8: checks 
+*** RIVER *** [Ad 5h 9c Ks] [6c]
+2bg2chu: bets 100
+jax1002: folds 
+Mellix_8: folds 
+Uncalled bet (100) returned to 2bg2chu
+2bg2chu collected 283 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 17 
+Board [Ad 5h 9c Ks 6c]
+Seat 1: Mellix_8 folded on the River
+Seat 2: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 3: 2bg2chu (small blind) collected (283)
+Seat 5: jax1002 (big blind) folded on the River
+
+
+
+PokerStars Hand #240364813799:  Hold'em No Limit (50/100) - 2022/12/10 0:18:32 CUST [2022/12/09 18:18:32 ET]
+Table 'Guisan' 6-max (Play Money) Seat #3 is the button
+Seat 1: Mellix_8 (8422 in chips) 
+Seat 2: serioushippo677 (9346 in chips) 
+Seat 3: 2bg2chu (49375 in chips) 
+Seat 5: jax1002 (12058 in chips) 
+jax1002: posts small blind 50
+Mellix_8: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6s 5d]
+serioushippo677: folds 
+2bg2chu: calls 100
+jax1002: folds 
+Mellix_8: checks 
+*** FLOP *** [9c Ks 9h]
+Mellix_8: checks 
+2bg2chu: bets 100
+Mellix_8: folds 
+Uncalled bet (100) returned to 2bg2chu
+2bg2chu collected 236 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 14 
+Board [9c Ks 9h]
+Seat 1: Mellix_8 (big blind) folded on the Flop
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 3: 2bg2chu (button) collected (236)
+Seat 5: jax1002 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240364820654:  Hold'em No Limit (50/100) - 2022/12/10 0:18:53 CUST [2022/12/09 18:18:53 ET]
+Table 'Guisan' 6-max (Play Money) Seat #5 is the button
+Seat 1: Mellix_8 (8322 in chips) 
+Seat 2: serioushippo677 (9346 in chips) 
+Seat 3: 2bg2chu (49511 in chips) 
+Seat 4: maadbrewer (10000 in chips) 
+Seat 5: jax1002 (12008 in chips) 
+Mellix_8: posts small blind 50
+serioushippo677: posts big blind 100
+maadbrewer: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4d 4h]
+2bg2chu: folds 
+maadbrewer: checks 
+jax1002: folds 
+Mellix_8: calls 50
+serioushippo677: checks 
+*** FLOP *** [Th 3s 8h]
+Mellix_8: checks 
+serioushippo677: checks 
+maadbrewer: checks 
+*** TURN *** [Th 3s 8h] [Kd]
+Mellix_8: checks 
+serioushippo677: checks 
+maadbrewer: checks 
+*** RIVER *** [Th 3s 8h Kd] [7s]
+Mellix_8: bets 500
+serioushippo677: calls 500
+maadbrewer: folds 
+*** SHOW DOWN ***
+Mellix_8: shows [7d 7h] (three of a kind, Sevens)
+serioushippo677: mucks hand 
+Mellix_8 collected 1276 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 74 
+Board [Th 3s 8h Kd 7s]
+Seat 1: Mellix_8 (small blind) showed [7d 7h] and won (1276) with three of a kind, Sevens
+Seat 2: serioushippo677 (big blind) mucked [4d 4h]
+Seat 3: 2bg2chu folded before Flop (didn't bet)
+Seat 4: maadbrewer folded on the River (didn't bet)
+Seat 5: jax1002 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240364839774:  Hold'em No Limit (50/100) - 2022/12/10 0:19:51 CUST [2022/12/09 18:19:51 ET]
+Table 'Guisan' 6-max (Play Money) Seat #1 is the button
+Seat 1: Mellix_8 (8998 in chips) 
+Seat 2: serioushippo677 (8746 in chips) 
+Seat 3: 2bg2chu (49511 in chips) 
+Seat 4: maadbrewer (9850 in chips) 
+Seat 5: jax1002 (12008 in chips) 
+Seat 6: tochita917 (9745 in chips) 
+serioushippo677: posts small blind 50
+2bg2chu: posts big blind 100
+tochita917: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4c 7c]
+maadbrewer: calls 100
+jax1002: folds 
+tochita917: checks 
+Mellix_8: calls 100
+serioushippo677: folds 
+2bg2chu: checks 
+*** FLOP *** [9c 6h 5h]
+2bg2chu: checks 
+maadbrewer: checks 
+tochita917: checks 
+Mellix_8: checks 
+*** TURN *** [9c 6h 5h] [Ah]
+2bg2chu: checks 
+maadbrewer: checks 
+tochita917: bets 236
+Mellix_8: calls 236
+2bg2chu: folds 
+maadbrewer: raises 236 to 472
+tochita917: calls 236
+Mellix_8: calls 236
+*** RIVER *** [9c 6h 5h Ah] [6d]
+maadbrewer: bets 1811
+tochita917: folds 
+Mellix_8: calls 1811
+*** SHOW DOWN ***
+maadbrewer: shows [Qh 2h] (a flush, Ace high)
+Mellix_8: shows [6s 8d] (three of a kind, Sixes)
+maadbrewer collected 5233 from pot
+*** SUMMARY ***
+Total pot 5538 | Rake 305 
+Board [9c 6h 5h Ah 6d]
+Seat 1: Mellix_8 (button) showed [6s 8d] and lost with three of a kind, Sixes
+Seat 2: serioushippo677 (small blind) folded before Flop
+Seat 3: 2bg2chu (big blind) folded on the Turn
+Seat 4: maadbrewer showed [Qh 2h] and won (5233) with a flush, Ace high
+Seat 5: jax1002 folded before Flop (didn't bet)
+Seat 6: tochita917 folded on the River
+
+
+
+PokerStars Hand #240364861145:  Hold'em No Limit (50/100) - 2022/12/10 0:20:56 CUST [2022/12/09 18:20:56 ET]
+Table 'Guisan' 6-max (Play Money) Seat #2 is the button
+Seat 1: Mellix_8 (6615 in chips) 
+Seat 2: serioushippo677 (8696 in chips) 
+Seat 3: 2bg2chu (49411 in chips) 
+Seat 4: maadbrewer (12700 in chips) 
+Seat 5: jax1002 (12008 in chips) 
+Seat 6: tochita917 (9123 in chips) 
+2bg2chu: posts small blind 50
+maadbrewer: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4h 2s]
+jax1002: calls 100
+tochita917: calls 100
+Mellix_8: calls 100
+serioushippo677: folds 
+2bg2chu: calls 50
+maadbrewer: raises 100 to 200
+jax1002: calls 100
+tochita917: calls 100
+Mellix_8: calls 100
+2bg2chu: calls 100
+*** FLOP *** [3h Ah 8s]
+2bg2chu: checks 
+maadbrewer: checks 
+jax1002: checks 
+tochita917: checks 
+Mellix_8: checks 
+*** TURN *** [3h Ah 8s] [2h]
+2bg2chu: checks 
+maadbrewer: checks 
+jax1002: bets 500
+tochita917: folds 
+Mellix_8: folds 
+2bg2chu: folds 
+maadbrewer: folds 
+Uncalled bet (500) returned to jax1002
+jax1002 collected 945 from pot
+jax1002: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 55 
+Board [3h Ah 8s 2h]
+Seat 1: Mellix_8 folded on the Turn
+Seat 2: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 3: 2bg2chu (small blind) folded on the Turn
+Seat 4: maadbrewer (big blind) folded on the Turn
+Seat 5: jax1002 collected (945)
+Seat 6: tochita917 folded on the Turn
+
+
+
+PokerStars Hand #240364887094:  Hold'em No Limit (50/100) - 2022/12/10 0:22:17 CUST [2022/12/09 18:22:17 ET]
+Table 'Guisan' 6-max (Play Money) Seat #3 is the button
+Seat 1: Mellix_8 (6415 in chips) 
+Seat 2: serioushippo677 (8696 in chips) 
+Seat 3: 2bg2chu (49211 in chips) 
+Seat 4: maadbrewer (12500 in chips) 
+Seat 5: jax1002 (12753 in chips) 
+Seat 6: tochita917 (8923 in chips) 
+maadbrewer: posts small blind 50
+jax1002: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kh 2c]
+tochita917: calls 100
+Mellix_8: calls 100
+serioushippo677: folds 
+2bg2chu: calls 100
+maadbrewer: calls 50
+jax1002: checks 
+*** FLOP *** [Kc 5h 5s]
+maadbrewer: checks 
+jax1002: checks 
+tochita917: bets 472
+Mellix_8: folds 
+2bg2chu: folds 
+maadbrewer: folds 
+jax1002: folds 
+Uncalled bet (472) returned to tochita917
+tochita917 collected 472 from pot
+tochita917: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [Kc 5h 5s]
+Seat 1: Mellix_8 folded on the Flop
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 3: 2bg2chu (button) folded on the Flop
+Seat 4: maadbrewer (small blind) folded on the Flop
+Seat 5: jax1002 (big blind) folded on the Flop
+Seat 6: tochita917 collected (472)
+
+
+
+PokerStars Hand #240364904310:  Hold'em No Limit (50/100) - 2022/12/10 0:23:11 CUST [2022/12/09 18:23:11 ET]
+Table 'Guisan' 6-max (Play Money) Seat #4 is the button
+Seat 1: Mellix_8 (6315 in chips) 
+Seat 2: serioushippo677 (8696 in chips) 
+Seat 3: 2bg2chu (49111 in chips) 
+Seat 4: maadbrewer (12400 in chips) 
+Seat 5: jax1002 (12653 in chips) 
+Seat 6: tochita917 (9295 in chips) 
+jax1002: posts small blind 50
+tochita917: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qd Ks]
+Mellix_8: calls 100
+serioushippo677: raises 200 to 300
+2bg2chu: folds 
+maadbrewer has timed out
+maadbrewer: folds 
+jax1002: folds 
+tochita917: calls 200
+Mellix_8: calls 200
+*** FLOP *** [Jd 5h Td]
+tochita917: bets 100
+Mellix_8: calls 100
+serioushippo677: raises 599 to 699
+tochita917: raises 599 to 1298
+Mellix_8: calls 1198
+serioushippo677: calls 599
+*** TURN *** [Jd 5h Td] [6c]
+tochita917: checks 
+Mellix_8: checks 
+serioushippo677: checks 
+*** RIVER *** [Jd 5h Td 6c] [Tc]
+tochita917: checks 
+Mellix_8: checks 
+serioushippo677: checks 
+*** SHOW DOWN ***
+tochita917: shows [Js Jc] (a full house, Jacks full of Tens)
+Mellix_8: mucks hand 
+serioushippo677: mucks hand 
+tochita917 collected 4578 from pot
+*** SUMMARY ***
+Total pot 4844 | Rake 266 
+Board [Jd 5h Td 6c Tc]
+Seat 1: Mellix_8 mucked [Qs Kd]
+Seat 2: serioushippo677 mucked [Qd Ks]
+Seat 3: 2bg2chu folded before Flop (didn't bet)
+Seat 4: maadbrewer (button) folded before Flop (didn't bet)
+Seat 5: jax1002 (small blind) folded before Flop
+Seat 6: tochita917 (big blind) showed [Js Jc] and won (4578) with a full house, Jacks full of Tens
+
+
+
+PokerStars Hand #240364927617:  Hold'em No Limit (50/100) - 2022/12/10 0:24:24 CUST [2022/12/09 18:24:24 ET]
+Table 'Guisan' 6-max (Play Money) Seat #5 is the button
+Seat 1: Mellix_8 (4717 in chips) 
+Seat 2: serioushippo677 (7098 in chips) 
+Seat 3: 2bg2chu (49111 in chips) 
+Seat 4: maadbrewer (12400 in chips) 
+Seat 5: jax1002 (12603 in chips) 
+Seat 6: tochita917 (12275 in chips) 
+tochita917: posts small blind 50
+Mellix_8: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kc Th]
+serioushippo677: folds 
+2bg2chu: folds 
+maadbrewer: folds 
+jax1002: calls 100
+tochita917: calls 50
+Mellix_8: checks 
+*** FLOP *** [5c 3c 4d]
+tochita917: checks 
+Mellix_8: checks 
+maadbrewer leaves the table
+jax1002: checks 
+*** TURN *** [5c 3c 4d] [5h]
+tochita917: checks 
+Mellix_8: checks 
+jax1002: bets 100
+tochita917: calls 100
+Mellix_8: calls 100
+*** RIVER *** [5c 3c 4d 5h] [Ks]
+tochita917: checks 
+Mellix_8: checks 
+jax1002: bets 300
+tochita917: folds 
+Mellix_8: folds 
+Uncalled bet (300) returned to jax1002
+jax1002 collected 567 from pot
+jax1002: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 33 
+Board [5c 3c 4d 5h Ks]
+Seat 1: Mellix_8 (big blind) folded on the River
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 3: 2bg2chu folded before Flop (didn't bet)
+Seat 4: maadbrewer folded before Flop (didn't bet)
+Seat 5: jax1002 (button) collected (567)
+Seat 6: tochita917 (small blind) folded on the River
+
+
+
+PokerStars Hand #240364944323:  Hold'em No Limit (50/100) - 2022/12/10 0:25:17 CUST [2022/12/09 18:25:17 ET]
+Table 'Guisan' 6-max (Play Money) Seat #6 is the button
+Seat 1: Mellix_8 (4517 in chips) 
+Seat 2: serioushippo677 (7098 in chips) 
+Seat 3: 2bg2chu (49111 in chips) 
+Seat 5: jax1002 (12970 in chips) 
+Seat 6: tochita917 (12075 in chips) 
+Mellix_8: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6s Ac]
+2bg2chu: calls 100
+jax1002: folds 
+tochita917: calls 100
+Mellix_8: folds 
+serioushippo677: checks 
+*** FLOP *** [7c 9s Qs]
+serioushippo677: checks 
+2bg2chu: bets 100
+tochita917: raises 100 to 200
+serioushippo677: folds 
+Adam Ward 13 joins the table at seat #4 
+2bg2chu: calls 100
+*** TURN *** [7c 9s Qs] [Ad]
+2bg2chu: checks 
+tochita917: checks 
+*** RIVER *** [7c 9s Qs Ad] [4d]
+2bg2chu: checks 
+tochita917: checks 
+*** SHOW DOWN ***
+2bg2chu: shows [9c Ks] (a pair of Nines)
+tochita917: shows [3c As] (a pair of Aces)
+tochita917 collected 709 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 41 
+Board [7c 9s Qs Ad 4d]
+Seat 1: Mellix_8 (small blind) folded before Flop
+Seat 2: serioushippo677 (big blind) folded on the Flop
+Seat 3: 2bg2chu showed [9c Ks] and lost with a pair of Nines
+Seat 5: jax1002 folded before Flop (didn't bet)
+Seat 6: tochita917 (button) showed [3c As] and won (709) with a pair of Aces
+
+
+
+PokerStars Hand #240364955709:  Hold'em No Limit (50/100) - 2022/12/10 0:25:52 CUST [2022/12/09 18:25:52 ET]
+Table 'Guisan' 6-max (Play Money) Seat #1 is the button
+Seat 1: Mellix_8 (4467 in chips) 
+Seat 2: serioushippo677 (6998 in chips) 
+Seat 3: 2bg2chu (48811 in chips) 
+Seat 4: Adam Ward 13 (10000 in chips) 
+Seat 5: jax1002 (12970 in chips) 
+serioushippo677: posts small blind 50
+2bg2chu: posts big blind 100
+Adam Ward 13: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4h 8s]
+Adam Ward 13: checks 
+jax1002: folds 
+Mellix_8: calls 100
+serioushippo677: folds 
+2bg2chu: checks 
+*** FLOP *** [Ad 6h 2h]
+2bg2chu: checks 
+Adam Ward 13: checks 
+Mellix_8: checks 
+*** TURN *** [Ad 6h 2h] [Qh]
+2bg2chu: checks 
+Adam Ward 13: checks 
+Mellix_8: checks 
+*** RIVER *** [Ad 6h 2h Qh] [9d]
+2bg2chu: checks 
+Adam Ward 13: checks 
+Mellix_8: checks 
+*** SHOW DOWN ***
+2bg2chu: shows [3c 8d] (high card Ace)
+Adam Ward 13: shows [Kd 7d] (high card Ace - King kicker)
+Mellix_8: shows [6s 5d] (a pair of Sixes)
+Mellix_8 collected 331 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 19 
+Board [Ad 6h 2h Qh 9d]
+Seat 1: Mellix_8 (button) showed [6s 5d] and won (331) with a pair of Sixes
+Seat 2: serioushippo677 (small blind) folded before Flop
+Seat 3: 2bg2chu (big blind) showed [3c 8d] and lost with high card Ace
+Seat 4: Adam Ward 13 showed [Kd 7d] and lost with high card Ace
+Seat 5: jax1002 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240364975499:  Hold'em No Limit (50/100) - 2022/12/10 0:26:55 CUST [2022/12/09 18:26:55 ET]
+Table 'Guisan' 6-max (Play Money) Seat #2 is the button
+Seat 1: Mellix_8 (4698 in chips) 
+Seat 2: serioushippo677 (6948 in chips) 
+Seat 3: 2bg2chu (48711 in chips) 
+Seat 4: Adam Ward 13 (9900 in chips) 
+Seat 5: jax1002 (12970 in chips) 
+2bg2chu: posts small blind 50
+Adam Ward 13: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kc 5c]
+jax1002: calls 100
+Mellix_8: calls 100
+serioushippo677: calls 100
+2bg2chu: calls 50
+Adam Ward 13: raises 300 to 400
+jax1002: folds 
+Mellix_8: calls 300
+serioushippo677: calls 300
+2bg2chu: calls 300
+*** FLOP *** [8h Td Qh]
+2bg2chu: checks 
+Adam Ward 13: bets 400
+Mellix_8: calls 400
+serioushippo677: folds 
+2bg2chu: calls 400
+*** TURN *** [8h Td Qh] [5s]
+2bg2chu: bets 2740
+Adam Ward 13: calls 2740
+Mellix_8: calls 2740
+*** RIVER *** [8h Td Qh 5s] [Kd]
+2bg2chu: bets 5254
+Adam Ward 13: raises 1106 to 6360 and is all-in
+Mellix_8: calls 1158 and is all-in
+2bg2chu: calls 1106
+*** SHOW DOWN ***
+Adam Ward 13: shows [Jh Ac] (a straight, Ten to Ace)
+2bg2chu: shows [Jc Qs] (a pair of Queens)
+Adam Ward 13 collected 9832 from side pot
+Mellix_8: shows [Kh Ah] (a pair of Kings)
+Adam Ward 13 collected 13791 from main pot
+*** SUMMARY ***
+Total pot 24998 Main pot 13791. Side pot 9832. | Rake 1375 
+Board [8h Td Qh 5s Kd]
+Seat 1: Mellix_8 showed [Kh Ah] and lost with a pair of Kings
+Seat 2: serioushippo677 (button) folded on the Flop
+Seat 3: 2bg2chu (small blind) showed [Jc Qs] and lost with a pair of Queens
+Seat 4: Adam Ward 13 (big blind) showed [Jh Ac] and won (23623) with a straight, Ten to Ace
+Seat 5: jax1002 folded before Flop
+
+
+
+PokerStars Hand #240364998694:  Hold'em No Limit (50/100) - 2022/12/10 0:28:08 CUST [2022/12/09 18:28:08 ET]
+Table 'Guisan' 6-max (Play Money) Seat #3 is the button
+Seat 2: serioushippo677 (6548 in chips) 
+Seat 3: 2bg2chu (38811 in chips) 
+Seat 4: Adam Ward 13 (23623 in chips) 
+Seat 5: jax1002 (12870 in chips) 
+Seat 6: tochita917 (12484 in chips) 
+Adam Ward 13: posts small blind 50
+jax1002: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8s Ah]
+tochita917: calls 100
+serioushippo677: raises 100 to 200
+2bg2chu: calls 200
+Adam Ward 13: calls 150
+jax1002: calls 100
+tochita917: calls 100
+*** FLOP *** [7h 8c Ts]
+Adam Ward 13: bets 400
+jax1002: folds 
+tochita917: calls 400
+serioushippo677: raises 400 to 800
+2bg2chu: folds 
+Adam Ward 13: calls 400
+tochita917: calls 400
+*** TURN *** [7h 8c Ts] [9s]
+Adam Ward 13: checks 
+tochita917: bets 100
+serioushippo677: raises 1706 to 1806
+Adam Ward 13: calls 1806
+tochita917: folds 
+*** RIVER *** [7h 8c Ts 9s] [5c]
+Adam Ward 13: checks 
+serioushippo677: checks 
+*** SHOW DOWN ***
+Adam Ward 13: shows [Td 9d] (two pair, Tens and Nines)
+serioushippo677: mucks hand 
+Adam Ward 13 collected 6721 from pot
+*** SUMMARY ***
+Total pot 7112 | Rake 391 
+Board [7h 8c Ts 9s 5c]
+Seat 2: serioushippo677 mucked [8s Ah]
+Seat 3: 2bg2chu (button) folded on the Flop
+Seat 4: Adam Ward 13 (small blind) showed [Td 9d] and won (6721) with two pair, Tens and Nines
+Seat 5: jax1002 (big blind) folded on the Flop
+Seat 6: tochita917 folded on the Turn
+
+
+
+PokerStars Hand #240365018986:  Hold'em No Limit (50/100) - 2022/12/10 0:29:12 CUST [2022/12/09 18:29:12 ET]
+Table 'Guisan' 6-max (Play Money) Seat #4 is the button
+Seat 1: Mellix_8 (10000 in chips) 
+Seat 2: serioushippo677 (3742 in chips) 
+Seat 3: 2bg2chu (38611 in chips) 
+Seat 4: Adam Ward 13 (27538 in chips) 
+Seat 5: jax1002 (12670 in chips) 
+jax1002: posts small blind 50
+Mellix_8: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [9c Jd]
+serioushippo677: folds 
+2bg2chu: folds 
+Adam Ward 13: calls 100
+jax1002: calls 50
+Mellix_8: checks 
+*** FLOP *** [Kh Ad 4h]
+jax1002: checks 
+Mellix_8: checks 
+Adam Ward 13: checks 
+*** TURN *** [Kh Ad 4h] [7s]
+jax1002: checks 
+Mellix_8: checks 
+Adam Ward 13: checks 
+*** RIVER *** [Kh Ad 4h 7s] [Ah]
+jax1002: checks 
+Mellix_8: checks 
+Adam Ward 13: checks 
+*** SHOW DOWN ***
+jax1002: shows [Qh 2c] (a pair of Aces)
+Mellix_8: mucks hand 
+Adam Ward 13: shows [8d Qd] (a pair of Aces - King+Queen+Eight kicker)
+Adam Ward 13 collected 283 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 17 
+Board [Kh Ad 4h 7s Ah]
+Seat 1: Mellix_8 (big blind) mucked [6s Th]
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 3: 2bg2chu folded before Flop (didn't bet)
+Seat 4: Adam Ward 13 (button) showed [8d Qd] and won (283) with a pair of Aces
+Seat 5: jax1002 (small blind) showed [Qh 2c] and lost with a pair of Aces
+
+
+
+PokerStars Hand #240365032837:  Hold'em No Limit (50/100) - 2022/12/10 0:29:57 CUST [2022/12/09 18:29:57 ET]
+Table 'Guisan' 6-max (Play Money) Seat #5 is the button
+Seat 1: Mellix_8 (9900 in chips) 
+Seat 2: serioushippo677 (3742 in chips) 
+Seat 3: 2bg2chu (38611 in chips) 
+Seat 4: Adam Ward 13 (27721 in chips) 
+Seat 5: jax1002 (12570 in chips) 
+Mellix_8: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Td As]
+2bg2chu: folds 
+Adam Ward 13: raises 200 to 300
+jax1002: folds 
+Mellix_8: calls 250
+serioushippo677: calls 200
+*** FLOP *** [Jc Kc Th]
+Mellix_8: checks 
+serioushippo677: checks 
+Adam Ward 13: bets 400
+Mellix_8: folds 
+serioushippo677: calls 400
+*** TURN *** [Jc Kc Th] [4c]
+serioushippo677: checks 
+Adam Ward 13: checks 
+*** RIVER *** [Jc Kc Th 4c] [7s]
+serioushippo677: checks 
+Adam Ward 13: checks 
+*** SHOW DOWN ***
+serioushippo677: shows [Td As] (a pair of Tens)
+Adam Ward 13: mucks hand 
+serioushippo677 collected 1606 from pot
+*** SUMMARY ***
+Total pot 1700 | Rake 94 
+Board [Jc Kc Th 4c 7s]
+Seat 1: Mellix_8 (small blind) folded on the Flop
+Seat 2: serioushippo677 (big blind) showed [Td As] and won (1606) with a pair of Tens
+Seat 3: 2bg2chu folded before Flop (didn't bet)
+Seat 4: Adam Ward 13 mucked [3h Ad]
+Seat 5: jax1002 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240365049020:  Hold'em No Limit (50/100) - 2022/12/10 0:30:48 CUST [2022/12/09 18:30:48 ET]
+Table 'Guisan' 6-max (Play Money) Seat #1 is the button
+Seat 1: Mellix_8 (9600 in chips) 
+Seat 2: serioushippo677 (4648 in chips) 
+Seat 3: 2bg2chu (38611 in chips) 
+Seat 4: Adam Ward 13 (27021 in chips) 
+Seat 5: jax1002 (12570 in chips) 
+Seat 6: tochita917 (11384 in chips) 
+serioushippo677: posts small blind 50
+2bg2chu: posts big blind 100
+tochita917: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3c Kh]
+Adam Ward 13: raises 400 to 500
+jax1002: folds 
+tochita917: calls 400
+Mellix_8: calls 500
+serioushippo677: folds 
+2bg2chu: calls 400
+*** FLOP *** [Qs Ah 9s]
+2bg2chu: checks 
+Adam Ward 13: bets 800
+tochita917: folds 
+Mellix_8: folds 
+2bg2chu: calls 800
+*** TURN *** [Qs Ah 9s] [4s]
+2bg2chu: checks 
+Adam Ward 13: bets 1000
+2bg2chu: calls 1000
+*** RIVER *** [Qs Ah 9s 4s] [2c]
+2bg2chu: checks 
+tochita917 leaves the table
+Adam Ward 13: bets 1600
+2bg2chu: folds 
+Uncalled bet (1600) returned to Adam Ward 13
+Adam Ward 13 collected 5386 from pot
+*** SUMMARY ***
+Total pot 5700 | Rake 314 
+Board [Qs Ah 9s 4s 2c]
+Seat 1: Mellix_8 (button) folded on the Flop
+Seat 2: serioushippo677 (small blind) folded before Flop
+Seat 3: 2bg2chu (big blind) folded on the River
+Seat 4: Adam Ward 13 collected (5386)
+Seat 5: jax1002 folded before Flop (didn't bet)
+Seat 6: tochita917 folded on the Flop
+
+
+
+PokerStars Hand #240365063905:  Hold'em No Limit (50/100) - 2022/12/10 0:31:33 CUST [2022/12/09 18:31:33 ET]
+Table 'Guisan' 6-max (Play Money) Seat #2 is the button
+Seat 1: Mellix_8 (9100 in chips) 
+Seat 2: serioushippo677 (4598 in chips) 
+Seat 3: 2bg2chu (36311 in chips) 
+Seat 4: Adam Ward 13 (30107 in chips) 
+Seat 5: jax1002 (12570 in chips) 
+2bg2chu: posts small blind 50
+Adam Ward 13: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4s 4d]
+jax1002: calls 100
+Mellix_8: calls 100
+serioushippo677: calls 100
+2bg2chu: calls 50
+Adam Ward 13: checks 
+*** FLOP *** [5d Ad Kd]
+2bg2chu: checks 
+Adam Ward 13: bets 500
+jax1002: folds 
+Mellix_8: folds 
+serioushippo677: calls 500
+2bg2chu: folds 
+*** TURN *** [5d Ad Kd] [7c]
+Adam Ward 13: bets 800
+RaeK1 joins the table at seat #6 
+serioushippo677: folds 
+Uncalled bet (800) returned to Adam Ward 13
+Adam Ward 13 collected 1417 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 83 
+Board [5d Ad Kd 7c]
+Seat 1: Mellix_8 folded on the Flop
+Seat 2: serioushippo677 (button) folded on the Turn
+Seat 3: 2bg2chu (small blind) folded on the Flop
+Seat 4: Adam Ward 13 (big blind) collected (1417)
+Seat 5: jax1002 folded on the Flop
+
+
+
+PokerStars Hand #240365084118:  Hold'em No Limit (50/100) - 2022/12/10 0:32:35 CUST [2022/12/09 18:32:35 ET]
+Table 'Guisan' 6-max (Play Money) Seat #3 is the button
+Seat 1: Mellix_8 (9000 in chips) 
+Seat 2: serioushippo677 (3998 in chips) 
+Seat 3: 2bg2chu (36211 in chips) 
+Seat 4: Adam Ward 13 (30924 in chips) 
+Seat 5: jax1002 (12470 in chips) 
+Seat 6: RaeK1 (5000 in chips) 
+Adam Ward 13: posts small blind 50
+jax1002: posts big blind 100
+RaeK1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kd Qs]
+RaeK1: checks 
+Mellix_8: calls 100
+serioushippo677: raises 200 to 300
+2bg2chu: raises 35911 to 36211 and is all-in
+Adam Ward 13: folds 
+jax1002: folds 
+RaeK1 has timed out
+RaeK1: folds 
+Mellix_8: folds 
+serioushippo677: calls 3698 and is all-in
+Uncalled bet (32213) returned to 2bg2chu
+*** FLOP *** [9h 9s As]
+*** TURN *** [9h 9s As] [Ac]
+*** RIVER *** [9h 9s As Ac] [8h]
+*** SHOW DOWN ***
+serioushippo677: shows [Kd Qs] (two pair, Aces and Nines)
+2bg2chu: shows [Th Tc] (two pair, Aces and Tens)
+2bg2chu collected 7887 from pot
+*** SUMMARY ***
+Total pot 8346 | Rake 459 
+Board [9h 9s As Ac 8h]
+Seat 1: Mellix_8 folded before Flop
+Seat 2: serioushippo677 showed [Kd Qs] and lost with two pair, Aces and Nines
+Seat 3: 2bg2chu (button) showed [Th Tc] and won (7887) with two pair, Aces and Tens
+Seat 4: Adam Ward 13 (small blind) folded before Flop
+Seat 5: jax1002 (big blind) folded before Flop
+Seat 6: RaeK1 folded before Flop (didn't bet)
+
+
+

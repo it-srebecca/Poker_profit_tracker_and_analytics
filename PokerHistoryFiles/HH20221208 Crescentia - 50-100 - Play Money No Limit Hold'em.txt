@@ -1,0 +1,478 @@
+﻿PokerStars Hand #240332455400:  Hold'em No Limit (50/100) - 2022/12/08 12:19:13 CUST [2022/12/08 6:19:13 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #2 is the button
+Seat 1: SickHooksJ88 (10000 in chips) 
+Seat 2: 44dédé (21894 in chips) 
+Seat 3: mwm 013 (4553 in chips) 
+Seat 4: 333albi (4000 in chips) 
+Seat 5: serioushippo677 (10000 in chips) 
+mwm 013: posts small blind 50
+333albi: posts big blind 100
+serioushippo677: posts big blind 100
+SickHooksJ88: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ad Td]
+serioushippo677: checks 
+SickHooksJ88: raises 400 to 500
+44dédé: folds 
+mwm 013: calls 450
+333albi: folds 
+HighFoxBM598 leaves the table
+serioushippo677: calls 400
+*** FLOP *** [6d 6h As]
+333albi leaves the table
+mwm 013: checks 
+serioushippo677: checks 
+SickHooksJ88: bets 2800
+mwm 013: folds 
+serioushippo677: folds 
+Uncalled bet (2800) returned to SickHooksJ88
+SickHooksJ88 collected 1512 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 88 
+Board [6d 6h As]
+Seat 1: SickHooksJ88 collected (1512)
+Seat 2: 44dédé (button) folded before Flop (didn't bet)
+Seat 3: mwm 013 (small blind) folded on the Flop
+Seat 4: 333albi (big blind) folded before Flop
+Seat 5: serioushippo677 folded on the Flop
+
+
+
+PokerStars Hand #240332464851:  Hold'em No Limit (50/100) - 2022/12/08 12:20:09 CUST [2022/12/08 6:20:09 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #3 is the button
+Seat 1: SickHooksJ88 (11012 in chips) 
+Seat 2: 44dédé (21894 in chips) 
+Seat 3: mwm 013 (4053 in chips) 
+Seat 5: serioushippo677 (9500 in chips) 
+serioushippo677: posts small blind 50
+SickHooksJ88: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4s 7d]
+44dédé: raises 100 to 200
+mwm 013: calls 200
+serioushippo677: folds 
+SickHooksJ88: raises 200 to 400
+44dédé: calls 200
+mwm 013: calls 200
+*** FLOP *** [8s Ac 9s]
+SickHooksJ88: bets 500
+44dédé: calls 500
+mwm 013: folds 
+*** TURN *** [8s Ac 9s] [Ks]
+SickHooksJ88: bets 1300
+44dédé: calls 1300
+*** RIVER *** [8s Ac 9s Ks] [4d]
+SickHooksJ88: bets 5800
+44dédé: calls 5800
+*** SHOW DOWN ***
+SickHooksJ88: shows [6s Qs] (a flush, King high)
+44dédé: mucks hand 
+SickHooksJ88 collected 15545 from pot
+*** SUMMARY ***
+Total pot 16450 | Rake 905 
+Board [8s Ac 9s Ks 4d]
+Seat 1: SickHooksJ88 (big blind) showed [6s Qs] and won (15545) with a flush, King high
+Seat 2: 44dédé mucked [Jh Ad]
+Seat 3: mwm 013 (button) folded on the Flop
+Seat 5: serioushippo677 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240332475173:  Hold'em No Limit (50/100) - 2022/12/08 12:21:11 CUST [2022/12/08 6:21:11 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #5 is the button
+Seat 1: SickHooksJ88 (18557 in chips) 
+Seat 2: 44dédé (13894 in chips) 
+Seat 3: mwm 013 (3653 in chips) 
+Seat 5: serioushippo677 (9450 in chips) 
+SickHooksJ88: posts small blind 50
+44dédé: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [As 2s]
+mwm 013: calls 100
+serioushippo677: raises 100 to 200
+SickHooksJ88: folds 
+44dédé: raises 400 to 600
+mwm 013: folds 
+serioushippo677: calls 400
+*** FLOP *** [Jh 7c Jd]
+44dédé: checks 
+serioushippo677: checks 
+*** TURN *** [Jh 7c Jd] [9h]
+44dédé: bets 1100
+milicastrezoiu joins the table at seat #4 
+serioushippo677: folds 
+Uncalled bet (1100) returned to 44dédé
+44dédé collected 1276 from pot
+44dédé: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 74 
+Board [Jh 7c Jd 9h]
+Seat 1: SickHooksJ88 (small blind) folded before Flop
+Seat 2: 44dédé (big blind) collected (1276)
+Seat 3: mwm 013 folded before Flop
+Seat 5: serioushippo677 (button) folded on the Turn
+
+
+
+PokerStars Hand #240332485144:  Hold'em No Limit (50/100) - 2022/12/08 12:22:09 CUST [2022/12/08 6:22:09 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #1 is the button
+Seat 1: SickHooksJ88 (18507 in chips) 
+Seat 2: 44dédé (14570 in chips) 
+Seat 3: mwm 013 (3553 in chips) 
+Seat 4: milicastrezoiu (10000 in chips) 
+Seat 5: serioushippo677 (8850 in chips) 
+44dédé: posts small blind 50
+mwm 013: posts big blind 100
+milicastrezoiu: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qc 9d]
+milicastrezoiu: checks 
+volk70uz joins the table at seat #6 
+serioushippo677: folds 
+SickHooksJ88: raises 200 to 300
+44dédé: calls 250
+mwm 013: calls 200
+milicastrezoiu has timed out
+milicastrezoiu: folds 
+*** FLOP *** [7d Kd 7s]
+44dédé: checks 
+mwm 013: checks 
+SickHooksJ88: bets 2000
+44dédé: folds 
+mwm 013: folds 
+Uncalled bet (2000) returned to SickHooksJ88
+SickHooksJ88 collected 945 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 55 
+Board [7d Kd 7s]
+Seat 1: SickHooksJ88 (button) collected (945)
+Seat 2: 44dédé (small blind) folded on the Flop
+Seat 3: mwm 013 (big blind) folded on the Flop
+Seat 4: milicastrezoiu folded before Flop (didn't bet)
+Seat 5: serioushippo677 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240332495552:  Hold'em No Limit (50/100) - 2022/12/08 12:23:09 CUST [2022/12/08 6:23:09 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #2 is the button
+Seat 1: SickHooksJ88 (19152 in chips) 
+Seat 2: 44dédé (14270 in chips) 
+Seat 3: mwm 013 (3253 in chips) 
+Seat 4: milicastrezoiu (9900 in chips) 
+Seat 5: serioushippo677 (8850 in chips) 
+Seat 6: volk70uz (10000 in chips) 
+mwm 013: posts small blind 50
+milicastrezoiu: posts big blind 100
+volk70uz: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3h Kh]
+serioushippo677: folds 
+volk70uz: checks 
+SickHooksJ88: raises 300 to 400
+44dédé: calls 400
+mwm 013: calls 350
+milicastrezoiu: folds 
+volk70uz: calls 300
+*** FLOP *** [3c As 8d]
+mwm 013: bets 1606
+volk70uz: folds 
+SickHooksJ88: folds 
+44dédé: calls 1606
+*** TURN *** [3c As 8d] [Td]
+mwm 013: bets 1247 and is all-in
+44dédé: folds 
+Uncalled bet (1247) returned to mwm 013
+mwm 013 collected 4642 from pot
+mwm 013: doesn't show hand 
+*** SUMMARY ***
+Total pot 4912 | Rake 270 
+Board [3c As 8d Td]
+Seat 1: SickHooksJ88 folded on the Flop
+Seat 2: 44dédé (button) folded on the Turn
+Seat 3: mwm 013 (small blind) collected (4642)
+Seat 4: milicastrezoiu (big blind) folded before Flop
+Seat 5: serioushippo677 folded before Flop (didn't bet)
+Seat 6: volk70uz folded on the Flop
+
+
+
+PokerStars Hand #240332505448:  Hold'em No Limit (50/100) - 2022/12/08 12:24:07 CUST [2022/12/08 6:24:07 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #3 is the button
+Seat 1: SickHooksJ88 (18752 in chips) 
+Seat 2: 44dédé (12264 in chips) 
+Seat 3: mwm 013 (5889 in chips) 
+Seat 4: milicastrezoiu (9800 in chips) 
+Seat 5: serioushippo677 (8850 in chips) 
+Seat 6: volk70uz (9600 in chips) 
+milicastrezoiu: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2h 5c]
+volk70uz: calls 100
+SickHooksJ88: raises 200 to 300
+44dédé: calls 300
+mwm 013: calls 300
+milicastrezoiu: folds 
+serioushippo677: folds 
+volk70uz: calls 200
+*** FLOP *** [6s Kc 4s]
+volk70uz: checks 
+SickHooksJ88: bets 700
+44dédé: calls 700
+mwm 013: folds 
+volk70uz: calls 700
+*** TURN *** [6s Kc 4s] [3h]
+volk70uz: checks 
+SickHooksJ88: checks 
+44dédé: checks 
+*** RIVER *** [6s Kc 4s 3h] [Kd]
+volk70uz: checks 
+SickHooksJ88: checks 
+44dédé: checks 
+*** SHOW DOWN ***
+volk70uz: shows [6h 9s] (two pair, Kings and Sixes)
+SickHooksJ88: shows [Js Td] (a pair of Kings)
+44dédé: mucks hand 
+volk70uz collected 3260 from pot
+*** SUMMARY ***
+Total pot 3450 | Rake 190 
+Board [6s Kc 4s 3h Kd]
+Seat 1: SickHooksJ88 showed [Js Td] and lost with a pair of Kings
+Seat 2: 44dédé mucked [Ad 2s]
+Seat 3: mwm 013 (button) folded on the Flop
+Seat 4: milicastrezoiu (small blind) folded before Flop
+Seat 5: serioushippo677 (big blind) folded before Flop
+Seat 6: volk70uz showed [6h 9s] and won (3260) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #240332518926:  Hold'em No Limit (50/100) - 2022/12/08 12:25:26 CUST [2022/12/08 6:25:26 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #4 is the button
+Seat 1: SickHooksJ88 (17752 in chips) 
+Seat 2: 44dédé (11264 in chips) 
+Seat 3: mwm 013 (5589 in chips) 
+Seat 4: milicastrezoiu (9750 in chips) 
+Seat 5: serioushippo677 (8750 in chips) 
+Seat 6: volk70uz (11860 in chips) 
+serioushippo677: posts small blind 50
+volk70uz: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jc Kc]
+SickHooksJ88: raises 200 to 300
+44dédé: folds 
+mwm 013: calls 300
+milicastrezoiu: calls 300
+serioushippo677: calls 250
+volk70uz: raises 1500 to 1800
+SickHooksJ88: calls 1500
+mwm 013: folds 
+milicastrezoiu: calls 1500
+serioushippo677: folds 
+*** FLOP *** [7c 9s 9h]
+volk70uz: bets 100
+SickHooksJ88: calls 100
+milicastrezoiu: raises 7850 to 7950 and is all-in
+volk70uz: folds 
+SickHooksJ88: folds 
+Uncalled bet (7850) returned to milicastrezoiu
+milicastrezoiu collected 5953 from pot
+milicastrezoiu: doesn't show hand 
+*** SUMMARY ***
+Total pot 6300 | Rake 347 
+Board [7c 9s 9h]
+Seat 1: SickHooksJ88 folded on the Flop
+Seat 2: 44dédé folded before Flop (didn't bet)
+Seat 3: mwm 013 folded before Flop
+Seat 4: milicastrezoiu (button) collected (5953)
+Seat 5: serioushippo677 (small blind) folded before Flop
+Seat 6: volk70uz (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240332531063:  Hold'em No Limit (50/100) - 2022/12/08 12:26:36 CUST [2022/12/08 6:26:36 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #5 is the button
+Seat 1: SickHooksJ88 (15852 in chips) 
+Seat 2: 44dédé (11264 in chips) 
+Seat 3: mwm 013 (5289 in chips) 
+Seat 4: milicastrezoiu (13803 in chips) 
+Seat 5: serioushippo677 (8450 in chips) 
+Seat 6: volk70uz (9960 in chips) 
+volk70uz: posts small blind 50
+SickHooksJ88: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kd 9s]
+44dédé has timed out
+44dédé: folds 
+mwm 013: calls 100
+milicastrezoiu: folds 
+serioushippo677: calls 100
+volk70uz: calls 50
+SickHooksJ88: raises 700 to 800
+mwm 013: calls 700
+serioushippo677: calls 700
+volk70uz: calls 700
+*** FLOP *** [Qd 4h 5s]
+volk70uz: bets 100
+SickHooksJ88: raises 4700 to 4800
+mwm 013: folds 
+serioushippo677: folds 
+volk70uz: calls 4700
+*** TURN *** [Qd 4h 5s] [8c]
+volk70uz: checks 
+SickHooksJ88: bets 5800
+volk70uz: calls 4360 and is all-in
+Uncalled bet (1440) returned to SickHooksJ88
+*** RIVER *** [Qd 4h 5s 8c] [Kc]
+*** SHOW DOWN ***
+volk70uz: shows [Ks 4d] (two pair, Kings and Fours)
+SickHooksJ88: shows [2c 7d] (high card King)
+volk70uz collected 20336 from pot
+*** SUMMARY ***
+Total pot 21520 | Rake 1184 
+Board [Qd 4h 5s 8c Kc]
+Seat 1: SickHooksJ88 (big blind) showed [2c 7d] and lost with high card King
+Seat 2: 44dédé folded before Flop (didn't bet)
+Seat 3: mwm 013 folded on the Flop
+Seat 4: milicastrezoiu folded before Flop (didn't bet)
+Seat 5: serioushippo677 (button) folded on the Flop
+Seat 6: volk70uz (small blind) showed [Ks 4d] and won (20336) with two pair, Kings and Fours
+
+
+
+PokerStars Hand #240332548966:  Hold'em No Limit (50/100) - 2022/12/08 12:28:18 CUST [2022/12/08 6:28:18 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #6 is the button
+Seat 1: SickHooksJ88 (10000 in chips) 
+Seat 2: 44dédé (11264 in chips) 
+Seat 3: mwm 013 (4489 in chips) 
+Seat 4: milicastrezoiu (13803 in chips) 
+Seat 5: serioushippo677 (7650 in chips) 
+Seat 6: volk70uz (20336 in chips) 
+SickHooksJ88: posts small blind 50
+44dédé: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Th 4c]
+mwm 013: calls 100
+milicastrezoiu: calls 100
+serioushippo677: folds 
+volk70uz: folds 
+SickHooksJ88: raises 250 to 350
+44dédé: calls 250
+mwm 013: calls 250
+milicastrezoiu: calls 250
+*** FLOP *** [Kc Ac 2s]
+SickHooksJ88: checks 
+44dédé: checks 
+mwm 013: checks 
+milicastrezoiu: checks 
+*** TURN *** [Kc Ac 2s] [Ah]
+SickHooksJ88: checks 
+44dédé: checks 
+mwm 013: checks 
+milicastrezoiu: checks 
+*** RIVER *** [Kc Ac 2s Ah] [As]
+SickHooksJ88: folds 
+44dédé: checks 
+mwm 013: checks 
+milicastrezoiu: checks 
+*** SHOW DOWN ***
+44dédé: shows [Qc 2h] (a full house, Aces full of Deuces)
+mwm 013: mucks hand 
+milicastrezoiu: mucks hand 
+44dédé collected 1323 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 77 
+Board [Kc Ac 2s Ah As]
+Seat 1: SickHooksJ88 (small blind) folded on the River
+Seat 2: 44dédé (big blind) showed [Qc 2h] and won (1323) with a full house, Aces full of Deuces
+Seat 3: mwm 013 mucked [5h Qd]
+Seat 4: milicastrezoiu mucked [Qh Ts]
+Seat 5: serioushippo677 folded before Flop (didn't bet)
+Seat 6: volk70uz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240332565822:  Hold'em No Limit (50/100) - 2022/12/08 12:29:55 CUST [2022/12/08 6:29:55 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #1 is the button
+Seat 1: SickHooksJ88 (10000 in chips) 
+Seat 2: 44dédé (12237 in chips) 
+Seat 3: mwm 013 (4139 in chips) 
+Seat 4: milicastrezoiu (13453 in chips) 
+Seat 5: serioushippo677 (7650 in chips) 
+Seat 6: volk70uz (20336 in chips) 
+44dédé: posts small blind 50
+mwm 013: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4s Kc]
+milicastrezoiu: folds 
+serioushippo677: folds 
+volk70uz: calls 100
+SickHooksJ88: raises 200 to 300
+44dédé: calls 250
+mwm 013: folds 
+volk70uz: calls 200
+*** FLOP *** [Ah Js 3d]
+44dédé: checks 
+volk70uz: checks 
+SickHooksJ88: bets 2800
+44dédé: folds 
+volk70uz: folds 
+Uncalled bet (2800) returned to SickHooksJ88
+SickHooksJ88 collected 945 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 55 
+Board [Ah Js 3d]
+Seat 1: SickHooksJ88 (button) collected (945)
+Seat 2: 44dédé (small blind) folded on the Flop
+Seat 3: mwm 013 (big blind) folded before Flop
+Seat 4: milicastrezoiu folded before Flop (didn't bet)
+Seat 5: serioushippo677 folded before Flop (didn't bet)
+Seat 6: volk70uz folded on the Flop
+
+
+
+PokerStars Hand #240332575941:  Hold'em No Limit (50/100) - 2022/12/08 12:30:52 CUST [2022/12/08 6:30:52 ET]
+Table 'Crescentia' 6-max (Play Money) Seat #2 is the button
+Seat 1: SickHooksJ88 (10645 in chips) 
+Seat 2: 44dédé (11937 in chips) 
+Seat 3: mwm 013 (4039 in chips) 
+Seat 4: milicastrezoiu (13453 in chips) 
+Seat 5: serioushippo677 (7650 in chips) 
+Seat 6: volk70uz (20036 in chips) 
+mwm 013: posts small blind 50
+milicastrezoiu: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6c 5c]
+serioushippo677: raises 100 to 200
+volk70uz: calls 200
+SickHooksJ88: raises 300 to 500
+44dédé: calls 500
+mwm 013: folds 
+milicastrezoiu: folds 
+serioushippo677: calls 300
+volk70uz: calls 300
+*** FLOP *** [8s Jc 4c]
+serioushippo677: bets 1016
+volk70uz: calls 1016
+SickHooksJ88: raises 3884 to 4900
+44dédé: folds 
+serioushippo677: raises 2250 to 7150 and is all-in
+volk70uz: folds 
+SickHooksJ88: calls 2250
+*** TURN *** [8s Jc 4c] [3d]
+*** RIVER *** [8s Jc 4c 3d] [8h]
+*** SHOW DOWN ***
+serioushippo677: shows [6c 5c] (a pair of Eights)
+SickHooksJ88: shows [As Ad] (two pair, Aces and Eights)
+SickHooksJ88 collected 16505 from pot
+*** SUMMARY ***
+Total pot 17466 | Rake 961 
+Board [8s Jc 4c 3d 8h]
+Seat 1: SickHooksJ88 showed [As Ad] and won (16505) with two pair, Aces and Eights
+Seat 2: 44dédé (button) folded on the Flop
+Seat 3: mwm 013 (small blind) folded before Flop
+Seat 4: milicastrezoiu (big blind) folded before Flop
+Seat 5: serioushippo677 showed [6c 5c] and lost with a pair of Eights
+Seat 6: volk70uz folded on the Flop
+
+
+

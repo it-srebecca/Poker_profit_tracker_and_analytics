@@ -1,0 +1,730 @@
+﻿PokerStars Hand #240407709083:  Hold'em No Limit (50/100) - 2022/12/12 0:13:50 CUST [2022/12/11 18:13:50 ET]
+Table 'Rostia' 6-max (Play Money) Seat #3 is the button
+Seat 1: Roadking1ajb (9737 in chips) 
+Seat 2: serioushippo677 (10000 in chips) 
+Seat 3: JGFM81 (23082 in chips) 
+Seat 4: theriver567 (27753 in chips) 
+Seat 5: J. Aspitia (17404 in chips) 
+Seat 6: NIKI-Z565 (15117 in chips) 
+theriver567: posts small blind 50
+J. Aspitia: posts big blind 100
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6h Qs]
+NIKI-Z565: folds 
+Roadking1ajb: calls 100
+serioushippo677: checks 
+JGFM81: calls 100
+theriver567: calls 50
+J. Aspitia: checks 
+*** FLOP *** [Kh 5c Ad]
+theriver567: checks 
+J. Aspitia: checks 
+Roadking1ajb: checks 
+serioushippo677: checks 
+JGFM81: checks 
+*** TURN *** [Kh 5c Ad] [3s]
+theriver567: checks 
+J. Aspitia: checks 
+Roadking1ajb: bets 100
+serioushippo677: folds 
+JGFM81: folds 
+theriver567: folds 
+J. Aspitia: calls 100
+*** RIVER *** [Kh 5c Ad 3s] [8s]
+J. Aspitia: checks 
+Roadking1ajb: bets 100
+J. Aspitia: folds 
+Uncalled bet (100) returned to Roadking1ajb
+Roadking1ajb collected 661 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 39 
+Board [Kh 5c Ad 3s 8s]
+Seat 1: Roadking1ajb collected (661)
+Seat 2: serioushippo677 folded on the Turn (didn't bet)
+Seat 3: JGFM81 (button) folded on the Turn
+Seat 4: theriver567 (small blind) folded on the Turn
+Seat 5: J. Aspitia (big blind) folded on the River
+Seat 6: NIKI-Z565 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240407744575:  Hold'em No Limit (50/100) - 2022/12/12 0:15:34 CUST [2022/12/11 18:15:34 ET]
+Table 'Rostia' 6-max (Play Money) Seat #4 is the button
+Seat 1: Roadking1ajb (10198 in chips) 
+Seat 2: serioushippo677 (9900 in chips) 
+Seat 3: JGFM81 (22982 in chips) 
+Seat 4: theriver567 (27653 in chips) 
+Seat 5: J. Aspitia (17204 in chips) 
+Seat 6: NIKI-Z565 (15117 in chips) 
+J. Aspitia: posts small blind 50
+NIKI-Z565: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qh 3h]
+Roadking1ajb: calls 100
+serioushippo677: folds 
+JGFM81: folds 
+theriver567 has timed out
+theriver567: folds 
+J. Aspitia: calls 50
+NIKI-Z565: checks 
+*** FLOP *** [8h 8d 7c]
+J. Aspitia: checks 
+NIKI-Z565: checks 
+Roadking1ajb: bets 100
+J. Aspitia: folds 
+NIKI-Z565: calls 100
+*** TURN *** [8h 8d 7c] [9d]
+NIKI-Z565: checks 
+Roadking1ajb: bets 100
+NIKI-Z565: calls 100
+*** RIVER *** [8h 8d 7c 9d] [5c]
+NIKI-Z565: checks 
+Roadking1ajb: bets 300
+NIKI-Z565: folds 
+Uncalled bet (300) returned to Roadking1ajb
+Roadking1ajb collected 661 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 39 
+Board [8h 8d 7c 9d 5c]
+Seat 1: Roadking1ajb collected (661)
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 3: JGFM81 folded before Flop (didn't bet)
+Seat 4: theriver567 (button) folded before Flop (didn't bet)
+Seat 5: J. Aspitia (small blind) folded on the Flop
+Seat 6: NIKI-Z565 (big blind) folded on the River
+
+
+
+PokerStars Hand #240407767435:  Hold'em No Limit (50/100) - 2022/12/12 0:16:42 CUST [2022/12/11 18:16:42 ET]
+Table 'Rostia' 6-max (Play Money) Seat #5 is the button
+Seat 1: Roadking1ajb (10559 in chips) 
+Seat 2: serioushippo677 (9900 in chips) 
+Seat 3: JGFM81 (22982 in chips) 
+Seat 4: theriver567 (27653 in chips) 
+Seat 5: J. Aspitia (17104 in chips) 
+Seat 6: NIKI-Z565 (14817 in chips) 
+NIKI-Z565: posts small blind 50
+Roadking1ajb: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3h Ac]
+serioushippo677: folds 
+JGFM81: calls 100
+theriver567: calls 100
+J. Aspitia: calls 100
+NIKI-Z565: calls 50
+Roadking1ajb: checks 
+*** FLOP *** [3d Kh As]
+NIKI-Z565: checks 
+Roadking1ajb: checks 
+JGFM81: checks 
+theriver567: bets 500
+J. Aspitia has timed out
+J. Aspitia: folds 
+NIKI-Z565: folds 
+Roadking1ajb: folds 
+JGFM81: calls 500
+*** TURN *** [3d Kh As] [7h]
+JGFM81: checks 
+theriver567: bets 600
+JGFM81: folds 
+Uncalled bet (600) returned to theriver567
+theriver567 collected 1417 from pot
+theriver567: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 83 
+Board [3d Kh As 7h]
+Seat 1: Roadking1ajb (big blind) folded on the Flop
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 3: JGFM81 folded on the Turn
+Seat 4: theriver567 collected (1417)
+Seat 5: J. Aspitia (button) folded on the Flop
+Seat 6: NIKI-Z565 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240407797539:  Hold'em No Limit (50/100) - 2022/12/12 0:18:10 CUST [2022/12/11 18:18:10 ET]
+Table 'Rostia' 6-max (Play Money) Seat #6 is the button
+Seat 1: Roadking1ajb (10459 in chips) 
+Seat 2: serioushippo677 (9900 in chips) 
+Seat 3: JGFM81 (22382 in chips) 
+Seat 4: theriver567 (28470 in chips) 
+Seat 5: J. Aspitia (17004 in chips) 
+Seat 6: NIKI-Z565 (14717 in chips) 
+Roadking1ajb: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qd Kc]
+JGFM81: folds 
+theriver567: calls 100
+J. Aspitia: calls 100
+NIKI-Z565: calls 100
+Roadking1ajb: calls 50
+serioushippo677: raises 200 to 300
+theriver567: calls 200
+J. Aspitia: calls 200
+NIKI-Z565: calls 200
+Roadking1ajb: folds 
+*** FLOP *** [6d Tc As]
+serioushippo677: checks 
+theriver567: checks 
+J. Aspitia: checks 
+NIKI-Z565: checks 
+*** TURN *** [6d Tc As] [Td]
+serioushippo677: bets 614
+theriver567: folds 
+J. Aspitia: calls 614
+NIKI-Z565: calls 614
+*** RIVER *** [6d Tc As Td] [4h]
+serioushippo677: checks 
+J. Aspitia: bets 3600
+NIKI-Z565: folds 
+serioushippo677: folds 
+Uncalled bet (3600) returned to J. Aspitia
+J. Aspitia collected 2969 from pot
+*** SUMMARY ***
+Total pot 3142 | Rake 173 
+Board [6d Tc As Td 4h]
+Seat 1: Roadking1ajb (small blind) folded before Flop
+Seat 2: serioushippo677 (big blind) folded on the River
+Seat 3: JGFM81 folded before Flop (didn't bet)
+Seat 4: theriver567 folded on the Turn
+Seat 5: J. Aspitia collected (2969)
+Seat 6: NIKI-Z565 (button) folded on the River
+
+
+
+PokerStars Hand #240407820840:  Hold'em No Limit (50/100) - 2022/12/12 0:19:19 CUST [2022/12/11 18:19:19 ET]
+Table 'Rostia' 6-max (Play Money) Seat #1 is the button
+Seat 1: Roadking1ajb (10359 in chips) 
+Seat 2: serioushippo677 (8986 in chips) 
+Seat 3: JGFM81 (22382 in chips) 
+Seat 4: theriver567 (28170 in chips) 
+Seat 5: J. Aspitia (19059 in chips) 
+Seat 6: NIKI-Z565 (13803 in chips) 
+serioushippo677: posts small blind 50
+JGFM81: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ah Td]
+theriver567: raises 250 to 350
+J. Aspitia: calls 350
+NIKI-Z565: calls 350
+Roadking1ajb: folds 
+serioushippo677: calls 300
+JGFM81: calls 250
+*** FLOP *** [5c 3s Qd]
+serioushippo677: checks 
+JGFM81: checks 
+theriver567: bets 1700
+J. Aspitia has timed out
+J. Aspitia: folds 
+NIKI-Z565: folds 
+serioushippo677: folds 
+JGFM81: calls 1700
+*** TURN *** [5c 3s Qd] [Kh]
+JGFM81: bets 2433
+theriver567: raises 23687 to 26120 and is all-in
+JGFM81: calls 17899 and is all-in
+Uncalled bet (5788) returned to theriver567
+*** RIVER *** [5c 3s Qd Kh] [9s]
+*** SHOW DOWN ***
+JGFM81: shows [Qh Jh] (a pair of Queens)
+theriver567: shows [Kd Ad] (a pair of Kings)
+theriver567 collected 43294 from pot
+*** SUMMARY ***
+Total pot 45814 | Rake 2520 
+Board [5c 3s Qd Kh 9s]
+Seat 1: Roadking1ajb (button) folded before Flop (didn't bet)
+Seat 2: serioushippo677 (small blind) folded on the Flop
+Seat 3: JGFM81 (big blind) showed [Qh Jh] and lost with a pair of Queens
+Seat 4: theriver567 showed [Kd Ad] and won (43294) with a pair of Kings
+Seat 5: J. Aspitia folded on the Flop
+Seat 6: NIKI-Z565 folded on the Flop
+
+
+
+PokerStars Hand #240407846592:  Hold'em No Limit (50/100) - 2022/12/12 0:20:38 CUST [2022/12/11 18:20:38 ET]
+Table 'Rostia' 6-max (Play Money) Seat #2 is the button
+Seat 1: Roadking1ajb (10359 in chips) 
+Seat 2: serioushippo677 (8636 in chips) 
+Seat 4: theriver567 (49082 in chips) 
+Seat 5: J. Aspitia (18709 in chips) 
+Seat 6: NIKI-Z565 (13453 in chips) 
+theriver567: posts small blind 50
+J. Aspitia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4c 4d]
+NIKI-Z565: calls 100
+Roadking1ajb: calls 100
+serioushippo677: raises 200 to 300
+theriver567: folds 
+J. Aspitia: calls 200
+NIKI-Z565: calls 200
+Roadking1ajb: calls 200
+*** FLOP *** [As Th 2s]
+J. Aspitia: checks 
+NIKI-Z565: checks 
+Roadking1ajb: checks 
+serioushippo677: bets 590
+J. Aspitia: folds 
+NIKI-Z565: folds 
+Roadking1ajb: folds 
+Uncalled bet (590) returned to serioushippo677
+serioushippo677 collected 1181 from pot
+serioushippo677: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 69 
+Board [As Th 2s]
+Seat 1: Roadking1ajb folded on the Flop
+Seat 2: serioushippo677 (button) collected (1181)
+Seat 4: theriver567 (small blind) folded before Flop
+Seat 5: J. Aspitia (big blind) folded on the Flop
+Seat 6: NIKI-Z565 folded on the Flop
+
+
+
+PokerStars Hand #240407858239:  Hold'em No Limit (50/100) - 2022/12/12 0:21:13 CUST [2022/12/11 18:21:13 ET]
+Table 'Rostia' 6-max (Play Money) Seat #4 is the button
+Seat 1: Roadking1ajb (10059 in chips) 
+Seat 2: serioushippo677 (9517 in chips) 
+Seat 4: theriver567 (49032 in chips) 
+Seat 5: J. Aspitia (18409 in chips) 
+Seat 6: NIKI-Z565 (13153 in chips) 
+J. Aspitia: posts small blind 50
+NIKI-Z565: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [As 6c]
+Roadking1ajb: calls 100
+serioushippo677: folds 
+theriver567: raises 200 to 300
+J. Aspitia: calls 250
+NIKI-Z565: folds 
+Roadking1ajb: calls 200
+*** FLOP *** [3c 9c Td]
+J. Aspitia: checks 
+Roadking1ajb: checks 
+theriver567: bets 900
+J. Aspitia: calls 900
+Roadking1ajb: folds 
+*** TURN *** [3c 9c Td] [Qc]
+J. Aspitia: checks 
+theriver567: bets 1300
+J. Aspitia: calls 1300
+*** RIVER *** [3c 9c Td Qc] [7h]
+J. Aspitia: checks 
+theriver567: checks 
+*** SHOW DOWN ***
+J. Aspitia: shows [Kc 3d] (a pair of Threes)
+theriver567: shows [Qs Ad] (a pair of Queens)
+theriver567 collected 5103 from pot
+*** SUMMARY ***
+Total pot 5400 | Rake 297 
+Board [3c 9c Td Qc 7h]
+Seat 1: Roadking1ajb folded on the Flop
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 4: theriver567 (button) showed [Qs Ad] and won (5103) with a pair of Queens
+Seat 5: J. Aspitia (small blind) showed [Kc 3d] and lost with a pair of Threes
+Seat 6: NIKI-Z565 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240407880281:  Hold'em No Limit (50/100) - 2022/12/12 0:22:20 CUST [2022/12/11 18:22:20 ET]
+Table 'Rostia' 6-max (Play Money) Seat #5 is the button
+Seat 1: Roadking1ajb (9759 in chips) 
+Seat 2: serioushippo677 (9517 in chips) 
+Seat 4: theriver567 (51635 in chips) 
+Seat 5: J. Aspitia (15909 in chips) 
+Seat 6: NIKI-Z565 (13053 in chips) 
+NIKI-Z565: posts small blind 50
+Roadking1ajb: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6s Jh]
+serioushippo677: folds 
+theriver567: raises 250 to 350
+J. Aspitia: calls 350
+NIKI-Z565: calls 300
+Roadking1ajb: calls 250
+*** FLOP *** [5c 6d Qc]
+NIKI-Z565: checks 
+Roadking1ajb: checks 
+theriver567: bets 1300
+J. Aspitia: folds 
+NIKI-Z565: folds 
+Roadking1ajb: folds 
+Uncalled bet (1300) returned to theriver567
+theriver567 collected 1323 from pot
+theriver567: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 77 
+Board [5c 6d Qc]
+Seat 1: Roadking1ajb (big blind) folded on the Flop
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 4: theriver567 collected (1323)
+Seat 5: J. Aspitia (button) folded on the Flop
+Seat 6: NIKI-Z565 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240407896315:  Hold'em No Limit (50/100) - 2022/12/12 0:23:09 CUST [2022/12/11 18:23:09 ET]
+Table 'Rostia' 6-max (Play Money) Seat #6 is the button
+Seat 2: serioushippo677 (9517 in chips) 
+Seat 4: theriver567 (52608 in chips) 
+Seat 5: J. Aspitia (15559 in chips) 
+Seat 6: NIKI-Z565 (12703 in chips) 
+serioushippo677: posts small blind 50
+theriver567: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qc 2h]
+J. Aspitia: raises 5400 to 5500
+Roadking1ajb leaves the table
+NIKI-Z565: folds 
+serioushippo677: folds 
+theriver567: folds 
+Uncalled bet (5400) returned to J. Aspitia
+J. Aspitia collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 2: serioushippo677 (small blind) folded before Flop
+Seat 4: theriver567 (big blind) folded before Flop
+Seat 5: J. Aspitia collected (250)
+Seat 6: NIKI-Z565 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240407900381:  Hold'em No Limit (50/100) - 2022/12/12 0:23:21 CUST [2022/12/11 18:23:21 ET]
+Table 'Rostia' 6-max (Play Money) Seat #2 is the button
+Seat 2: serioushippo677 (9467 in chips) 
+Seat 4: theriver567 (52508 in chips) 
+Seat 5: J. Aspitia (15709 in chips) 
+Seat 6: NIKI-Z565 (12703 in chips) 
+theriver567: posts small blind 50
+J. Aspitia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kd Qs]
+NIKI-Z565: calls 100
+serioushippo677: raises 200 to 300
+theriver567: folds 
+J. Aspitia: calls 200
+NIKI-Z565: calls 200
+*** FLOP *** [5c 9c 4c]
+J. Aspitia: checks 
+NIKI-Z565: checks 
+al_bandicoot joins the table at seat #1 
+serioushippo677: bets 449
+J. Aspitia: folds 
+NIKI-Z565: calls 449
+*** TURN *** [5c 9c 4c] [Js]
+NIKI-Z565: checks 
+serioushippo677: checks 
+*** RIVER *** [5c 9c 4c Js] [3s]
+NIKI-Z565: bets 2300
+serioushippo677: calls 2300
+*** SHOW DOWN ***
+NIKI-Z565: shows [As 2d] (a straight, Ace to Five)
+serioushippo677: mucks hand 
+NIKI-Z565 collected 6093 from pot
+*** SUMMARY ***
+Total pot 6448 | Rake 355 
+Board [5c 9c 4c Js 3s]
+Seat 2: serioushippo677 (button) mucked [Kd Qs]
+Seat 4: theriver567 (small blind) folded before Flop
+Seat 5: J. Aspitia (big blind) folded on the Flop
+Seat 6: NIKI-Z565 showed [As 2d] and won (6093) with a straight, Ace to Five
+
+
+
+PokerStars Hand #240407917785:  Hold'em No Limit (50/100) - 2022/12/12 0:24:14 CUST [2022/12/11 18:24:14 ET]
+Table 'Rostia' 6-max (Play Money) Seat #4 is the button
+Seat 1: al_bandicoot (10000 in chips) 
+Seat 2: serioushippo677 (6418 in chips) 
+Seat 4: theriver567 (52458 in chips) 
+Seat 5: J. Aspitia (15409 in chips) 
+Seat 6: NIKI-Z565 (15747 in chips) 
+J. Aspitia: posts small blind 50
+NIKI-Z565: posts big blind 100
+al_bandicoot: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2c 2d]
+al_bandicoot: checks 
+serioushippo677: raises 100 to 200
+theriver567: calls 200
+J. Aspitia: calls 150
+NIKI-Z565: calls 100
+al_bandicoot: calls 100
+*** FLOP *** [7h Qc 5s]
+J. Aspitia: checks 
+NIKI-Z565: checks 
+al_bandicoot: checks 
+serioushippo677: checks 
+theriver567: checks 
+*** TURN *** [7h Qc 5s] [Ad]
+J. Aspitia: checks 
+NIKI-Z565: checks 
+al_bandicoot: checks 
+serioushippo677: checks 
+theriver567: checks 
+*** RIVER *** [7h Qc 5s Ad] [Td]
+J. Aspitia: checks 
+NIKI-Z565: checks 
+al_bandicoot has timed out
+al_bandicoot: checks 
+serioushippo677: checks 
+theriver567: checks 
+*** SHOW DOWN ***
+J. Aspitia: shows [4s 7d] (a pair of Sevens)
+NIKI-Z565: mucks hand 
+al_bandicoot: shows [Jd Th] (a pair of Tens)
+serioushippo677: mucks hand 
+theriver567: mucks hand 
+al_bandicoot collected 945 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 55 
+Board [7h Qc 5s Ad Td]
+Seat 1: al_bandicoot showed [Jd Th] and won (945) with a pair of Tens
+Seat 2: serioushippo677 mucked [2c 2d]
+Seat 4: theriver567 (button) mucked [Kc 5d]
+Seat 5: J. Aspitia (small blind) showed [4s 7d] and lost with a pair of Sevens
+Seat 6: NIKI-Z565 (big blind) mucked [9c 6s]
+
+
+
+PokerStars Hand #240407950180:  Hold'em No Limit (50/100) - 2022/12/12 0:25:52 CUST [2022/12/11 18:25:52 ET]
+Table 'Rostia' 6-max (Play Money) Seat #5 is the button
+Seat 1: al_bandicoot (10745 in chips) 
+Seat 2: serioushippo677 (6218 in chips) 
+Seat 4: theriver567 (52258 in chips) 
+Seat 5: J. Aspitia (15209 in chips) 
+Seat 6: NIKI-Z565 (15547 in chips) 
+NIKI-Z565: posts small blind 50
+al_bandicoot: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3h Jh]
+serioushippo677: folds 
+theriver567 has timed out
+theriver567: folds 
+J. Aspitia: calls 100
+NIKI-Z565: calls 50
+al_bandicoot: checks 
+*** FLOP *** [8s Ts 8c]
+NIKI-Z565: checks 
+al_bandicoot: bets 1700
+J. Aspitia: folds 
+NIKI-Z565: folds 
+Uncalled bet (1700) returned to al_bandicoot
+al_bandicoot collected 283 from pot
+al_bandicoot: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 17 
+Board [8s Ts 8c]
+Seat 1: al_bandicoot (big blind) collected (283)
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 4: theriver567 folded before Flop (didn't bet)
+Seat 5: J. Aspitia (button) folded on the Flop
+Seat 6: NIKI-Z565 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240407963787:  Hold'em No Limit (50/100) - 2022/12/12 0:26:34 CUST [2022/12/11 18:26:34 ET]
+Table 'Rostia' 6-max (Play Money) Seat #6 is the button
+Seat 1: al_bandicoot (10928 in chips) 
+Seat 2: serioushippo677 (6218 in chips) 
+Seat 4: theriver567 (52258 in chips) 
+Seat 5: J. Aspitia (15109 in chips) 
+Seat 6: NIKI-Z565 (15447 in chips) 
+al_bandicoot: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [7s Th]
+theriver567: raises 100 to 200
+J. Aspitia: calls 200
+NIKI-Z565: calls 200
+al_bandicoot: raises 700 to 900
+serioushippo677: folds 
+theriver567: calls 700
+J. Aspitia: calls 700
+NIKI-Z565: folds 
+*** FLOP *** [3h Ts 9d]
+al_bandicoot: bets 2835
+theriver567: folds 
+J. Aspitia: folds 
+Uncalled bet (2835) returned to al_bandicoot
+al_bandicoot collected 2835 from pot
+al_bandicoot: doesn't show hand 
+*** SUMMARY ***
+Total pot 3000 | Rake 165 
+Board [3h Ts 9d]
+Seat 1: al_bandicoot (small blind) collected (2835)
+Seat 2: serioushippo677 (big blind) folded before Flop
+Seat 4: theriver567 folded on the Flop
+Seat 5: J. Aspitia folded on the Flop
+Seat 6: NIKI-Z565 (button) folded before Flop
+
+
+
+PokerStars Hand #240407984057:  Hold'em No Limit (50/100) - 2022/12/12 0:27:36 CUST [2022/12/11 18:27:36 ET]
+Table 'Rostia' 6-max (Play Money) Seat #1 is the button
+Seat 1: al_bandicoot (12863 in chips) 
+Seat 2: serioushippo677 (6118 in chips) 
+Seat 4: theriver567 (51358 in chips) 
+Seat 5: J. Aspitia (14209 in chips) 
+Seat 6: NIKI-Z565 (15247 in chips) 
+serioushippo677: posts small blind 50
+theriver567: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [9d 6d]
+J. Aspitia: calls 100
+NIKI-Z565: calls 100
+al_bandicoot: folds 
+serioushippo677: folds 
+theriver567: raises 350 to 450
+J. Aspitia: calls 350
+NIKI-Z565: calls 350
+*** FLOP *** [2h 4s 7d]
+theriver567: bets 700
+J. Aspitia: folds 
+NIKI-Z565: calls 700
+*** TURN *** [2h 4s 7d] [4c]
+theriver567: checks 
+NIKI-Z565: bets 1000
+theriver567: folds 
+Uncalled bet (1000) returned to NIKI-Z565
+NIKI-Z565 collected 2646 from pot
+JGFM81 leaves the table
+NIKI-Z565: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 154 
+Board [2h 4s 7d 4c]
+Seat 1: al_bandicoot (button) folded before Flop (didn't bet)
+Seat 2: serioushippo677 (small blind) folded before Flop
+Seat 4: theriver567 (big blind) folded on the Turn
+Seat 5: J. Aspitia folded on the Flop
+Seat 6: NIKI-Z565 collected (2646)
+
+
+
+PokerStars Hand #240408005126:  Hold'em No Limit (50/100) - 2022/12/12 0:28:41 CUST [2022/12/11 18:28:41 ET]
+Table 'Rostia' 6-max (Play Money) Seat #2 is the button
+Seat 1: al_bandicoot (12863 in chips) 
+Seat 2: serioushippo677 (6068 in chips) 
+Seat 4: theriver567 (50208 in chips) 
+Seat 5: J. Aspitia (13759 in chips) 
+Seat 6: NIKI-Z565 (16743 in chips) 
+theriver567: posts small blind 50
+J. Aspitia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qc 6c]
+NIKI-Z565: calls 100
+al_bandicoot: calls 100
+serioushippo677: raises 200 to 300
+theriver567: raises 200 to 500
+J. Aspitia: folds 
+NIKI-Z565: calls 400
+al_bandicoot: calls 400
+serioushippo677: calls 200
+*** FLOP *** [Qd Kc 4d]
+theriver567: checks 
+NIKI-Z565: checks 
+al_bandicoot: bets 12363 and is all-in
+serioushippo677: folds 
+theriver567: folds 
+NIKI-Z565: folds 
+Uncalled bet (12363) returned to al_bandicoot
+al_bandicoot collected 1984 from pot
+al_bandicoot: doesn't show hand 
+*** SUMMARY ***
+Total pot 2100 | Rake 116 
+Board [Qd Kc 4d]
+Seat 1: al_bandicoot collected (1984)
+Seat 2: serioushippo677 (button) folded on the Flop
+Seat 4: theriver567 (small blind) folded on the Flop
+Seat 5: J. Aspitia (big blind) folded before Flop
+Seat 6: NIKI-Z565 folded on the Flop
+
+
+
+PokerStars Hand #240408022424:  Hold'em No Limit (50/100) - 2022/12/12 0:29:35 CUST [2022/12/11 18:29:35 ET]
+Table 'Rostia' 6-max (Play Money) Seat #4 is the button
+Seat 1: al_bandicoot (14347 in chips) 
+Seat 2: serioushippo677 (5568 in chips) 
+Seat 4: theriver567 (49708 in chips) 
+Seat 5: J. Aspitia (13659 in chips) 
+Seat 6: NIKI-Z565 (16243 in chips) 
+J. Aspitia: posts small blind 50
+NIKI-Z565: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8s 7d]
+al_bandicoot: calls 100
+serioushippo677: folds 
+theriver567: folds 
+MAXIMO1313 joins the table at seat #3 
+J. Aspitia: calls 50
+NIKI-Z565: checks 
+*** FLOP *** [9d 7s Qh]
+J. Aspitia: checks 
+NIKI-Z565: checks 
+al_bandicoot: bets 100
+J. Aspitia: calls 100
+NIKI-Z565: calls 100
+*** TURN *** [9d 7s Qh] [Td]
+J. Aspitia: checks 
+NIKI-Z565: checks 
+al_bandicoot: bets 100
+J. Aspitia: calls 100
+NIKI-Z565: calls 100
+*** RIVER *** [9d 7s Qh Td] [2d]
+J. Aspitia: checks 
+NIKI-Z565: checks 
+al_bandicoot: bets 850
+J. Aspitia: raises 6650 to 7500
+NIKI-Z565: folds 
+al_bandicoot has timed out
+al_bandicoot: folds 
+Uncalled bet (6650) returned to J. Aspitia
+J. Aspitia collected 2457 from pot
+*** SUMMARY ***
+Total pot 2600 | Rake 143 
+Board [9d 7s Qh Td 2d]
+Seat 1: al_bandicoot folded on the River
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 4: theriver567 (button) folded before Flop (didn't bet)
+Seat 5: J. Aspitia (small blind) collected (2457)
+Seat 6: NIKI-Z565 (big blind) folded on the River
+
+
+
+PokerStars Hand #240408041393:  Hold'em No Limit (50/100) - 2022/12/12 0:30:33 CUST [2022/12/11 18:30:33 ET]
+Table 'Rostia' 6-max (Play Money) Seat #5 is the button
+Seat 1: al_bandicoot (13197 in chips) 
+Seat 2: serioushippo677 (5568 in chips) 
+Seat 3: MAXIMO1313 (10000 in chips) 
+Seat 4: theriver567 (49708 in chips) 
+Seat 5: J. Aspitia (14966 in chips) 
+Seat 6: NIKI-Z565 (15943 in chips) 
+NIKI-Z565: posts small blind 50
+al_bandicoot: posts big blind 100
+MAXIMO1313: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Js 5s]
+serioushippo677: folds 
+MAXIMO1313: checks 
+theriver567: folds 
+J. Aspitia: calls 100
+NIKI-Z565: calls 50
+al_bandicoot: raises 2800 to 2900
+MAXIMO1313: folds 
+J. Aspitia: folds 
+NIKI-Z565: folds 
+Uncalled bet (2800) returned to al_bandicoot
+al_bandicoot collected 400 from pot
+al_bandicoot: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: al_bandicoot (big blind) collected (400)
+Seat 2: serioushippo677 folded before Flop (didn't bet)
+Seat 3: MAXIMO1313 folded before Flop (didn't bet)
+Seat 4: theriver567 folded before Flop (didn't bet)
+Seat 5: J. Aspitia (button) folded before Flop
+Seat 6: NIKI-Z565 (small blind) folded before Flop
+
+
+

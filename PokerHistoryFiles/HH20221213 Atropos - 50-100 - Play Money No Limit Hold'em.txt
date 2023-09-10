@@ -1,0 +1,2008 @@
+﻿PokerStars Hand #240431722751:  Hold'em No Limit (50/100) - 2022/12/13 10:23:35 CUST [2022/12/13 4:23:35 ET]
+Table 'Atropos' 6-max (Play Money) Seat #5 is the button
+Seat 1: bagrones (29866 in chips) 
+Seat 3: Cambust (7396 in chips) 
+Seat 4: serioushippo677 (10000 in chips) 
+Seat 5: ayogipa8 (13608 in chips) 
+Seat 6: ionilie123 (12996 in chips) 
+ionilie123: posts small blind 50
+bagrones: posts big blind 100
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [5s 6h]
+Cambust: folds 
+serioushippo677: checks 
+ayogipa8: calls 100
+ionilie123: calls 50
+bagrones: checks 
+*** FLOP *** [Js Ah 4d]
+ionilie123: checks 
+bagrones: checks 
+serioushippo677: checks 
+ayogipa8: checks 
+*** TURN *** [Js Ah 4d] [Ad]
+ionilie123: bets 100
+bagrones: folds 
+serioushippo677: folds 
+ayogipa8: folds 
+Uncalled bet (100) returned to ionilie123
+ionilie123 collected 378 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [Js Ah 4d Ad]
+Seat 1: bagrones (big blind) folded on the Turn
+Seat 3: Cambust folded before Flop (didn't bet)
+Seat 4: serioushippo677 folded on the Turn (didn't bet)
+Seat 5: ayogipa8 (button) folded on the Turn
+Seat 6: ionilie123 (small blind) collected (378)
+
+
+
+PokerStars Hand #240431727646:  Hold'em No Limit (50/100) - 2022/12/13 10:24:13 CUST [2022/12/13 4:24:13 ET]
+Table 'Atropos' 6-max (Play Money) Seat #6 is the button
+Seat 1: bagrones (29766 in chips) 
+Seat 3: Cambust (7396 in chips) 
+Seat 4: serioushippo677 (9900 in chips) 
+Seat 5: ayogipa8 (13508 in chips) 
+Seat 6: ionilie123 (13274 in chips) 
+bagrones: posts small blind 50
+Cambust: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Tc Td]
+serioushippo677: raises 200 to 300
+ayogipa8: raises 200 to 500
+ionilie123: folds 
+bagrones: calls 450
+Cambust: folds 
+serioushippo677: calls 200
+*** FLOP *** [4c 9s 6c]
+bagrones: checks 
+serioushippo677: bets 756
+ayogipa8: calls 756
+bagrones: folds 
+*** TURN *** [4c 9s 6c] [Qs]
+serioushippo677: checks 
+ayogipa8: checks 
+*** RIVER *** [4c 9s 6c Qs] [6s]
+serioushippo677: checks 
+ayogipa8: checks 
+*** SHOW DOWN ***
+serioushippo677: shows [Tc Td] (two pair, Tens and Sixes)
+ayogipa8: mucks hand 
+serioushippo677 collected 2941 from pot
+*** SUMMARY ***
+Total pot 3112 | Rake 171 
+Board [4c 9s 6c Qs 6s]
+Seat 1: bagrones (small blind) folded on the Flop
+Seat 3: Cambust (big blind) folded before Flop
+Seat 4: serioushippo677 showed [Tc Td] and won (2941) with two pair, Tens and Sixes
+Seat 5: ayogipa8 mucked [Th Kc]
+Seat 6: ionilie123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240431733201:  Hold'em No Limit (50/100) - 2022/12/13 10:24:56 CUST [2022/12/13 4:24:56 ET]
+Table 'Atropos' 6-max (Play Money) Seat #1 is the button
+Seat 1: bagrones (29266 in chips) 
+Seat 3: Cambust (7296 in chips) 
+Seat 4: serioushippo677 (11585 in chips) 
+Seat 5: ayogipa8 (12252 in chips) 
+Seat 6: ionilie123 (13274 in chips) 
+Cambust: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qc 4c]
+ayogipa8: calls 100
+ionilie123: calls 100
+bagrones: calls 100
+Cambust: calls 50
+serioushippo677: checks 
+*** FLOP *** [3d 6h 2c]
+Cambust: checks 
+serioushippo677: checks 
+ayogipa8: bets 100
+ionilie123: calls 100
+bagrones: calls 100
+Cambust: calls 100
+serioushippo677: folds 
+*** TURN *** [3d 6h 2c] [8c]
+Cambust: bets 100
+ayogipa8: raises 100 to 200
+ionilie123: calls 200
+bagrones: calls 200
+Cambust: calls 100
+*** RIVER *** [3d 6h 2c 8c] [4h]
+Cambust: checks 
+ayogipa8: bets 100
+ionilie123: calls 100
+bagrones: raises 100 to 200
+Cambust: calls 200
+ayogipa8: calls 100
+ionilie123: calls 100
+*** SHOW DOWN ***
+bagrones: shows [5h 8h] (a straight, Deuce to Six)
+Cambust: mucks hand 
+ayogipa8: mucks hand 
+ionilie123: mucks hand 
+bagrones collected 2362 from pot
+*** SUMMARY ***
+Total pot 2500 | Rake 138 
+Board [3d 6h 2c 8c 4h]
+Seat 1: bagrones (button) showed [5h 8h] and won (2362) with a straight, Deuce to Six
+Seat 3: Cambust (small blind) mucked [Ts 6d]
+Seat 4: serioushippo677 (big blind) folded on the Flop
+Seat 5: ayogipa8 mucked [Td Tc]
+Seat 6: ionilie123 mucked [Qd 6c]
+
+
+
+PokerStars Hand #240431742352:  Hold'em No Limit (50/100) - 2022/12/13 10:26:09 CUST [2022/12/13 4:26:09 ET]
+Table 'Atropos' 6-max (Play Money) Seat #3 is the button
+Seat 1: bagrones (31028 in chips) 
+Seat 3: Cambust (6696 in chips) 
+Seat 4: serioushippo677 (11485 in chips) 
+Seat 5: ayogipa8 (11652 in chips) 
+Seat 6: ionilie123 (12674 in chips) 
+serioushippo677: posts small blind 50
+ayogipa8: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [5s 8d]
+ionilie123: calls 100
+bagrones: calls 100
+Cambust: folds 
+Cambust leaves the table
+serioushippo677: folds 
+ayogipa8: checks 
+*** FLOP *** [Qh 9d Js]
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** TURN *** [Qh 9d Js] [3d]
+stack4meall joins the table at seat #3 
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** RIVER *** [Qh 9d Js 3d] [Ad]
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** SHOW DOWN ***
+ayogipa8: shows [5h 3c] (a pair of Threes)
+ionilie123: mucks hand 
+bagrones: shows [9c 2d] (a pair of Nines)
+bagrones collected 331 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 19 
+Board [Qh 9d Js 3d Ad]
+Seat 1: bagrones showed [9c 2d] and won (331) with a pair of Nines
+Seat 3: Cambust (button) folded before Flop (didn't bet)
+Seat 4: serioushippo677 (small blind) folded before Flop
+Seat 5: ayogipa8 (big blind) showed [5h 3c] and lost with a pair of Threes
+Seat 6: ionilie123 mucked [4d 2h]
+
+
+
+PokerStars Hand #240431747029:  Hold'em No Limit (50/100) - 2022/12/13 10:26:45 CUST [2022/12/13 4:26:45 ET]
+Table 'Atropos' 6-max (Play Money) Seat #4 is the button
+Seat 1: bagrones (31259 in chips) 
+Seat 3: stack4meall (4036 in chips) 
+Seat 4: serioushippo677 (11435 in chips) 
+Seat 5: ayogipa8 (11552 in chips) 
+Seat 6: ionilie123 (12574 in chips) 
+ayogipa8: posts small blind 50
+ionilie123: posts big blind 100
+stack4meall: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [7h Kh]
+bagrones: calls 100
+stack4meall: checks 
+serioushippo677: raises 200 to 300
+ayogipa8: calls 250
+ionilie123: raises 1100 to 1400
+bagrones: folds 
+stack4meall: calls 1300
+serioushippo677: folds 
+ayogipa8: calls 1100
+*** FLOP *** [8h 5c 4d]
+ayogipa8: checks 
+ionilie123: bets 2173
+stack4meall: calls 2173
+ayogipa8: raises 7979 to 10152 and is all-in
+ionilie123: folds 
+stack4meall: calls 463 and is all-in
+Uncalled bet (7516) returned to ayogipa8
+*** TURN *** [8h 5c 4d] [6h]
+*** RIVER *** [8h 5c 4d 6h] [4h]
+*** SHOW DOWN ***
+ayogipa8: shows [7d Ks] (a straight, Four to Eight)
+stack4meall: shows [Kc Jc] (a pair of Fours)
+ayogipa8 collected 11383 from pot
+*** SUMMARY ***
+Total pot 12045 | Rake 662 
+Board [8h 5c 4d 6h 4h]
+Seat 1: bagrones folded before Flop
+Seat 3: stack4meall showed [Kc Jc] and lost with a pair of Fours
+Seat 4: serioushippo677 (button) folded before Flop
+Seat 5: ayogipa8 (small blind) showed [7d Ks] and won (11383) with a straight, Four to Eight
+Seat 6: ionilie123 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240431754023:  Hold'em No Limit (50/100) - 2022/12/13 10:27:40 CUST [2022/12/13 4:27:40 ET]
+Table 'Atropos' 6-max (Play Money) Seat #5 is the button
+Seat 1: bagrones (31159 in chips) 
+Seat 4: serioushippo677 (11135 in chips) 
+Seat 5: ayogipa8 (18899 in chips) 
+Seat 6: ionilie123 (9001 in chips) 
+ionilie123: posts small blind 50
+bagrones: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2h 9s]
+stack4meall leaves the table
+serioushippo677: folds 
+ayogipa8: folds 
+ionilie123: calls 50
+bagrones: checks 
+*** FLOP *** [4d 3s Kd]
+ionilie123: checks 
+bagrones: checks 
+*** TURN *** [4d 3s Kd] [5h]
+ionilie123: checks 
+bagrones: checks 
+*** RIVER *** [4d 3s Kd 5h] [Qh]
+TAlexandr2716 joins the table at seat #3 
+ionilie123: checks 
+bagrones: checks 
+*** SHOW DOWN ***
+ionilie123: shows [Jh 9c] (high card King)
+bagrones: mucks hand 
+ionilie123 collected 189 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 11 
+Board [4d 3s Kd 5h Qh]
+Seat 1: bagrones (big blind) mucked [Jc 2s]
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: ayogipa8 (button) folded before Flop (didn't bet)
+Seat 6: ionilie123 (small blind) showed [Jh 9c] and won (189) with high card King
+
+
+
+PokerStars Hand #240431757383:  Hold'em No Limit (50/100) - 2022/12/13 10:28:07 CUST [2022/12/13 4:28:07 ET]
+Table 'Atropos' 6-max (Play Money) Seat #6 is the button
+Seat 1: bagrones (31059 in chips) 
+Seat 3: TAlexandr2716 (10000 in chips) 
+Seat 4: serioushippo677 (11135 in chips) 
+Seat 5: ayogipa8 (18899 in chips) 
+Seat 6: ionilie123 (9090 in chips) 
+bagrones: posts small blind 50
+TAlexandr2716: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8d 8c]
+serioushippo677: raises 100 to 200
+ayogipa8: calls 200
+ionilie123: folds 
+bagrones: calls 150
+TAlexandr2716: calls 100
+*** FLOP *** [Qs 5h 7d]
+bagrones: checks 
+TAlexandr2716: checks 
+serioushippo677: checks 
+ayogipa8: bets 100
+bagrones: calls 100
+TAlexandr2716: calls 100
+serioushippo677: raises 200 to 300
+ayogipa8: calls 200
+bagrones: calls 200
+TAlexandr2716: calls 200
+*** TURN *** [Qs 5h 7d] [Qc]
+bagrones: checks 
+TAlexandr2716: checks 
+serioushippo677: bets 945
+ayogipa8: folds 
+bagrones: folds 
+TAlexandr2716: calls 945
+*** RIVER *** [Qs 5h 7d Qc] [Ac]
+TAlexandr2716: checks 
+serioushippo677: checks 
+*** SHOW DOWN ***
+TAlexandr2716: shows [3s Qh] (three of a kind, Queens)
+serioushippo677: mucks hand 
+TAlexandr2716 collected 3676 from pot
+flob8b leaves the table
+*** SUMMARY ***
+Total pot 3890 | Rake 214 
+Board [Qs 5h 7d Qc Ac]
+Seat 1: bagrones (small blind) folded on the Turn
+Seat 3: TAlexandr2716 (big blind) showed [3s Qh] and won (3676) with three of a kind, Queens
+Seat 4: serioushippo677 mucked [8d 8c]
+Seat 5: ayogipa8 folded on the Turn
+Seat 6: ionilie123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240431767957:  Hold'em No Limit (50/100) - 2022/12/13 10:29:30 CUST [2022/12/13 4:29:30 ET]
+Table 'Atropos' 6-max (Play Money) Seat #1 is the button
+Seat 1: bagrones (30559 in chips) 
+Seat 3: TAlexandr2716 (12231 in chips) 
+Seat 4: serioushippo677 (9690 in chips) 
+Seat 5: ayogipa8 (18399 in chips) 
+Seat 6: ionilie123 (9090 in chips) 
+TAlexandr2716: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kc Ts]
+ayogipa8: calls 100
+ionilie123: calls 100
+bagrones: calls 100
+TAlexandr2716: calls 50
+serioushippo677: checks 
+*** FLOP *** [3d 6c Ks]
+TAlexandr2716: checks 
+serioushippo677: checks 
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** TURN *** [3d 6c Ks] [As]
+TAlexandr2716: checks 
+serioushippo677: checks 
+Goldbuster1 joins the table at seat #2 
+ayogipa8: bets 100
+ionilie123: calls 100
+bagrones: calls 100
+TAlexandr2716: folds 
+serioushippo677: calls 100
+*** RIVER *** [3d 6c Ks As] [Qh]
+serioushippo677: checks 
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: bets 850
+serioushippo677: calls 850
+ayogipa8: folds 
+ionilie123: folds 
+*** SHOW DOWN ***
+bagrones: shows [Qd Qs] (three of a kind, Queens)
+serioushippo677: mucks hand 
+bagrones collected 2457 from pot
+*** SUMMARY ***
+Total pot 2600 | Rake 143 
+Board [3d 6c Ks As Qh]
+Seat 1: bagrones (button) showed [Qd Qs] and won (2457) with three of a kind, Queens
+Seat 3: TAlexandr2716 (small blind) folded on the Turn
+Seat 4: serioushippo677 (big blind) mucked [Kc Ts]
+Seat 5: ayogipa8 folded on the River
+Seat 6: ionilie123 folded on the River
+
+
+
+PokerStars Hand #240431776192:  Hold'em No Limit (50/100) - 2022/12/13 10:30:34 CUST [2022/12/13 4:30:34 ET]
+Table 'Atropos' 6-max (Play Money) Seat #3 is the button
+Seat 1: bagrones (31966 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (12131 in chips) 
+Seat 4: serioushippo677 (8640 in chips) 
+Seat 5: ayogipa8 (18199 in chips) 
+Seat 6: ionilie123 (8890 in chips) 
+serioushippo677: posts small blind 50
+ayogipa8: posts big blind 100
+Goldbuster1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kc 6c]
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: checks 
+TAlexandr2716: folds 
+serioushippo677: folds 
+ayogipa8: checks 
+*** FLOP *** [6h Ah 4d]
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+Goldbuster1: checks 
+*** TURN *** [6h Ah 4d] [7c]
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+Goldbuster1: bets 9900 and is all-in
+ayogipa8: folds 
+ionilie123: folds 
+bagrones: folds 
+Uncalled bet (9900) returned to Goldbuster1
+Goldbuster1 collected 425 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 25 
+Board [6h Ah 4d 7c]
+Seat 1: bagrones folded on the Turn
+Seat 2: Goldbuster1 collected (425)
+Seat 3: TAlexandr2716 (button) folded before Flop (didn't bet)
+Seat 4: serioushippo677 (small blind) folded before Flop
+Seat 5: ayogipa8 (big blind) folded on the Turn
+Seat 6: ionilie123 folded on the Turn
+
+
+
+PokerStars Hand #240431782894:  Hold'em No Limit (50/100) - 2022/12/13 10:31:26 CUST [2022/12/13 4:31:26 ET]
+Table 'Atropos' 6-max (Play Money) Seat #4 is the button
+Seat 1: bagrones (31866 in chips) 
+Seat 2: Goldbuster1 (10325 in chips) 
+Seat 3: TAlexandr2716 (12131 in chips) 
+Seat 4: serioushippo677 (8590 in chips) 
+Seat 5: ayogipa8 (18099 in chips) 
+Seat 6: ionilie123 (8790 in chips) 
+ayogipa8: posts small blind 50
+ionilie123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jd Js]
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: folds 
+serioushippo677: raises 200 to 300
+ayogipa8: calls 250
+ionilie123: calls 200
+bagrones: calls 200
+*** FLOP *** [5c 7s Qs]
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+serioushippo677: checks 
+*** TURN *** [5c 7s Qs] [Ah]
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+serioushippo677: checks 
+*** RIVER *** [5c 7s Qs Ah] [9s]
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+serioushippo677: checks 
+*** SHOW DOWN ***
+ayogipa8: shows [5h 4h] (a pair of Fives)
+ionilie123: mucks hand 
+bagrones: mucks hand 
+serioushippo677: shows [Jd Js] (a pair of Jacks)
+serioushippo677 collected 1134 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 66 
+Board [5c 7s Qs Ah 9s]
+Seat 1: bagrones mucked [Tc Jh]
+Seat 2: Goldbuster1 folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 folded before Flop (didn't bet)
+Seat 4: serioushippo677 (button) showed [Jd Js] and won (1134) with a pair of Jacks
+Seat 5: ayogipa8 (small blind) showed [5h 4h] and lost with a pair of Fives
+Seat 6: ionilie123 (big blind) mucked [4c 6c]
+
+
+
+PokerStars Hand #240431790029:  Hold'em No Limit (50/100) - 2022/12/13 10:32:21 CUST [2022/12/13 4:32:21 ET]
+Table 'Atropos' 6-max (Play Money) Seat #5 is the button
+Seat 1: bagrones (31566 in chips) 
+Seat 2: Goldbuster1 (10325 in chips) 
+Seat 3: TAlexandr2716 (12131 in chips) 
+Seat 4: serioushippo677 (9424 in chips) 
+Seat 5: ayogipa8 (17799 in chips) 
+Seat 6: ionilie123 (8490 in chips) 
+ionilie123: posts small blind 50
+bagrones: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qs 4h]
+Goldbuster1: raises 300 to 400
+TAlexandr2716: calls 400
+serioushippo677: folds 
+ayogipa8: calls 400
+ionilie123: folds 
+bagrones: calls 300
+*** FLOP *** [8d 3d 8s]
+bagrones: checks 
+Goldbuster1: bets 425
+TAlexandr2716: calls 425
+ayogipa8: folds 
+bagrones: folds 
+*** TURN *** [8d 3d 8s] [7d]
+Goldbuster1: checks 
+TAlexandr2716: checks 
+*** RIVER *** [8d 3d 8s 7d] [Ad]
+Goldbuster1: bets 400
+TAlexandr2716: calls 400
+*** SHOW DOWN ***
+Goldbuster1: shows [Jd Jh] (a flush, Ace high)
+TAlexandr2716: mucks hand 
+Goldbuster1 collected 3118 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 182 
+Board [8d 3d 8s 7d Ad]
+Seat 1: bagrones (big blind) folded on the Flop
+Seat 2: Goldbuster1 showed [Jd Jh] and won (3118) with a flush, Ace high
+Seat 3: TAlexandr2716 mucked [As Th]
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: ayogipa8 (button) folded on the Flop
+Seat 6: ionilie123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240431796942:  Hold'em No Limit (50/100) - 2022/12/13 10:33:15 CUST [2022/12/13 4:33:15 ET]
+Table 'Atropos' 6-max (Play Money) Seat #6 is the button
+Seat 1: bagrones (31166 in chips) 
+Seat 2: Goldbuster1 (12218 in chips) 
+Seat 3: TAlexandr2716 (10906 in chips) 
+Seat 4: serioushippo677 (9424 in chips) 
+Seat 5: ayogipa8 (17399 in chips) 
+Seat 6: ionilie123 (8440 in chips) 
+bagrones: posts small blind 50
+Goldbuster1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qs 7c]
+TAlexandr2716: folds 
+serioushippo677: folds 
+ayogipa8: folds 
+ionilie123: calls 100
+bagrones: calls 50
+Goldbuster1: checks 
+*** FLOP *** [Js 4h Td]
+bagrones: checks 
+Goldbuster1: checks 
+ionilie123: checks 
+*** TURN *** [Js 4h Td] [Qc]
+bagrones: checks 
+Goldbuster1: checks 
+ionilie123: checks 
+*** RIVER *** [Js 4h Td Qc] [5h]
+bagrones: bets 200
+Goldbuster1: folds 
+ionilie123: raises 683 to 883
+bagrones: calls 683
+*** SHOW DOWN ***
+ionilie123: shows [5d 4s] (two pair, Fives and Fours)
+bagrones: mucks hand 
+ionilie123 collected 1952 from pot
+*** SUMMARY ***
+Total pot 2066 | Rake 114 
+Board [Js 4h Td Qc 5h]
+Seat 1: bagrones (small blind) mucked [Qd 3d]
+Seat 2: Goldbuster1 (big blind) folded on the River
+Seat 3: TAlexandr2716 folded before Flop (didn't bet)
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: ayogipa8 folded before Flop (didn't bet)
+Seat 6: ionilie123 (button) showed [5d 4s] and won (1952) with two pair, Fives and Fours
+
+
+
+PokerStars Hand #240431803031:  Hold'em No Limit (50/100) - 2022/12/13 10:34:02 CUST [2022/12/13 4:34:02 ET]
+Table 'Atropos' 6-max (Play Money) Seat #1 is the button
+Seat 1: bagrones (30183 in chips) 
+Seat 2: Goldbuster1 (12118 in chips) 
+Seat 3: TAlexandr2716 (10906 in chips) 
+Seat 4: serioushippo677 (9424 in chips) 
+Seat 5: ayogipa8 (17399 in chips) 
+Seat 6: ionilie123 (9409 in chips) 
+Goldbuster1: posts small blind 50
+TAlexandr2716: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qh 3d]
+serioushippo677: folds 
+ayogipa8: calls 100
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: calls 50
+TAlexandr2716: checks 
+*** FLOP *** [4s 6d 8h]
+Goldbuster1: checks 
+TAlexandr2716: checks 
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** TURN *** [4s 6d 8h] [9d]
+Goldbuster1: checks 
+TAlexandr2716: checks 
+ayogipa8: checks 
+ionilie123: bets 472
+bagrones: calls 472
+Goldbuster1: folds 
+TAlexandr2716: calls 472
+ayogipa8: calls 472
+*** RIVER *** [4s 6d 8h 9d] [6h]
+TAlexandr2716: checks 
+ayogipa8: checks 
+ionilie123: bets 1128
+bagrones: folds 
+TAlexandr2716: folds 
+ayogipa8: folds 
+Uncalled bet (1128) returned to ionilie123
+ionilie123 collected 2257 from pot
+*** SUMMARY ***
+Total pot 2388 | Rake 131 
+Board [4s 6d 8h 9d 6h]
+Seat 1: bagrones (button) folded on the River
+Seat 2: Goldbuster1 (small blind) folded on the Turn
+Seat 3: TAlexandr2716 (big blind) folded on the River
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: ayogipa8 folded on the River
+Seat 6: ionilie123 collected (2257)
+
+
+
+PokerStars Hand #240431814232:  Hold'em No Limit (50/100) - 2022/12/13 10:35:27 CUST [2022/12/13 4:35:27 ET]
+Table 'Atropos' 6-max (Play Money) Seat #2 is the button
+Seat 1: bagrones (29611 in chips) 
+Seat 2: Goldbuster1 (12018 in chips) 
+Seat 3: TAlexandr2716 (10334 in chips) 
+Seat 4: serioushippo677 (9424 in chips) 
+Seat 5: ayogipa8 (16827 in chips) 
+Seat 6: ionilie123 (11094 in chips) 
+TAlexandr2716: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8d 3c]
+ayogipa8: calls 100
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: calls 50
+serioushippo677: checks 
+*** FLOP *** [Kd Ah 9d]
+TAlexandr2716: checks 
+serioushippo677: checks 
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** TURN *** [Kd Ah 9d] [As]
+TAlexandr2716: checks 
+serioushippo677: checks 
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** RIVER *** [Kd Ah 9d As] [Qc]
+TAlexandr2716: checks 
+serioushippo677: checks 
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** SHOW DOWN ***
+TAlexandr2716: shows [7h Kh] (two pair, Aces and Kings)
+serioushippo677: mucks hand 
+ayogipa8: mucks hand 
+ionilie123: mucks hand 
+bagrones: mucks hand 
+TAlexandr2716 collected 472 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [Kd Ah 9d As Qc]
+Seat 1: bagrones mucked [5s 8c]
+Seat 2: Goldbuster1 (button) folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 (small blind) showed [7h Kh] and won (472) with two pair, Aces and Kings
+Seat 4: serioushippo677 (big blind) mucked [8d 3c]
+Seat 5: ayogipa8 mucked [Jh Qh]
+Seat 6: ionilie123 mucked [4d Tc]
+
+
+
+PokerStars Hand #240431824232:  Hold'em No Limit (50/100) - 2022/12/13 10:36:43 CUST [2022/12/13 4:36:43 ET]
+Table 'Atropos' 6-max (Play Money) Seat #3 is the button
+Seat 1: bagrones (29511 in chips) 
+Seat 2: Goldbuster1 (12018 in chips) 
+Seat 3: TAlexandr2716 (10706 in chips) 
+Seat 4: serioushippo677 (9324 in chips) 
+Seat 5: ayogipa8 (16727 in chips) 
+Seat 6: ionilie123 (10994 in chips) 
+serioushippo677: posts small blind 50
+ayogipa8: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jc 8d]
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: calls 100
+TAlexandr2716: calls 100
+serioushippo677: folds 
+ayogipa8: checks 
+*** FLOP *** [6h 5h 2h]
+ayogipa8: checks 
+ionilie123: bets 100
+bagrones: calls 100
+Goldbuster1: raises 600 to 700
+TAlexandr2716: calls 700
+ayogipa8: folds 
+ionilie123: folds 
+bagrones: calls 600
+*** TURN *** [6h 5h 2h] [6s]
+bagrones: checks 
+Goldbuster1: bets 800
+TAlexandr2716: calls 800
+bagrones: calls 800
+*** RIVER *** [6h 5h 2h 6s] [Qd]
+bagrones: checks 
+Goldbuster1: checks 
+TAlexandr2716: checks 
+*** SHOW DOWN ***
+bagrones: shows [Kc 6c] (three of a kind, Sixes)
+Goldbuster1: mucks hand 
+TAlexandr2716: mucks hand 
+bagrones collected 4867 from pot
+*** SUMMARY ***
+Total pot 5150 | Rake 283 
+Board [6h 5h 2h 6s Qd]
+Seat 1: bagrones showed [Kc 6c] and won (4867) with three of a kind, Sixes
+Seat 2: Goldbuster1 mucked [9h 9s]
+Seat 3: TAlexandr2716 (button) mucked [Jd Qh]
+Seat 4: serioushippo677 (small blind) folded before Flop
+Seat 5: ayogipa8 (big blind) folded on the Flop
+Seat 6: ionilie123 folded on the Flop
+
+
+
+PokerStars Hand #240431833955:  Hold'em No Limit (50/100) - 2022/12/13 10:37:55 CUST [2022/12/13 4:37:55 ET]
+Table 'Atropos' 6-max (Play Money) Seat #4 is the button
+Seat 1: bagrones (32778 in chips) 
+Seat 2: Goldbuster1 (10418 in chips) 
+Seat 3: TAlexandr2716 (9106 in chips) 
+Seat 4: serioushippo677 (9274 in chips) 
+Seat 5: ayogipa8 (16627 in chips) 
+Seat 6: ionilie123 (10794 in chips) 
+ayogipa8: posts small blind 50
+ionilie123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qd Ac]
+bagrones: calls 100
+Goldbuster1: raises 700 to 800
+TAlexandr2716: folds 
+serioushippo677: calls 800
+ayogipa8: calls 750
+ionilie123: folds 
+bagrones: calls 700
+*** FLOP *** [5h 9d Qc]
+ayogipa8: checks 
+bagrones: checks 
+Goldbuster1: bets 144
+serioushippo677: raises 3406 to 3550
+ayogipa8: calls 3550
+bagrones: folds 
+Goldbuster1: folds 
+*** TURN *** [5h 9d Qc] [5s]
+ayogipa8: checks 
+serioushippo677: bets 4924 and is all-in
+ayogipa8: calls 4924
+*** RIVER *** [5h 9d Qc 5s] [2d]
+*** SHOW DOWN ***
+ayogipa8: shows [8d 7c] (a pair of Fives)
+serioushippo677: shows [Qd Ac] (two pair, Queens and Fives)
+serioushippo677 collected 19270 from pot
+*** SUMMARY ***
+Total pot 20392 | Rake 1122 
+Board [5h 9d Qc 5s 2d]
+Seat 1: bagrones folded on the Flop
+Seat 2: Goldbuster1 folded on the Flop
+Seat 3: TAlexandr2716 folded before Flop (didn't bet)
+Seat 4: serioushippo677 (button) showed [Qd Ac] and won (19270) with two pair, Queens and Fives
+Seat 5: ayogipa8 (small blind) showed [8d 7c] and lost with a pair of Fives
+Seat 6: ionilie123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240431843271:  Hold'em No Limit (50/100) - 2022/12/13 10:39:05 CUST [2022/12/13 4:39:05 ET]
+Table 'Atropos' 6-max (Play Money) Seat #5 is the button
+Seat 1: bagrones (31978 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (9106 in chips) 
+Seat 4: serioushippo677 (19270 in chips) 
+Seat 5: ayogipa8 (7353 in chips) 
+Seat 6: ionilie123 (10694 in chips) 
+ionilie123: posts small blind 50
+bagrones: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kc Qc]
+Goldbuster1: calls 100
+TAlexandr2716: calls 100
+serioushippo677: raises 200 to 300
+ayogipa8: raises 7053 to 7353 and is all-in
+ionilie123: calls 7303
+bagrones: folds 
+Goldbuster1: folds 
+TAlexandr2716: folds 
+serioushippo677: folds 
+*** FLOP *** [4c Td Ks]
+*** TURN *** [4c Td Ks] [9h]
+*** RIVER *** [4c Td Ks 9h] [Js]
+*** SHOW DOWN ***
+ionilie123: shows [Jd Jc] (three of a kind, Jacks)
+ayogipa8: shows [6s Tc] (a pair of Tens)
+ionilie123 collected 14464 from pot
+*** SUMMARY ***
+Total pot 15306 | Rake 842 
+Board [4c Td Ks 9h Js]
+Seat 1: bagrones (big blind) folded before Flop
+Seat 2: Goldbuster1 folded before Flop
+Seat 3: TAlexandr2716 folded before Flop
+Seat 4: serioushippo677 folded before Flop
+Seat 5: ayogipa8 (button) showed [6s Tc] and lost with a pair of Tens
+Seat 6: ionilie123 (small blind) showed [Jd Jc] and won (14464) with three of a kind, Jacks
+
+
+
+PokerStars Hand #240431847934:  Hold'em No Limit (50/100) - 2022/12/13 10:39:40 CUST [2022/12/13 4:39:40 ET]
+Table 'Atropos' 6-max (Play Money) Seat #6 is the button
+Seat 1: bagrones (31878 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (9006 in chips) 
+Seat 4: serioushippo677 (18970 in chips) 
+Seat 6: ionilie123 (17805 in chips) 
+bagrones: posts small blind 50
+Goldbuster1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kd Jd]
+TAlexandr2716: calls 100
+serioushippo677: raises 200 to 300
+ionilie123: calls 300
+bagrones: calls 250
+Goldbuster1: folds 
+TAlexandr2716: calls 200
+*** FLOP *** [Ac 3s Jh]
+bagrones: checks 
+TAlexandr2716: checks 
+serioushippo677: bets 614
+ionilie123: calls 614
+bagrones: folds 
+TAlexandr2716: calls 614
+*** TURN *** [Ac 3s Jh] [8h]
+TAlexandr2716: checks 
+serioushippo677: checks 
+ionilie123: checks 
+*** RIVER *** [Ac 3s Jh 8h] [7h]
+TAlexandr2716: bets 100
+serioushippo677: calls 100
+ionilie123: calls 100
+*** SHOW DOWN ***
+TAlexandr2716: shows [Ad 3h] (two pair, Aces and Threes)
+serioushippo677: mucks hand 
+ionilie123: mucks hand 
+TAlexandr2716 collected 3253 from pot
+*** SUMMARY ***
+Total pot 3442 | Rake 189 
+Board [Ac 3s Jh 8h 7h]
+Seat 1: bagrones (small blind) folded on the Flop
+Seat 2: Goldbuster1 (big blind) folded before Flop
+Seat 3: TAlexandr2716 showed [Ad 3h] and won (3253) with two pair, Aces and Threes
+Seat 4: serioushippo677 mucked [Kd Jd]
+Seat 6: ionilie123 (button) mucked [4d 4s]
+
+
+
+PokerStars Hand #240431854138:  Hold'em No Limit (50/100) - 2022/12/13 10:40:25 CUST [2022/12/13 4:40:25 ET]
+Table 'Atropos' 6-max (Play Money) Seat #1 is the button
+Seat 1: bagrones (31578 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (11245 in chips) 
+Seat 4: serioushippo677 (17956 in chips) 
+Seat 5: ayogipa8 (10000 in chips) 
+Seat 6: ionilie123 (16791 in chips) 
+Goldbuster1: posts small blind 50
+TAlexandr2716: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4s 8h]
+serioushippo677: folds 
+ayogipa8: folds 
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: checks 
+*** FLOP *** [5s 3c 8s]
+TAlexandr2716: checks 
+ionilie123: bets 331
+bagrones: calls 331
+TAlexandr2716: calls 331
+*** TURN *** [5s 3c 8s] [Ks]
+TAlexandr2716: checks 
+ionilie123: bets 100
+bagrones: raises 100 to 200
+TAlexandr2716: folds 
+ionilie123: calls 100
+*** RIVER *** [5s 3c 8s Ks] [5c]
+ionilie123: bets 100
+bagrones: calls 100
+*** SHOW DOWN ***
+ionilie123: shows [8d Tc] (two pair, Eights and Fives)
+bagrones: mucks hand 
+ionilie123 collected 1836 from pot
+*** SUMMARY ***
+Total pot 1943 | Rake 107 
+Board [5s 3c 8s Ks 5c]
+Seat 1: bagrones (button) mucked [6h 4d]
+Seat 2: Goldbuster1 (small blind) folded before Flop
+Seat 3: TAlexandr2716 (big blind) folded on the Turn
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: ayogipa8 folded before Flop (didn't bet)
+Seat 6: ionilie123 showed [8d Tc] and won (1836) with two pair, Eights and Fives
+
+
+
+PokerStars Hand #240431863867:  Hold'em No Limit (50/100) - 2022/12/13 10:41:34 CUST [2022/12/13 4:41:34 ET]
+Table 'Atropos' 6-max (Play Money) Seat #2 is the button
+Seat 1: bagrones (30847 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (10814 in chips) 
+Seat 4: serioushippo677 (17956 in chips) 
+Seat 5: ayogipa8 (10000 in chips) 
+Seat 6: ionilie123 (17896 in chips) 
+TAlexandr2716: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jh Ad]
+ayogipa8: calls 100
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: raises 200 to 300
+serioushippo677: calls 200
+ayogipa8: calls 200
+ionilie123: folds 
+bagrones: calls 200
+*** FLOP *** [7h Tc 9d]
+TAlexandr2716: bets 100
+serioushippo677: calls 100
+ayogipa8: calls 100
+bagrones: calls 100
+*** TURN *** [7h Tc 9d] [3c]
+TAlexandr2716: bets 100
+serioushippo677: calls 100
+ayogipa8: raises 100 to 200
+bagrones: calls 200
+TAlexandr2716: calls 100
+serioushippo677: calls 100
+*** RIVER *** [7h Tc 9d 3c] [3d]
+TAlexandr2716: checks 
+serioushippo677: checks 
+ayogipa8: bets 1200
+bagrones: folds 
+TAlexandr2716: calls 1200
+serioushippo677: folds 
+*** SHOW DOWN ***
+ayogipa8: shows [7s Td] (two pair, Tens and Sevens)
+TAlexandr2716: shows [Ac As] (two pair, Aces and Threes)
+TAlexandr2716 collected 4630 from pot
+*** SUMMARY ***
+Total pot 4900 | Rake 270 
+Board [7h Tc 9d 3c 3d]
+Seat 1: bagrones folded on the River
+Seat 2: Goldbuster1 (button) folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 (small blind) showed [Ac As] and won (4630) with two pair, Aces and Threes
+Seat 4: serioushippo677 (big blind) folded on the River
+Seat 5: ayogipa8 showed [7s Td] and lost with two pair, Tens and Sevens
+Seat 6: ionilie123 folded before Flop
+
+
+
+PokerStars Hand #240431876344:  Hold'em No Limit (50/100) - 2022/12/13 10:43:03 CUST [2022/12/13 4:43:03 ET]
+Table 'Atropos' 6-max (Play Money) Seat #3 is the button
+Seat 1: bagrones (30247 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (13644 in chips) 
+Seat 4: serioushippo677 (17356 in chips) 
+Seat 5: ayogipa8 (8200 in chips) 
+Seat 6: ionilie123 (17796 in chips) 
+serioushippo677: posts small blind 50
+ayogipa8: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2h Tc]
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: calls 100
+serioushippo677: folds 
+ayogipa8: raises 8100 to 8200 and is all-in
+ionilie123: folds 
+bagrones: folds 
+TAlexandr2716: folds 
+Uncalled bet (8100) returned to ayogipa8
+ayogipa8 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: bagrones folded before Flop
+Seat 2: Goldbuster1 folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 (button) folded before Flop
+Seat 4: serioushippo677 (small blind) folded before Flop
+Seat 5: ayogipa8 (big blind) collected (450)
+Seat 6: ionilie123 folded before Flop
+
+
+
+PokerStars Hand #240431880944:  Hold'em No Limit (50/100) - 2022/12/13 10:43:36 CUST [2022/12/13 4:43:36 ET]
+Table 'Atropos' 6-max (Play Money) Seat #4 is the button
+Seat 1: bagrones (30147 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (13544 in chips) 
+Seat 4: serioushippo677 (17306 in chips) 
+Seat 5: ayogipa8 (8550 in chips) 
+Seat 6: ionilie123 (17696 in chips) 
+ayogipa8: posts small blind 50
+ionilie123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kh Qh]
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: calls 100
+serioushippo677: raises 200 to 300
+ayogipa8: folds 
+ionilie123: folds 
+bagrones: calls 200
+TAlexandr2716: calls 200
+*** FLOP *** [3d 8h 4s]
+bagrones: checks 
+TAlexandr2716: checks 
+serioushippo677: bets 496
+bagrones: calls 496
+TAlexandr2716: folds 
+*** TURN *** [3d 8h 4s] [Jc]
+bagrones: checks 
+serioushippo677: checks 
+*** RIVER *** [3d 8h 4s Jc] [3s]
+bagrones: bets 1930
+serioushippo677: folds 
+Uncalled bet (1930) returned to bagrones
+bagrones collected 1930 from pot
+*** SUMMARY ***
+Total pot 2042 | Rake 112 
+Board [3d 8h 4s Jc 3s]
+Seat 1: bagrones collected (1930)
+Seat 2: Goldbuster1 folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 folded on the Flop
+Seat 4: serioushippo677 (button) folded on the River
+Seat 5: ayogipa8 (small blind) folded before Flop
+Seat 6: ionilie123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240431889534:  Hold'em No Limit (50/100) - 2022/12/13 10:44:38 CUST [2022/12/13 4:44:38 ET]
+Table 'Atropos' 6-max (Play Money) Seat #5 is the button
+Seat 1: bagrones (31281 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (13244 in chips) 
+Seat 4: serioushippo677 (16510 in chips) 
+Seat 5: ayogipa8 (8500 in chips) 
+Seat 6: ionilie123 (17596 in chips) 
+ionilie123: posts small blind 50
+bagrones: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4s 3d]
+Goldbuster1: folds 
+TAlexandr2716: calls 100
+serioushippo677: folds 
+ayogipa8: calls 100
+ionilie123: calls 50
+bagrones: raises 100 to 200
+TAlexandr2716: calls 100
+ayogipa8: raises 8300 to 8500 and is all-in
+ionilie123: folds 
+bagrones: calls 8300
+TAlexandr2716: folds 
+*** FLOP *** [4h 8c As]
+*** TURN *** [4h 8c As] [Ks]
+*** RIVER *** [4h 8c As Ks] [Qc]
+*** SHOW DOWN ***
+bagrones: shows [Ac Kc] (two pair, Aces and Kings)
+ayogipa8: shows [Ad Td] (a pair of Aces)
+bagrones collected 16348 from pot
+*** SUMMARY ***
+Total pot 17300 | Rake 952 
+Board [4h 8c As Ks Qc]
+Seat 1: bagrones (big blind) showed [Ac Kc] and won (16348) with two pair, Aces and Kings
+Seat 2: Goldbuster1 folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 folded before Flop
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: ayogipa8 (button) showed [Ad Td] and lost with a pair of Aces
+Seat 6: ionilie123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240431896104:  Hold'em No Limit (50/100) - 2022/12/13 10:45:25 CUST [2022/12/13 4:45:25 ET]
+Table 'Atropos' 6-max (Play Money) Seat #6 is the button
+Seat 1: bagrones (39129 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (13044 in chips) 
+Seat 4: serioushippo677 (16510 in chips) 
+Seat 6: ionilie123 (17496 in chips) 
+bagrones: posts small blind 50
+Goldbuster1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8d 4h]
+TAlexandr2716: folds 
+serioushippo677: folds 
+ionilie123: calls 100
+bagrones: calls 50
+Goldbuster1: checks 
+*** FLOP *** [5d 3c Qs]
+bagrones: bets 100
+Goldbuster1: folds 
+ionilie123: folds 
+Uncalled bet (100) returned to bagrones
+bagrones collected 283 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 17 
+Board [5d 3c Qs]
+Seat 1: bagrones (small blind) collected (283)
+Seat 2: Goldbuster1 (big blind) folded on the Flop
+Seat 3: TAlexandr2716 folded before Flop (didn't bet)
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 6: ionilie123 (button) folded on the Flop
+
+
+
+PokerStars Hand #240431898893:  Hold'em No Limit (50/100) - 2022/12/13 10:45:44 CUST [2022/12/13 4:45:44 ET]
+Table 'Atropos' 6-max (Play Money) Seat #1 is the button
+Seat 1: bagrones (39312 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (13044 in chips) 
+Seat 4: serioushippo677 (16510 in chips) 
+Seat 5: ayogipa8 (10000 in chips) 
+Seat 6: ionilie123 (17396 in chips) 
+Goldbuster1: posts small blind 50
+TAlexandr2716: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3c Jh]
+serioushippo677: folds 
+ayogipa8: calls 100
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: calls 50
+TAlexandr2716: checks 
+*** FLOP *** [7h Ad 3d]
+Goldbuster1: checks 
+TAlexandr2716: checks 
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** TURN *** [7h Ad 3d] [6s]
+Goldbuster1: checks 
+TAlexandr2716: checks 
+ayogipa8: bets 100
+ionilie123: folds 
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: calls 100
+*** RIVER *** [7h Ad 3d 6s] [Td]
+TAlexandr2716: checks 
+ayogipa8: checks 
+bagrones: checks 
+*** SHOW DOWN ***
+TAlexandr2716: shows [Js 5d] (high card Ace)
+ayogipa8: shows [4s Ah] (a pair of Aces)
+bagrones: mucks hand 
+ayogipa8 collected 756 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 44 
+Board [7h Ad 3d 6s Td]
+Seat 1: bagrones (button) mucked [8c Kh]
+Seat 2: Goldbuster1 (small blind) folded on the Turn
+Seat 3: TAlexandr2716 (big blind) showed [Js 5d] and lost with high card Ace
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: ayogipa8 showed [4s Ah] and won (756) with a pair of Aces
+Seat 6: ionilie123 folded on the Turn
+
+
+
+PokerStars Hand #240431908170:  Hold'em No Limit (50/100) - 2022/12/13 10:46:51 CUST [2022/12/13 4:46:51 ET]
+Table 'Atropos' 6-max (Play Money) Seat #2 is the button
+Seat 1: bagrones (39112 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (12844 in chips) 
+Seat 4: serioushippo677 (16510 in chips) 
+Seat 5: ayogipa8 (10556 in chips) 
+Seat 6: ionilie123 (17296 in chips) 
+TAlexandr2716: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ad Kh]
+ayogipa8: calls 100
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: calls 50
+serioushippo677: raises 200 to 300
+ayogipa8: calls 200
+ionilie123: calls 200
+bagrones: calls 200
+TAlexandr2716: calls 200
+*** FLOP *** [5c 7d Tc]
+TAlexandr2716: checks 
+serioushippo677: checks 
+ayogipa8 has timed out
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** TURN *** [5c 7d Tc] [Jc]
+TAlexandr2716: checks 
+serioushippo677: checks 
+ayogipa8 has timed out
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** RIVER *** [5c 7d Tc Jc] [6s]
+TAlexandr2716: checks 
+serioushippo677: checks 
+ayogipa8 has timed out
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** SHOW DOWN ***
+TAlexandr2716: shows [4h 4s] (a pair of Fours)
+serioushippo677: mucks hand 
+ayogipa8: mucks hand 
+ionilie123: shows [6d 9s] (a pair of Sixes)
+bagrones: mucks hand 
+ionilie123 collected 1417 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 83 
+Board [5c 7d Tc Jc 6s]
+Seat 1: bagrones mucked [Kd Qs]
+Seat 2: Goldbuster1 (button) folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 (small blind) showed [4h 4s] and lost with a pair of Fours
+Seat 4: serioushippo677 (big blind) mucked [Ad Kh]
+Seat 5: ayogipa8 mucked [8h Qh]
+Seat 6: ionilie123 showed [6d 9s] and won (1417) with a pair of Sixes
+
+
+
+PokerStars Hand #240431927714:  Hold'em No Limit (50/100) - 2022/12/13 10:49:07 CUST [2022/12/13 4:49:07 ET]
+Table 'Atropos' 6-max (Play Money) Seat #3 is the button
+Seat 1: bagrones (38812 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (12544 in chips) 
+Seat 4: serioushippo677 (16210 in chips) 
+Seat 5: ayogipa8 (10256 in chips) 
+Seat 6: ionilie123 (18413 in chips) 
+serioushippo677: posts small blind 50
+ayogipa8: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [9c 4h]
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: folds 
+serioushippo677: folds 
+ayogipa8 has timed out
+ayogipa8: checks 
+*** FLOP *** [3c 9s 6s]
+ayogipa8: checks 
+ionilie123: checks 
+bagrones: checks 
+*** TURN *** [3c 9s 6s] [Kd]
+ayogipa8: folds 
+ayogipa8 leaves the table
+ionilie123: checks 
+bagrones: checks 
+*** RIVER *** [3c 9s 6s Kd] [6d]
+ionilie123: bets 100
+bagrones: calls 100
+*** SHOW DOWN ***
+ionilie123: shows [Jc Ah] (a pair of Sixes)
+bagrones: shows [9h Js] (two pair, Nines and Sixes)
+bagrones collected 520 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 30 
+Board [3c 9s 6s Kd 6d]
+Seat 1: bagrones showed [9h Js] and won (520) with two pair, Nines and Sixes
+Seat 2: Goldbuster1 folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 (button) folded before Flop (didn't bet)
+Seat 4: serioushippo677 (small blind) folded before Flop
+Seat 5: ayogipa8 (big blind) folded on the Turn
+Seat 6: ionilie123 showed [Jc Ah] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #240431938522:  Hold'em No Limit (50/100) - 2022/12/13 10:50:22 CUST [2022/12/13 4:50:22 ET]
+Table 'Atropos' 6-max (Play Money) Seat #4 is the button
+Seat 1: bagrones (39132 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (12544 in chips) 
+Seat 4: serioushippo677 (16160 in chips) 
+Seat 6: ionilie123 (18213 in chips) 
+ionilie123: posts small blind 50
+bagrones: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8s 8c]
+Goldbuster1: calls 100
+TAlexandr2716: calls 100
+scraps2211 joins the table at seat #5 
+serioushippo677: raises 200 to 300
+ionilie123: calls 250
+bagrones: calls 200
+Goldbuster1: folds 
+TAlexandr2716: calls 200
+*** FLOP *** [9d Jd 6c]
+ionilie123: bets 100
+bagrones: calls 100
+TAlexandr2716: calls 100
+serioushippo677: calls 100
+*** TURN *** [9d Jd 6c] [Js]
+ionilie123: bets 100
+bagrones: calls 100
+TAlexandr2716: folds 
+serioushippo677: calls 100
+*** RIVER *** [9d Jd 6c Js] [As]
+ionilie123: bets 100
+bagrones: calls 100
+serioushippo677: folds 
+*** SHOW DOWN ***
+ionilie123: shows [Ad 2d] (two pair, Aces and Jacks)
+bagrones: mucks hand 
+ionilie123 collected 2079 from pot
+*** SUMMARY ***
+Total pot 2200 | Rake 121 
+Board [9d Jd 6c Js As]
+Seat 1: bagrones (big blind) mucked [9c 6h]
+Seat 2: Goldbuster1 folded before Flop
+Seat 3: TAlexandr2716 folded on the Turn
+Seat 4: serioushippo677 (button) folded on the River
+Seat 6: ionilie123 (small blind) showed [Ad 2d] and won (2079) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #240431945766:  Hold'em No Limit (50/100) - 2022/12/13 10:51:13 CUST [2022/12/13 4:51:13 ET]
+Table 'Atropos' 6-max (Play Money) Seat #6 is the button
+Seat 1: bagrones (38532 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (12144 in chips) 
+Seat 4: serioushippo677 (15660 in chips) 
+Seat 5: scraps2211 (5000 in chips) 
+Seat 6: ionilie123 (19692 in chips) 
+bagrones: posts small blind 50
+Goldbuster1: posts big blind 100
+scraps2211: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3d 4h]
+TAlexandr2716: calls 100
+serioushippo677: folds 
+scraps2211: raises 100 to 200
+ionilie123: folds 
+bagrones: calls 150
+Goldbuster1: folds 
+TAlexandr2716: calls 100
+*** FLOP *** [9d 6h 8s]
+bagrones: checks 
+TAlexandr2716: checks 
+scraps2211: checks 
+*** TURN *** [9d 6h 8s] [3c]
+bagrones: checks 
+TAlexandr2716: checks 
+scraps2211: checks 
+*** RIVER *** [9d 6h 8s 3c] [Ah]
+bagrones: checks 
+TAlexandr2716: checks 
+scraps2211: checks 
+*** SHOW DOWN ***
+bagrones: shows [Td 8h] (a pair of Eights)
+TAlexandr2716: mucks hand 
+scraps2211: mucks hand 
+bagrones collected 661 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 39 
+Board [9d 6h 8s 3c Ah]
+Seat 1: bagrones (small blind) showed [Td 8h] and won (661) with a pair of Eights
+Seat 2: Goldbuster1 (big blind) folded before Flop
+Seat 3: TAlexandr2716 mucked [5d 4c]
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: scraps2211 mucked [5s 2d]
+Seat 6: ionilie123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240431952488:  Hold'em No Limit (50/100) - 2022/12/13 10:52:00 CUST [2022/12/13 4:52:00 ET]
+Table 'Atropos' 6-max (Play Money) Seat #1 is the button
+Seat 1: bagrones (38993 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (11944 in chips) 
+Seat 4: serioushippo677 (15660 in chips) 
+Seat 5: scraps2211 (4800 in chips) 
+Seat 6: ionilie123 (19692 in chips) 
+Goldbuster1: posts small blind 50
+TAlexandr2716: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3s Ks]
+serioushippo677: folds 
+scraps2211: raises 100 to 200
+ionilie123: folds 
+bagrones: calls 200
+Goldbuster1: folds 
+TAlexandr2716: calls 100
+*** FLOP *** [5s Ts 5h]
+TAlexandr2716: checks 
+scraps2211: bets 300
+bagrones: calls 300
+TAlexandr2716: folds 
+*** TURN *** [5s Ts 5h] [6h]
+scraps2211: bets 400
+bagrones: calls 400
+*** RIVER *** [5s Ts 5h 6h] [Js]
+scraps2211: bets 400
+bagrones: calls 400
+*** SHOW DOWN ***
+scraps2211: shows [Th Kc] (two pair, Tens and Fives)
+bagrones: shows [Ah Td] (two pair, Tens and Fives - Ace kicker)
+bagrones collected 2693 from pot
+*** SUMMARY ***
+Total pot 2850 | Rake 157 
+Board [5s Ts 5h 6h Js]
+Seat 1: bagrones (button) showed [Ah Td] and won (2693) with two pair, Tens and Fives
+Seat 2: Goldbuster1 (small blind) folded before Flop
+Seat 3: TAlexandr2716 (big blind) folded on the Flop
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: scraps2211 showed [Th Kc] and lost with two pair, Tens and Fives
+Seat 6: ionilie123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240431957983:  Hold'em No Limit (50/100) - 2022/12/13 10:52:39 CUST [2022/12/13 4:52:39 ET]
+Table 'Atropos' 6-max (Play Money) Seat #2 is the button
+Seat 1: bagrones (40386 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (11744 in chips) 
+Seat 4: serioushippo677 (15660 in chips) 
+Seat 5: scraps2211 (3500 in chips) 
+Seat 6: ionilie123 (19692 in chips) 
+TAlexandr2716: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Tc Qc]
+scraps2211: raises 100 to 200
+ionilie123: calls 200
+bagrones: calls 200
+Goldbuster1: folds 
+TAlexandr2716: folds 
+serioushippo677: calls 100
+*** FLOP *** [Td 7h 4s]
+serioushippo677: bets 401
+scraps2211: raises 499 to 900
+ionilie123: folds 
+bagrones: folds 
+serioushippo677: calls 499
+*** TURN *** [Td 7h 4s] [6h]
+serioushippo677: checks 
+scraps2211: bets 2400 and is all-in
+serioushippo677: folds 
+Uncalled bet (2400) returned to scraps2211
+scraps2211 collected 2504 from pot
+*** SUMMARY ***
+Total pot 2650 | Rake 146 
+Board [Td 7h 4s 6h]
+Seat 1: bagrones folded on the Flop
+Seat 2: Goldbuster1 (button) folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 (small blind) folded before Flop
+Seat 4: serioushippo677 (big blind) folded on the Turn
+Seat 5: scraps2211 collected (2504)
+Seat 6: ionilie123 folded on the Flop
+
+
+
+PokerStars Hand #240431965753:  Hold'em No Limit (50/100) - 2022/12/13 10:53:33 CUST [2022/12/13 4:53:33 ET]
+Table 'Atropos' 6-max (Play Money) Seat #3 is the button
+Seat 1: bagrones (40186 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (11694 in chips) 
+Seat 4: serioushippo677 (14560 in chips) 
+Seat 5: scraps2211 (4904 in chips) 
+Seat 6: ionilie123 (19492 in chips) 
+serioushippo677: posts small blind 50
+scraps2211: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6d 5h]
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: raises 164 to 264
+TAlexandr2716: calls 264
+serioushippo677: folds 
+scraps2211: raises 164 to 428
+ionilie123: folds 
+bagrones: calls 328
+Goldbuster1: calls 164
+TAlexandr2716: calls 164
+*** FLOP *** [Jh 7s 6h]
+scraps2211: bets 100
+bagrones: calls 100
+Goldbuster1: calls 100
+TAlexandr2716: calls 100
+*** TURN *** [Jh 7s 6h] [3s]
+scraps2211: bets 100
+bagrones: calls 100
+Goldbuster1: calls 100
+TAlexandr2716: calls 100
+*** RIVER *** [Jh 7s 6h 3s] [2s]
+scraps2211: bets 100
+bagrones: folds 
+Goldbuster1: folds 
+TAlexandr2716: folds 
+Uncalled bet (100) returned to scraps2211
+scraps2211 collected 2516 from pot
+*** SUMMARY ***
+Total pot 2662 | Rake 146 
+Board [Jh 7s 6h 3s 2s]
+Seat 1: bagrones folded on the River
+Seat 2: Goldbuster1 folded on the River
+Seat 3: TAlexandr2716 (button) folded on the River
+Seat 4: serioushippo677 (small blind) folded before Flop
+Seat 5: scraps2211 (big blind) collected (2516)
+Seat 6: ionilie123 folded before Flop
+
+
+
+PokerStars Hand #240431975789:  Hold'em No Limit (50/100) - 2022/12/13 10:54:43 CUST [2022/12/13 4:54:43 ET]
+Table 'Atropos' 6-max (Play Money) Seat #4 is the button
+Seat 1: bagrones (39558 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (11066 in chips) 
+Seat 4: serioushippo677 (14510 in chips) 
+Seat 5: scraps2211 (6792 in chips) 
+Seat 6: ionilie123 (19392 in chips) 
+scraps2211: posts small blind 50
+ionilie123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ad Th]
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: calls 100
+serioushippo677: raises 200 to 300
+scraps2211: raises 200 to 500
+ionilie123: folds 
+bagrones: calls 400
+TAlexandr2716: calls 400
+serioushippo677: calls 200
+*** FLOP *** [9s 6c 6s]
+scraps2211: bets 100
+bagrones: calls 100
+TAlexandr2716: calls 100
+serioushippo677: raises 1192 to 1292
+scraps2211: calls 1192
+bagrones: folds 
+TAlexandr2716: calls 1192
+*** TURN *** [9s 6c 6s] [2h]
+scraps2211: bets 4800
+TAlexandr2716: folds 
+serioushippo677: folds 
+Uncalled bet (4800) returned to scraps2211
+scraps2211 collected 5742 from pot
+*** SUMMARY ***
+Total pot 6076 | Rake 334 
+Board [9s 6c 6s 2h]
+Seat 1: bagrones folded on the Flop
+Seat 2: Goldbuster1 folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 folded on the Turn
+Seat 4: serioushippo677 (button) folded on the Turn
+Seat 5: scraps2211 (small blind) collected (5742)
+Seat 6: ionilie123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240431985352:  Hold'em No Limit (50/100) - 2022/12/13 10:55:59 CUST [2022/12/13 4:55:59 ET]
+Table 'Atropos' 6-max (Play Money) Seat #5 is the button
+Seat 1: bagrones (38958 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (9274 in chips) 
+Seat 4: serioushippo677 (12718 in chips) 
+Seat 5: scraps2211 (10742 in chips) 
+Seat 6: ionilie123 (19292 in chips) 
+ionilie123: posts small blind 50
+bagrones: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4d 4h]
+Goldbuster1: calls 100
+TAlexandr2716: calls 100
+serioushippo677: calls 100
+scraps2211: raises 100 to 200
+ionilie123: folds 
+bagrones: calls 100
+Goldbuster1: calls 100
+TAlexandr2716: calls 100
+serioushippo677: calls 100
+*** FLOP *** [8d 9s 7c]
+bagrones: bets 496
+Goldbuster1: folds 
+TAlexandr2716: calls 496
+serioushippo677: folds 
+scraps2211: calls 496
+*** TURN *** [8d 9s 7c] [9d]
+bagrones: bets 100
+TAlexandr2716: calls 100
+scraps2211: calls 100
+*** RIVER *** [8d 9s 7c 9d] [Ts]
+bagrones: bets 100
+TAlexandr2716: raises 100 to 200
+scraps2211: folds 
+bagrones: calls 100
+*** SHOW DOWN ***
+TAlexandr2716: shows [Jh Kc] (a straight, Seven to Jack)
+bagrones: shows [Jd Td] (a straight, Seven to Jack)
+bagrones collected 1530 from pot
+TAlexandr2716 collected 1530 from pot
+*** SUMMARY ***
+Total pot 3238 | Rake 178 
+Board [8d 9s 7c 9d Ts]
+Seat 1: bagrones (big blind) showed [Jd Td] and won (1530) with a straight, Seven to Jack
+Seat 2: Goldbuster1 folded on the Flop
+Seat 3: TAlexandr2716 showed [Jh Kc] and won (1530) with a straight, Seven to Jack
+Seat 4: serioushippo677 folded on the Flop
+Seat 5: scraps2211 (button) folded on the River
+Seat 6: ionilie123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240431993957:  Hold'em No Limit (50/100) - 2022/12/13 10:57:10 CUST [2022/12/13 4:57:10 ET]
+Table 'Atropos' 6-max (Play Money) Seat #6 is the button
+Seat 1: bagrones (39492 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (9808 in chips) 
+Seat 4: serioushippo677 (12518 in chips) 
+Seat 5: scraps2211 (9946 in chips) 
+Seat 6: ionilie123 (19242 in chips) 
+bagrones: posts small blind 50
+Goldbuster1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [5h 6s]
+TAlexandr2716: calls 100
+serioushippo677: folds 
+scraps2211: calls 100
+ionilie123: folds 
+bagrones: calls 50
+Goldbuster1: checks 
+*** FLOP *** [Kc As Td]
+bagrones: checks 
+Goldbuster1: checks 
+TAlexandr2716: checks 
+scraps2211: bets 1000
+bagrones: folds 
+Goldbuster1: folds 
+TAlexandr2716: folds 
+Uncalled bet (1000) returned to scraps2211
+scraps2211 collected 378 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [Kc As Td]
+Seat 1: bagrones (small blind) folded on the Flop
+Seat 2: Goldbuster1 (big blind) folded on the Flop
+Seat 3: TAlexandr2716 folded on the Flop
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: scraps2211 collected (378)
+Seat 6: ionilie123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240431998605:  Hold'em No Limit (50/100) - 2022/12/13 10:57:48 CUST [2022/12/13 4:57:48 ET]
+Table 'Atropos' 6-max (Play Money) Seat #1 is the button
+Seat 1: bagrones (39392 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (9708 in chips) 
+Seat 4: serioushippo677 (12518 in chips) 
+Seat 5: scraps2211 (10224 in chips) 
+Seat 6: ionilie123 (19242 in chips) 
+Goldbuster1: posts small blind 50
+TAlexandr2716: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8s 8h]
+serioushippo677: folds 
+scraps2211: folds 
+ionilie123: folds 
+bagrones: raises 250 to 350
+scraps2211 leaves the table
+Goldbuster1: folds 
+TAlexandr2716: folds 
+Uncalled bet (250) returned to bagrones
+bagrones collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: bagrones (button) collected (250)
+Seat 2: Goldbuster1 (small blind) folded before Flop
+Seat 3: TAlexandr2716 (big blind) folded before Flop
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: scraps2211 folded before Flop (didn't bet)
+Seat 6: ionilie123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240432001236:  Hold'em No Limit (50/100) - 2022/12/13 10:58:09 CUST [2022/12/13 4:58:09 ET]
+Table 'Atropos' 6-max (Play Money) Seat #2 is the button
+Seat 1: bagrones (39542 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (9608 in chips) 
+Seat 4: serioushippo677 (12518 in chips) 
+Seat 6: ionilie123 (19242 in chips) 
+TAlexandr2716: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ad Ts]
+ionilie123: calls 100
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: calls 50
+serioushippo677: checks 
+*** FLOP *** [6d 7d 2d]
+TAlexandr2716: checks 
+serioushippo677: bets 189
+ionilie123: calls 189
+bagrones: folds 
+TAlexandr2716: calls 189
+*** TURN *** [6d 7d 2d] [3h]
+TAlexandr2716: checks 
+anniev54 joins the table at seat #5 
+serioushippo677: checks 
+ionilie123: checks 
+*** RIVER *** [6d 7d 2d 3h] [Jh]
+TAlexandr2716: bets 100
+serioushippo677: folds 
+ionilie123: folds 
+Uncalled bet (100) returned to TAlexandr2716
+TAlexandr2716 collected 914 from pot
+*** SUMMARY ***
+Total pot 967 | Rake 53 
+Board [6d 7d 2d 3h Jh]
+Seat 1: bagrones folded on the Flop
+Seat 2: Goldbuster1 (button) folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 (small blind) collected (914)
+Seat 4: serioushippo677 (big blind) folded on the River
+Seat 6: ionilie123 folded on the River
+
+
+
+PokerStars Hand #240432006650:  Hold'em No Limit (50/100) - 2022/12/13 10:58:54 CUST [2022/12/13 4:58:54 ET]
+Table 'Atropos' 6-max (Play Money) Seat #3 is the button
+Seat 1: bagrones (39442 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (10233 in chips) 
+Seat 4: serioushippo677 (12229 in chips) 
+Seat 5: anniev54 (10000 in chips) 
+Seat 6: ionilie123 (18953 in chips) 
+serioushippo677: posts small blind 50
+anniev54: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qd 8d]
+ionilie123: calls 100
+bagrones has timed out
+bagrones: folds 
+Goldbuster1: folds 
+TAlexandr2716: calls 100
+serioushippo677: calls 50
+anniev54: checks 
+*** FLOP *** [5s 9c 7c]
+serioushippo677: checks 
+anniev54: checks 
+ionilie123: checks 
+TAlexandr2716: checks 
+*** TURN *** [5s 9c 7c] [2s]
+serioushippo677: checks 
+anniev54: checks 
+ionilie123: checks 
+TAlexandr2716: checks 
+*** RIVER *** [5s 9c 7c 2s] [Ac]
+serioushippo677: checks 
+anniev54: checks 
+ionilie123: checks 
+TAlexandr2716: bets 100
+serioushippo677: folds 
+anniev54: folds 
+ionilie123: folds 
+Uncalled bet (100) returned to TAlexandr2716
+TAlexandr2716 collected 378 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [5s 9c 7c 2s Ac]
+Seat 1: bagrones folded before Flop (didn't bet)
+Seat 2: Goldbuster1 folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 (button) collected (378)
+Seat 4: serioushippo677 (small blind) folded on the River
+Seat 5: anniev54 (big blind) folded on the River
+Seat 6: ionilie123 folded on the River
+
+
+
+PokerStars Hand #240432015056:  Hold'em No Limit (50/100) - 2022/12/13 11:00:03 CUST [2022/12/13 5:00:03 ET]
+Table 'Atropos' 6-max (Play Money) Seat #4 is the button
+Seat 1: bagrones (39442 in chips) 
+Seat 2: Goldbuster1 (10000 in chips) 
+Seat 3: TAlexandr2716 (10511 in chips) 
+Seat 4: serioushippo677 (12129 in chips) 
+Seat 5: anniev54 (9900 in chips) 
+Seat 6: ionilie123 (18853 in chips) 
+anniev54: posts small blind 50
+ionilie123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4c 2h]
+bagrones: calls 100
+Goldbuster1: folds 
+TAlexandr2716: calls 100
+serioushippo677: folds 
+anniev54: calls 50
+ionilie123: checks 
+*** FLOP *** [6s 7c 3s]
+anniev54: bets 100
+ionilie123: calls 100
+bagrones: calls 100
+TAlexandr2716: calls 100
+*** TURN *** [6s 7c 3s] [5h]
+Goldbuster1 leaves the table
+anniev54: checks 
+ionilie123: checks 
+bagrones: checks 
+TAlexandr2716: checks 
+*** RIVER *** [6s 7c 3s 5h] [9h]
+anniev54: bets 100
+ionilie123: folds 
+bagrones: folds 
+TAlexandr2716: calls 100
+*** SHOW DOWN ***
+anniev54: shows [9s 4s] (a straight, Three to Seven)
+TAlexandr2716: mucks hand 
+anniev54 collected 945 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 55 
+Board [6s 7c 3s 5h 9h]
+Seat 1: bagrones folded on the River
+Seat 2: Goldbuster1 folded before Flop (didn't bet)
+Seat 3: TAlexandr2716 mucked [Qs 6d]
+Seat 4: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 5: anniev54 (small blind) showed [9s 4s] and won (945) with a straight, Three to Seven
+Seat 6: ionilie123 (big blind) folded on the River
+
+
+
+PokerStars Hand #240432021161:  Hold'em No Limit (50/100) - 2022/12/13 11:00:51 CUST [2022/12/13 5:00:51 ET]
+Table 'Atropos' 6-max (Play Money) Seat #5 is the button
+Seat 1: bagrones (39242 in chips) 
+Seat 3: TAlexandr2716 (10211 in chips) 
+Seat 4: serioushippo677 (12129 in chips) 
+Seat 5: anniev54 (10545 in chips) 
+Seat 6: ionilie123 (18653 in chips) 
+ionilie123: posts small blind 50
+bagrones: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [5d Qd]
+TAlexandr2716: calls 100
+serioushippo677: folds 
+anniev54: calls 100
+ionilie123: calls 50
+bagrones: checks 
+*** FLOP *** [9c 3h Ah]
+ionilie123: bets 100
+bagrones: calls 100
+TAlexandr2716: calls 100
+anniev54: calls 100
+*** TURN *** [9c 3h Ah] [6s]
+ionilie123: bets 100
+bagrones: calls 100
+TAlexandr2716: folds 
+anniev54: calls 100
+*** RIVER *** [9c 3h Ah 6s] [Jc]
+Nova123221 joins the table at seat #2 
+ionilie123: bets 100
+bagrones: folds 
+anniev54: folds 
+Uncalled bet (100) returned to ionilie123
+ionilie123 collected 1039 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 61 
+Board [9c 3h Ah 6s Jc]
+Seat 1: bagrones (big blind) folded on the River
+Seat 3: TAlexandr2716 folded on the Turn
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: anniev54 (button) folded on the River
+Seat 6: ionilie123 (small blind) collected (1039)
+
+
+
+PokerStars Hand #240432028456:  Hold'em No Limit (50/100) - 2022/12/13 11:01:43 CUST [2022/12/13 5:01:43 ET]
+Table 'Atropos' 6-max (Play Money) Seat #6 is the button
+Seat 1: bagrones (38942 in chips) 
+Seat 2: Nova123221 (10000 in chips) 
+Seat 3: TAlexandr2716 (10011 in chips) 
+Seat 4: serioushippo677 (12129 in chips) 
+Seat 5: anniev54 (10245 in chips) 
+Seat 6: ionilie123 (19392 in chips) 
+bagrones: posts small blind 50
+Nova123221: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qh 9h]
+TAlexandr2716: calls 100
+serioushippo677: raises 200 to 300
+anniev54: calls 300
+ionilie123: folds 
+bagrones: calls 250
+Nova123221: calls 200
+TAlexandr2716: calls 200
+*** FLOP *** [Ac 7s 9c]
+bagrones: checks 
+Nova123221: checks 
+TAlexandr2716: checks 
+serioushippo677: checks 
+anniev54: checks 
+*** TURN *** [Ac 7s 9c] [6s]
+bagrones: checks 
+Nova123221: checks 
+TAlexandr2716: bets 100
+serioushippo677: calls 100
+anniev54: calls 100
+bagrones: calls 100
+Nova123221: calls 100
+*** RIVER *** [Ac 7s 9c 6s] [Jd]
+bagrones: checks 
+Nova123221: checks 
+TAlexandr2716: bets 100
+serioushippo677: raises 100 to 200
+anniev54: folds 
+bagrones: folds 
+Nova123221: calls 200
+TAlexandr2716: calls 100
+*** SHOW DOWN ***
+serioushippo677: shows [Qh 9h] (a pair of Nines)
+Nova123221: mucks hand 
+TAlexandr2716: shows [Js As] (two pair, Aces and Jacks)
+TAlexandr2716 collected 2457 from pot
+*** SUMMARY ***
+Total pot 2600 | Rake 143 
+Board [Ac 7s 9c 6s Jd]
+Seat 1: bagrones (small blind) folded on the River
+Seat 2: Nova123221 (big blind) mucked [7h Kc]
+Seat 3: TAlexandr2716 showed [Js As] and won (2457) with two pair, Aces and Jacks
+Seat 4: serioushippo677 showed [Qh 9h] and lost with a pair of Nines
+Seat 5: anniev54 folded on the River
+Seat 6: ionilie123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240432038889:  Hold'em No Limit (50/100) - 2022/12/13 11:02:55 CUST [2022/12/13 5:02:55 ET]
+Table 'Atropos' 6-max (Play Money) Seat #1 is the button
+Seat 1: bagrones (38542 in chips) 
+Seat 2: Nova123221 (9400 in chips) 
+Seat 3: TAlexandr2716 (11868 in chips) 
+Seat 4: serioushippo677 (11529 in chips) 
+Seat 5: anniev54 (9845 in chips) 
+Seat 6: ionilie123 (19392 in chips) 
+Nova123221: posts small blind 50
+TAlexandr2716: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [9d 9c]
+serioushippo677: raises 100 to 200
+anniev54: calls 200
+ionilie123: calls 200
+bagrones: calls 200
+Nova123221: calls 150
+TAlexandr2716: calls 100
+*** FLOP *** [8h 6c Ac]
+Nova123221: checks 
+TAlexandr2716: checks 
+serioushippo677: checks 
+anniev54: bets 100
+ionilie123: calls 100
+bagrones: calls 100
+Nova123221: calls 100
+TAlexandr2716: calls 100
+serioushippo677: calls 100
+*** TURN *** [8h 6c Ac] [5s]
+Nova123221: checks 
+TAlexandr2716: checks 
+serioushippo677: checks 
+anniev54: bets 100
+ionilie123: calls 100
+bagrones: calls 100
+Nova123221: calls 100
+TAlexandr2716: calls 100
+serioushippo677: calls 100
+*** RIVER *** [8h 6c Ac 5s] [2s]
+Nova123221: checks 
+TAlexandr2716: checks 
+serioushippo677: checks 
+anniev54: bets 100
+ionilie123: calls 100
+bagrones: calls 100
+Nova123221: folds 
+TAlexandr2716: calls 100
+serioushippo677: calls 100
+*** SHOW DOWN ***
+anniev54: shows [5d 6h] (two pair, Sixes and Fives)
+ionilie123: mucks hand 
+bagrones: mucks hand 
+TAlexandr2716: mucks hand 
+serioushippo677: mucks hand 
+anniev54 collected 2740 from pot
+*** SUMMARY ***
+Total pot 2900 | Rake 160 
+Board [8h 6c Ac 5s 2s]
+Seat 1: bagrones (button) mucked [4s 8s]
+Seat 2: Nova123221 (small blind) folded on the River
+Seat 3: TAlexandr2716 (big blind) mucked [7s 7d]
+Seat 4: serioushippo677 mucked [9d 9c]
+Seat 5: anniev54 showed [5d 6h] and won (2740) with two pair, Sixes and Fives
+Seat 6: ionilie123 mucked [6s Kc]
+
+
+

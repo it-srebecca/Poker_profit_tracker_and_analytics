@@ -1,0 +1,1047 @@
+﻿PokerStars Hand #240426917878:  Hold'em No Limit (50/100) - 2022/12/12 23:53:41 CUST [2022/12/12 17:53:41 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #5 is the button
+Seat 1: jamivicente (27430 in chips) 
+Seat 2: EL FIERA1972 (19546 in chips) 
+Seat 4: serioushippo677 (10000 in chips) 
+Seat 5: mihran6971 (13499 in chips) 
+Seat 6: betocasagrande (18073 in chips) 
+betocasagrande: posts small blind 50
+jamivicente: posts big blind 100
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jd 9h]
+EL FIERA1972: calls 100
+BorisRosso leaves the table
+serioushippo677: checks 
+mihran6971: folds 
+betocasagrande: calls 50
+jamivicente: checks 
+*** FLOP *** [7c Jh 4c]
+betocasagrande: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+serioushippo677: bets 189
+betocasagrande: folds 
+jamivicente: calls 189
+EL FIERA1972: calls 189
+*** TURN *** [7c Jh 4c] [Ts]
+jamivicente: checks 
+EL FIERA1972: checks 
+serioushippo677: checks 
+*** RIVER *** [7c Jh 4c Ts] [8c]
+jamivicente: bets 600
+EL FIERA1972: folds 
+serioushippo677: raises 600 to 1200
+jamivicente: raises 600 to 1800
+katya.dizain joins the table at seat #3 
+serioushippo677: raises 7911 to 9711 and is all-in
+jamivicente: calls 7911
+*** SHOW DOWN ***
+serioushippo677: shows [Jd 9h] (a straight, Seven to Jack)
+jamivicente: shows [6h 5c] (a straight, Four to Eight)
+serioushippo677 collected 19268 from pot
+*** SUMMARY ***
+Total pot 20389 | Rake 1121 
+Board [7c Jh 4c Ts 8c]
+Seat 1: jamivicente (big blind) showed [6h 5c] and lost with a straight, Four to Eight
+Seat 2: EL FIERA1972 folded on the River
+Seat 4: serioushippo677 showed [Jd 9h] and won (19268) with a straight, Seven to Jack
+Seat 5: mihran6971 (button) folded before Flop (didn't bet)
+Seat 6: betocasagrande (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240426938179:  Hold'em No Limit (50/100) - 2022/12/12 23:54:47 CUST [2022/12/12 17:54:47 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #6 is the button
+Seat 1: jamivicente (17430 in chips) 
+Seat 2: EL FIERA1972 (19257 in chips) 
+Seat 3: katya.dizain (10000 in chips) 
+Seat 4: serioushippo677 (19268 in chips) 
+Seat 5: mihran6971 (13499 in chips) 
+Seat 6: betocasagrande (17973 in chips) 
+jamivicente: posts small blind 50
+EL FIERA1972: posts big blind 100
+katya.dizain: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [5h 5c]
+katya.dizain: checks 
+serioushippo677: raises 200 to 300
+mihran6971: calls 300
+betocasagrande: calls 300
+jamivicente: calls 250
+EL FIERA1972: calls 200
+katya.dizain: calls 200
+*** FLOP *** [Kc 7d 2c]
+jamivicente: checks 
+EL FIERA1972: checks 
+katya.dizain: checks 
+serioushippo677: bets 500
+mihran6971: folds 
+betocasagrande: folds 
+jamivicente: calls 500
+EL FIERA1972: calls 500
+katya.dizain: folds 
+*** TURN *** [Kc 7d 2c] [Ks]
+jamivicente: checks 
+EL FIERA1972: checks 
+serioushippo677: checks 
+*** RIVER *** [Kc 7d 2c Ks] [8c]
+jamivicente: checks 
+EL FIERA1972: checks 
+serioushippo677: checks 
+*** SHOW DOWN ***
+jamivicente: shows [8d 9s] (two pair, Kings and Eights)
+EL FIERA1972: mucks hand 
+serioushippo677: mucks hand 
+jamivicente collected 3118 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 182 
+Board [Kc 7d 2c Ks 8c]
+Seat 1: jamivicente (small blind) showed [8d 9s] and won (3118) with two pair, Kings and Eights
+Seat 2: EL FIERA1972 (big blind) mucked [Qh 2h]
+Seat 3: katya.dizain folded on the Flop
+Seat 4: serioushippo677 mucked [5h 5c]
+Seat 5: mihran6971 folded on the Flop
+Seat 6: betocasagrande (button) folded on the Flop
+
+
+
+PokerStars Hand #240426959442:  Hold'em No Limit (50/100) - 2022/12/12 23:55:59 CUST [2022/12/12 17:55:59 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #1 is the button
+Seat 1: jamivicente (19748 in chips) 
+Seat 2: EL FIERA1972 (18457 in chips) 
+Seat 3: katya.dizain (9700 in chips) 
+Seat 4: serioushippo677 (18468 in chips) 
+Seat 5: mihran6971 (13199 in chips) 
+Seat 6: betocasagrande (17673 in chips) 
+EL FIERA1972: posts small blind 50
+katya.dizain: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ah 7s]
+serioushippo677: folds 
+mihran6971: calls 100
+betocasagrande: calls 100
+jamivicente: calls 100
+EL FIERA1972: calls 50
+katya.dizain: checks 
+*** FLOP *** [8c 5s Td]
+EL FIERA1972: checks 
+katya.dizain: checks 
+mihran6971 has timed out
+mihran6971: checks 
+betocasagrande: checks 
+jamivicente: checks 
+*** TURN *** [8c 5s Td] [Qd]
+EL FIERA1972: checks 
+katya.dizain: checks 
+mihran6971: checks 
+betocasagrande: checks 
+jamivicente: checks 
+*** RIVER *** [8c 5s Td Qd] [Tc]
+EL FIERA1972: checks 
+katya.dizain: checks 
+mihran6971: checks 
+betocasagrande: checks 
+jamivicente: bets 300
+EL FIERA1972: folds 
+katya.dizain: folds 
+mihran6971: folds 
+betocasagrande: folds 
+Uncalled bet (300) returned to jamivicente
+jamivicente collected 472 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [8c 5s Td Qd Tc]
+Seat 1: jamivicente (button) collected (472)
+Seat 2: EL FIERA1972 (small blind) folded on the River
+Seat 3: katya.dizain (big blind) folded on the River
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: mihran6971 folded on the River
+Seat 6: betocasagrande folded on the River
+
+
+
+PokerStars Hand #240426990075:  Hold'em No Limit (50/100) - 2022/12/12 23:57:44 CUST [2022/12/12 17:57:44 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #2 is the button
+Seat 1: jamivicente (20120 in chips) 
+Seat 2: EL FIERA1972 (18357 in chips) 
+Seat 3: katya.dizain (9600 in chips) 
+Seat 4: serioushippo677 (18468 in chips) 
+Seat 5: mihran6971 (13099 in chips) 
+Seat 6: betocasagrande (17573 in chips) 
+katya.dizain: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2c As]
+mihran6971: calls 100
+betocasagrande: folds 
+jamivicente: calls 100
+EL FIERA1972: calls 100
+katya.dizain: calls 50
+serioushippo677: checks 
+*** FLOP *** [5h 6h 8h]
+katya.dizain: checks 
+serioushippo677: checks 
+mihran6971: bets 2500
+jamivicente: folds 
+EL FIERA1972: folds 
+katya.dizain: folds 
+serioushippo677: folds 
+Uncalled bet (2500) returned to mihran6971
+mihran6971 collected 472 from pot
+mihran6971: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [5h 6h 8h]
+Seat 1: jamivicente folded on the Flop
+Seat 2: EL FIERA1972 (button) folded on the Flop
+Seat 3: katya.dizain (small blind) folded on the Flop
+Seat 4: serioushippo677 (big blind) folded on the Flop
+Seat 5: mihran6971 collected (472)
+Seat 6: betocasagrande folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240427007284:  Hold'em No Limit (50/100) - 2022/12/12 23:58:44 CUST [2022/12/12 17:58:44 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #3 is the button
+Seat 1: jamivicente (20020 in chips) 
+Seat 2: EL FIERA1972 (18257 in chips) 
+Seat 3: katya.dizain (9500 in chips) 
+Seat 4: serioushippo677 (18368 in chips) 
+Seat 5: mihran6971 (13471 in chips) 
+Seat 6: betocasagrande (17573 in chips) 
+serioushippo677: posts small blind 50
+mihran6971: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4h Jd]
+betocasagrande: folds 
+jamivicente: calls 100
+EL FIERA1972: calls 100
+katya.dizain: calls 100
+serioushippo677: folds 
+mihran6971: checks 
+*** FLOP *** [7c Qc 9d]
+mihran6971: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+katya.dizain: checks 
+*** TURN *** [7c Qc 9d] [5s]
+mihran6971: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+katya.dizain: checks 
+*** RIVER *** [7c Qc 9d 5s] [5h]
+mihran6971: checks 
+jamivicente: checks 
+EL FIERA1972 has timed out
+EL FIERA1972: checks 
+katya.dizain: bets 425
+mihran6971: folds 
+jamivicente: folds 
+EL FIERA1972: folds 
+Uncalled bet (425) returned to katya.dizain
+katya.dizain collected 425 from pot
+katya.dizain: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 25 
+Board [7c Qc 9d 5s 5h]
+Seat 1: jamivicente folded on the River
+Seat 2: EL FIERA1972 folded on the River
+Seat 3: katya.dizain (button) collected (425)
+Seat 4: serioushippo677 (small blind) folded before Flop
+Seat 5: mihran6971 (big blind) folded on the River
+Seat 6: betocasagrande folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240427034042:  Hold'em No Limit (50/100) - 2022/12/13 0:00:18 CUST [2022/12/12 18:00:18 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #4 is the button
+Seat 1: jamivicente (19920 in chips) 
+Seat 2: EL FIERA1972 (18157 in chips) 
+Seat 3: katya.dizain (9825 in chips) 
+Seat 4: serioushippo677 (18318 in chips) 
+Seat 5: mihran6971 (13371 in chips) 
+Seat 6: betocasagrande (17573 in chips) 
+mihran6971: posts small blind 50
+betocasagrande: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [9d 6c]
+jamivicente: calls 100
+EL FIERA1972: calls 100
+katya.dizain: calls 100
+serioushippo677: folds 
+mihran6971: calls 50
+betocasagrande: checks 
+*** FLOP *** [Kc Jd 9s]
+mihran6971: checks 
+betocasagrande: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+katya.dizain: checks 
+*** TURN *** [Kc Jd 9s] [8h]
+mihran6971: checks 
+betocasagrande: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+katya.dizain: checks 
+*** RIVER *** [Kc Jd 9s 8h] [Kd]
+mihran6971: checks 
+betocasagrande: checks 
+jamivicente: checks 
+EL FIERA1972: bets 472
+katya.dizain: folds 
+mihran6971: folds 
+betocasagrande: raises 3728 to 4200
+jamivicente: folds 
+EL FIERA1972: calls 3728
+*** SHOW DOWN ***
+betocasagrande: shows [Jh Jc] (a full house, Jacks full of Kings)
+EL FIERA1972: mucks hand 
+betocasagrande collected 8410 from pot
+*** SUMMARY ***
+Total pot 8900 | Rake 490 
+Board [Kc Jd 9s 8h Kd]
+Seat 1: jamivicente folded on the River
+Seat 2: EL FIERA1972 mucked [3s Kh]
+Seat 3: katya.dizain folded on the River
+Seat 4: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 5: mihran6971 (small blind) folded on the River
+Seat 6: betocasagrande (big blind) showed [Jh Jc] and won (8410) with a full house, Jacks full of Kings
+
+
+
+PokerStars Hand #240427071162:  Hold'em No Limit (50/100) - 2022/12/13 0:02:24 CUST [2022/12/12 18:02:24 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #5 is the button
+Seat 1: jamivicente (19820 in chips) 
+Seat 2: EL FIERA1972 (13857 in chips) 
+Seat 3: katya.dizain (9725 in chips) 
+Seat 4: serioushippo677 (18318 in chips) 
+Seat 5: mihran6971 (13271 in chips) 
+Seat 6: betocasagrande (21683 in chips) 
+betocasagrande: posts small blind 50
+jamivicente: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3h Ac]
+EL FIERA1972: raises 13757 to 13857 and is all-in
+katya.dizain: folds 
+serioushippo677: folds 
+mihran6971: folds 
+betocasagrande: folds 
+jamivicente: folds 
+Uncalled bet (13757) returned to EL FIERA1972
+EL FIERA1972 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: jamivicente (big blind) folded before Flop
+Seat 2: EL FIERA1972 collected (250)
+Seat 3: katya.dizain folded before Flop (didn't bet)
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: mihran6971 (button) folded before Flop (didn't bet)
+Seat 6: betocasagrande (small blind) folded before Flop
+
+
+
+PokerStars Hand #240427078062:  Hold'em No Limit (50/100) - 2022/12/13 0:02:47 CUST [2022/12/12 18:02:47 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #6 is the button
+Seat 1: jamivicente (19720 in chips) 
+Seat 2: EL FIERA1972 (14007 in chips) 
+Seat 3: katya.dizain (9725 in chips) 
+Seat 4: serioushippo677 (18318 in chips) 
+Seat 5: mihran6971 (13271 in chips) 
+Seat 6: betocasagrande (21633 in chips) 
+jamivicente: posts small blind 50
+EL FIERA1972: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Js 3d]
+katya.dizain: calls 100
+serioushippo677: folds 
+mihran6971: raises 3200 to 3300
+betocasagrande: folds 
+jamivicente: folds 
+EL FIERA1972: calls 3200
+katya.dizain: folds 
+*** FLOP *** [2s 7h 7s]
+EL FIERA1972: checks 
+mihran6971: bets 3900
+EL FIERA1972: folds 
+Uncalled bet (3900) returned to mihran6971
+mihran6971 collected 6379 from pot
+mihran6971: doesn't show hand 
+*** SUMMARY ***
+Total pot 6750 | Rake 371 
+Board [2s 7h 7s]
+Seat 1: jamivicente (small blind) folded before Flop
+Seat 2: EL FIERA1972 (big blind) folded on the Flop
+Seat 3: katya.dizain folded before Flop
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: mihran6971 collected (6379)
+Seat 6: betocasagrande (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240427090798:  Hold'em No Limit (50/100) - 2022/12/13 0:03:30 CUST [2022/12/12 18:03:30 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #1 is the button
+Seat 1: jamivicente (19670 in chips) 
+Seat 2: EL FIERA1972 (10707 in chips) 
+Seat 3: katya.dizain (9625 in chips) 
+Seat 4: serioushippo677 (18318 in chips) 
+Seat 5: mihran6971 (16350 in chips) 
+Seat 6: betocasagrande (21633 in chips) 
+EL FIERA1972: posts small blind 50
+katya.dizain: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ah 4c]
+serioushippo677: raises 200 to 300
+mihran6971: calls 300
+betocasagrande: folds 
+jamivicente: calls 300
+EL FIERA1972: raises 10407 to 10707 and is all-in
+katya.dizain: folds 
+serioushippo677: folds 
+mihran6971: folds 
+jamivicente: folds 
+Uncalled bet (10407) returned to EL FIERA1972
+EL FIERA1972 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: jamivicente (button) folded before Flop
+Seat 2: EL FIERA1972 (small blind) collected (1300)
+Seat 3: katya.dizain (big blind) folded before Flop
+Seat 4: serioushippo677 folded before Flop
+Seat 5: mihran6971 folded before Flop
+Seat 6: betocasagrande folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240427106302:  Hold'em No Limit (50/100) - 2022/12/13 0:04:22 CUST [2022/12/12 18:04:22 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #2 is the button
+Seat 1: jamivicente (19370 in chips) 
+Seat 2: EL FIERA1972 (11707 in chips) 
+Seat 3: katya.dizain (9525 in chips) 
+Seat 4: serioushippo677 (18018 in chips) 
+Seat 5: mihran6971 (16050 in chips) 
+Seat 6: betocasagrande (21633 in chips) 
+katya.dizain: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8d Ks]
+mihran6971: folds 
+betocasagrande: calls 100
+jamivicente: calls 100
+EL FIERA1972: calls 100
+katya.dizain: calls 50
+serioushippo677: checks 
+*** FLOP *** [5h 3h 4d]
+katya.dizain: checks 
+serioushippo677: bets 236
+betocasagrande: folds 
+jamivicente: calls 236
+EL FIERA1972: raises 11371 to 11607 and is all-in
+katya.dizain: calls 9425 and is all-in
+serioushippo677: folds 
+jamivicente: folds 
+Uncalled bet (2182) returned to EL FIERA1972
+*** TURN *** [5h 3h 4d] [2c]
+*** RIVER *** [5h 3h 4d 2c] [9h]
+*** SHOW DOWN ***
+katya.dizain: shows [6h Qh] (a flush, Queen high)
+EL FIERA1972: shows [8h 4h] (a flush, Nine high)
+katya.dizain collected 18732 from pot
+*** SUMMARY ***
+Total pot 19822 | Rake 1090 
+Board [5h 3h 4d 2c 9h]
+Seat 1: jamivicente folded on the Flop
+Seat 2: EL FIERA1972 (button) showed [8h 4h] and lost with a flush, Nine high
+Seat 3: katya.dizain (small blind) showed [6h Qh] and won (18732) with a flush, Queen high
+Seat 4: serioushippo677 (big blind) folded on the Flop
+Seat 5: mihran6971 folded before Flop (didn't bet)
+Seat 6: betocasagrande folded on the Flop
+
+
+
+PokerStars Hand #240427126029:  Hold'em No Limit (50/100) - 2022/12/13 0:05:28 CUST [2022/12/12 18:05:28 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #3 is the button
+Seat 1: jamivicente (19034 in chips) 
+Seat 2: EL FIERA1972 (2182 in chips) 
+Seat 3: katya.dizain (18732 in chips) 
+Seat 4: serioushippo677 (17682 in chips) 
+Seat 5: mihran6971 (16050 in chips) 
+serioushippo677: posts small blind 50
+mihran6971: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kh Td]
+jamivicente: calls 100
+EL FIERA1972: calls 100
+katya.dizain: calls 100
+serioushippo677: calls 50
+mihran6971: checks 
+*** FLOP *** [Ad 5d Th]
+serioushippo677: checks 
+mihran6971: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+katya.dizain: checks 
+*** TURN *** [Ad 5d Th] [As]
+serioushippo677: checks 
+mihran6971: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+katya.dizain: checks 
+*** RIVER *** [Ad 5d Th As] [Ts]
+serioushippo677: bets 236
+mihran6971: folds 
+jamivicente: folds 
+EL FIERA1972: folds 
+katya.dizain: folds 
+Uncalled bet (236) returned to serioushippo677
+serioushippo677 collected 472 from pot
+serioushippo677: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [Ad 5d Th As Ts]
+Seat 1: jamivicente folded on the River
+Seat 2: EL FIERA1972 folded on the River
+Seat 3: katya.dizain (button) folded on the River
+Seat 4: serioushippo677 (small blind) collected (472)
+Seat 5: mihran6971 (big blind) folded on the River
+
+
+
+PokerStars Hand #240427145008:  Hold'em No Limit (50/100) - 2022/12/13 0:06:33 CUST [2022/12/12 18:06:33 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #4 is the button
+Seat 1: jamivicente (18934 in chips) 
+Seat 2: EL FIERA1972 (2082 in chips) 
+Seat 3: katya.dizain (18632 in chips) 
+Seat 4: serioushippo677 (18054 in chips) 
+Seat 5: mihran6971 (15950 in chips) 
+mihran6971: posts small blind 50
+jamivicente: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [7d 3c]
+EL FIERA1972: raises 1982 to 2082 and is all-in
+katya.dizain: folds 
+serioushippo677: folds 
+mihran6971: folds 
+jamivicente: folds 
+Uncalled bet (1982) returned to EL FIERA1972
+EL FIERA1972 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: jamivicente (big blind) folded before Flop
+Seat 2: EL FIERA1972 collected (250)
+Seat 3: katya.dizain folded before Flop (didn't bet)
+Seat 4: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 5: mihran6971 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240427154994:  Hold'em No Limit (50/100) - 2022/12/13 0:07:06 CUST [2022/12/12 18:07:06 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #5 is the button
+Seat 1: jamivicente (18834 in chips) 
+Seat 2: EL FIERA1972 (10000 in chips) 
+Seat 3: katya.dizain (18632 in chips) 
+Seat 4: serioushippo677 (18054 in chips) 
+Seat 5: mihran6971 (15900 in chips) 
+jamivicente: posts small blind 50
+EL FIERA1972: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ac 3h]
+katya.dizain: calls 100
+serioushippo677: raises 200 to 300
+mihran6971: calls 300
+jamivicente: calls 250
+EL FIERA1972: calls 200
+katya.dizain: calls 200
+*** FLOP *** [8d Ah 3d]
+jamivicente: checks 
+EL FIERA1972: checks 
+katya.dizain: checks 
+serioushippo677: bets 708
+mihran6971: calls 708
+jamivicente: calls 708
+EL FIERA1972: folds 
+katya.dizain: folds 
+*** TURN *** [8d Ah 3d] [5s]
+jamivicente: checks 
+serioushippo677: checks 
+mihran6971: checks 
+*** RIVER *** [8d Ah 3d 5s] [Td]
+jamivicente: checks 
+serioushippo677: bets 1000
+mihran6971: calls 1000
+jamivicente: folds 
+*** SHOW DOWN ***
+serioushippo677: shows [Ac 3h] (two pair, Aces and Threes)
+mihran6971: mucks hand 
+serioushippo677 collected 5315 from pot
+*** SUMMARY ***
+Total pot 5624 | Rake 309 
+Board [8d Ah 3d 5s Td]
+Seat 1: jamivicente (small blind) folded on the River
+Seat 2: EL FIERA1972 (big blind) folded on the Flop
+Seat 3: katya.dizain folded on the Flop
+Seat 4: serioushippo677 showed [Ac 3h] and won (5315) with two pair, Aces and Threes
+Seat 5: mihran6971 (button) mucked [9h Th]
+
+
+
+PokerStars Hand #240427179863:  Hold'em No Limit (50/100) - 2022/12/13 0:08:30 CUST [2022/12/12 18:08:30 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #1 is the button
+Seat 1: jamivicente (17826 in chips) 
+Seat 2: EL FIERA1972 (9700 in chips) 
+Seat 3: katya.dizain (18332 in chips) 
+Seat 4: serioushippo677 (21361 in chips) 
+Seat 5: mihran6971 (13892 in chips) 
+Seat 6: betocasagrande (21533 in chips) 
+EL FIERA1972: posts small blind 50
+katya.dizain: posts big blind 100
+betocasagrande: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to serioushippo677 [9h Ah]
+serioushippo677: raises 200 to 300
+mihran6971: folds 
+betocasagrande: folds 
+jamivicente: calls 300
+EL FIERA1972: calls 250
+katya.dizain: calls 200
+*** FLOP *** [9d 6c Qs]
+EL FIERA1972: checks 
+katya.dizain: bets 1276
+serioushippo677: calls 1276
+jamivicente: calls 1276
+EL FIERA1972: folds 
+*** TURN *** [9d 6c Qs] [7s]
+katya.dizain: bets 2446
+serioushippo677: folds 
+jamivicente: calls 2446
+*** RIVER *** [9d 6c Qs 7s] [As]
+katya.dizain: checks 
+jamivicente: checks 
+*** SHOW DOWN ***
+katya.dizain: shows [Ts Qh] (a pair of Queens)
+jamivicente: shows [9s 7c] (two pair, Nines and Sevens)
+jamivicente collected 9516 from pot
+*** SUMMARY ***
+Total pot 10070 | Rake 554 
+Board [9d 6c Qs 7s As]
+Seat 1: jamivicente (button) showed [9s 7c] and won (9516) with two pair, Nines and Sevens
+Seat 2: EL FIERA1972 (small blind) folded on the Flop
+Seat 3: katya.dizain (big blind) showed [Ts Qh] and lost with a pair of Queens
+Seat 4: serioushippo677 folded on the Turn
+Seat 5: mihran6971 folded before Flop (didn't bet)
+Seat 6: betocasagrande folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240427207640:  Hold'em No Limit (50/100) - 2022/12/13 0:10:05 CUST [2022/12/12 18:10:05 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #2 is the button
+Seat 1: jamivicente (23320 in chips) 
+Seat 2: EL FIERA1972 (9400 in chips) 
+Seat 3: katya.dizain (14310 in chips) 
+Seat 4: serioushippo677 (19785 in chips) 
+Seat 5: mihran6971 (13892 in chips) 
+Seat 6: betocasagrande (21383 in chips) 
+katya.dizain: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qh Qc]
+mihran6971: calls 100
+betocasagrande: calls 100
+jamivicente: calls 100
+EL FIERA1972: calls 100
+katya.dizain: calls 50
+serioushippo677: raises 200 to 300
+mihran6971: calls 200
+betocasagrande: calls 200
+jamivicente: calls 200
+EL FIERA1972: calls 200
+katya.dizain: folds 
+*** FLOP *** [6s 7h 7c]
+katya.dizain leaves the table
+serioushippo677: bets 756
+mihran6971: folds 
+betocasagrande: calls 756
+jamivicente: calls 756
+EL FIERA1972: folds 
+*** TURN *** [6s 7h 7c] [5s]
+mikimaus221 joins the table at seat #3 
+serioushippo677: checks 
+betocasagrande: checks 
+jamivicente: checks 
+*** RIVER *** [6s 7h 7c 5s] [Ac]
+serioushippo677: checks 
+betocasagrande: bets 1400
+jamivicente: raises 1400 to 2800
+serioushippo677: calls 2800
+betocasagrande: calls 1400
+*** SHOW DOWN ***
+jamivicente: shows [8c 4s] (a straight, Four to Eight)
+serioushippo677: mucks hand 
+betocasagrande: mucks hand 
+jamivicente collected 11593 from pot
+*** SUMMARY ***
+Total pot 12268 | Rake 675 
+Board [6s 7h 7c 5s Ac]
+Seat 1: jamivicente showed [8c 4s] and won (11593) with a straight, Four to Eight
+Seat 2: EL FIERA1972 (button) folded on the Flop
+Seat 3: katya.dizain (small blind) folded before Flop
+Seat 4: serioushippo677 (big blind) mucked [Qh Qc]
+Seat 5: mihran6971 folded on the Flop
+Seat 6: betocasagrande mucked [Ah 6c]
+
+
+
+PokerStars Hand #240427241002:  Hold'em No Limit (50/100) - 2022/12/13 0:12:00 CUST [2022/12/12 18:12:00 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #4 is the button
+Seat 1: jamivicente (31057 in chips) 
+Seat 2: EL FIERA1972 (9100 in chips) 
+Seat 3: mikimaus221 (10000 in chips) 
+Seat 4: serioushippo677 (15929 in chips) 
+Seat 5: mihran6971 (13592 in chips) 
+Seat 6: betocasagrande (17527 in chips) 
+mihran6971: posts small blind 50
+betocasagrande: posts big blind 100
+mikimaus221: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2c 5s]
+jamivicente: calls 100
+EL FIERA1972: calls 100
+mikimaus221: checks 
+serioushippo677: folds 
+mihran6971: calls 50
+betocasagrande: checks 
+*** FLOP *** [5c Qc Td]
+mihran6971: checks 
+betocasagrande: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+mikimaus221: checks 
+*** TURN *** [5c Qc Td] [2s]
+mihran6971: checks 
+betocasagrande: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+mikimaus221: checks 
+*** RIVER *** [5c Qc Td 2s] [Tc]
+mihran6971: checks 
+betocasagrande: checks 
+jamivicente: checks 
+EL FIERA1972: checks 
+mikimaus221: checks 
+*** SHOW DOWN ***
+mihran6971: shows [Ah 6c] (a pair of Tens)
+betocasagrande: mucks hand 
+jamivicente: mucks hand 
+EL FIERA1972: mucks hand 
+mikimaus221: mucks hand 
+mihran6971 collected 472 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [5c Qc Td 2s Tc]
+Seat 1: jamivicente mucked [9d 7h]
+Seat 2: EL FIERA1972 mucked [3h Ac]
+Seat 3: mikimaus221 mucked [4s Kh]
+Seat 4: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 5: mihran6971 (small blind) showed [Ah 6c] and won (472) with a pair of Tens
+Seat 6: betocasagrande (big blind) mucked [9s 4c]
+
+
+
+PokerStars Hand #240427272874:  Hold'em No Limit (50/100) - 2022/12/13 0:13:49 CUST [2022/12/12 18:13:49 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #5 is the button
+Seat 1: jamivicente (30957 in chips) 
+Seat 2: EL FIERA1972 (9000 in chips) 
+Seat 3: mikimaus221 (9900 in chips) 
+Seat 4: serioushippo677 (15929 in chips) 
+Seat 5: mihran6971 (13964 in chips) 
+Seat 6: betocasagrande (17427 in chips) 
+betocasagrande: posts small blind 50
+jamivicente: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2d Th]
+EL FIERA1972 has timed out
+EL FIERA1972: folds 
+mikimaus221: calls 100
+serioushippo677: folds 
+mihran6971: calls 100
+betocasagrande: calls 50
+jamivicente: checks 
+*** FLOP *** [7s 9s 4c]
+betocasagrande: checks 
+jamivicente: checks 
+mikimaus221: checks 
+mihran6971: checks 
+*** TURN *** [7s 9s 4c] [9c]
+betocasagrande: checks 
+jamivicente: checks 
+mikimaus221: bets 100
+mihran6971: folds 
+betocasagrande: folds 
+jamivicente: folds 
+Uncalled bet (100) returned to mikimaus221
+mikimaus221 collected 378 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [7s 9s 4c 9c]
+Seat 1: jamivicente (big blind) folded on the Turn
+Seat 2: EL FIERA1972 folded before Flop (didn't bet)
+Seat 3: mikimaus221 collected (378)
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: mihran6971 (button) folded on the Turn
+Seat 6: betocasagrande (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240427299550:  Hold'em No Limit (50/100) - 2022/12/13 0:15:21 CUST [2022/12/12 18:15:21 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #6 is the button
+Seat 1: jamivicente (30857 in chips) 
+Seat 3: mikimaus221 (10178 in chips) 
+Seat 4: serioushippo677 (15929 in chips) 
+Seat 5: mihran6971 (13864 in chips) 
+Seat 6: betocasagrande (17327 in chips) 
+jamivicente: posts small blind 50
+mikimaus221: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [5s 8h]
+serioushippo677: folds 
+mihran6971: calls 100
+betocasagrande: calls 100
+jamivicente: calls 50
+mikimaus221: checks 
+*** FLOP *** [As Kh Jc]
+jamivicente: checks 
+mikimaus221: checks 
+mihran6971: checks 
+betocasagrande: bets 100
+jamivicente: folds 
+mikimaus221: calls 100
+mihran6971: calls 100
+*** TURN *** [As Kh Jc] [8c]
+mikimaus221 has timed out
+mikimaus221: checks 
+mihran6971: bets 1100
+betocasagrande: calls 1100
+mikimaus221: folds 
+*** RIVER *** [As Kh Jc 8c] [2d]
+mihran6971: checks 
+betocasagrande: bets 16027 and is all-in
+mihran6971: folds 
+Uncalled bet (16027) returned to betocasagrande
+betocasagrande collected 2740 from pot
+betocasagrande: doesn't show hand 
+*** SUMMARY ***
+Total pot 2900 | Rake 160 
+Board [As Kh Jc 8c 2d]
+Seat 1: jamivicente (small blind) folded on the Flop
+Seat 3: mikimaus221 (big blind) folded on the Turn
+Seat 4: serioushippo677 folded before Flop (didn't bet)
+Seat 5: mihran6971 folded on the River
+Seat 6: betocasagrande (button) collected (2740)
+
+
+
+PokerStars Hand #240427337881:  Hold'em No Limit (50/100) - 2022/12/13 0:17:35 CUST [2022/12/12 18:17:35 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #1 is the button
+Seat 1: jamivicente (30757 in chips) 
+Seat 3: mikimaus221 (9978 in chips) 
+Seat 4: serioushippo677 (15929 in chips) 
+Seat 5: mihran6971 (12564 in chips) 
+Seat 6: betocasagrande (18767 in chips) 
+mikimaus221: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ac 7h]
+mihran6971: calls 100
+betocasagrande: folds 
+jamivicente: calls 100
+betocasagrande leaves the table
+mikimaus221: calls 50
+serioushippo677: checks 
+*** FLOP *** [2h Ad 3d]
+mikimaus221: checks 
+serioushippo677: checks 
+mihran6971: checks 
+jamivicente: checks 
+*** TURN *** [2h Ad 3d] [As]
+rolandomauro joins the table at seat #6 
+mikimaus221: checks 
+serioushippo677: checks 
+mihran6971: checks 
+jamivicente: checks 
+*** RIVER *** [2h Ad 3d As] [6s]
+mikimaus221 has timed out
+mikimaus221: checks 
+serioushippo677: bets 189
+mihran6971: calls 189
+jamivicente: folds 
+mikimaus221: raises 189 to 378
+serioushippo677: raises 1323 to 1701
+mihran6971: folds 
+mikimaus221: calls 1323
+*** SHOW DOWN ***
+serioushippo677: shows [Ac 7h] (three of a kind, Aces)
+mikimaus221: shows [Ah Tc] (three of a kind, Aces - Ten kicker)
+mikimaus221 collected 3771 from pot
+*** SUMMARY ***
+Total pot 3991 | Rake 220 
+Board [2h Ad 3d As 6s]
+Seat 1: jamivicente (button) folded on the River
+Seat 3: mikimaus221 (small blind) showed [Ah Tc] and won (3771) with three of a kind, Aces
+Seat 4: serioushippo677 (big blind) showed [Ac 7h] and lost with three of a kind, Aces
+Seat 5: mihran6971 folded on the River
+Seat 6: betocasagrande folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240427371381:  Hold'em No Limit (50/100) - 2022/12/13 0:19:34 CUST [2022/12/12 18:19:34 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #3 is the button
+Seat 1: jamivicente (30657 in chips) 
+Seat 2: EL FIERA1972 (9000 in chips) 
+Seat 3: mikimaus221 (11948 in chips) 
+Seat 4: serioushippo677 (14128 in chips) 
+Seat 5: mihran6971 (12275 in chips) 
+Seat 6: rolandomauro (4000 in chips) 
+serioushippo677: posts small blind 50
+mihran6971: posts big blind 100
+rolandomauro: posts big blind 100
+EL FIERA1972: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Tc 9s]
+rolandomauro: raises 100 to 200
+jamivicente: calls 200
+EL FIERA1972: calls 100
+mikimaus221: calls 200
+serioushippo677: folds 
+mihran6971: calls 100
+*** FLOP *** [Td 6d 6c]
+mihran6971: checks 
+rolandomauro: bets 100
+jamivicente: calls 100
+EL FIERA1972: calls 100
+mikimaus221: calls 100
+mihran6971: calls 100
+*** TURN *** [Td 6d 6c] [Qd]
+mihran6971: checks 
+rolandomauro: bets 100
+jamivicente: folds 
+EL FIERA1972: calls 100
+mikimaus221: calls 100
+mihran6971: calls 100
+*** RIVER *** [Td 6d 6c Qd] [9h]
+mihran6971: checks 
+rolandomauro: bets 100
+EL FIERA1972 has timed out
+EL FIERA1972: folds 
+mikimaus221: raises 100 to 200
+mihran6971: folds 
+rolandomauro: calls 100
+*** SHOW DOWN ***
+mikimaus221: shows [Kc 9d] (two pair, Nines and Sixes)
+rolandomauro: mucks hand 
+mikimaus221 collected 2268 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 132 
+Board [Td 6d 6c Qd 9h]
+Seat 1: jamivicente folded on the Turn
+Seat 2: EL FIERA1972 folded on the River
+Seat 3: mikimaus221 (button) showed [Kc 9d] and won (2268) with two pair, Nines and Sixes
+Seat 4: serioushippo677 (small blind) folded before Flop
+Seat 5: mihran6971 (big blind) folded on the River
+Seat 6: rolandomauro mucked [Ac 2c]
+
+
+
+PokerStars Hand #240427408928:  Hold'em No Limit (50/100) - 2022/12/13 0:21:49 CUST [2022/12/12 18:21:49 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #4 is the button
+Seat 1: jamivicente (30357 in chips) 
+Seat 2: EL FIERA1972 (8550 in chips) 
+Seat 3: mikimaus221 (13616 in chips) 
+Seat 4: serioushippo677 (14078 in chips) 
+Seat 5: mihran6971 (11875 in chips) 
+Seat 6: rolandomauro (3400 in chips) 
+mihran6971: posts small blind 50
+rolandomauro: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [9c Tc]
+jamivicente: calls 100
+EL FIERA1972: calls 100
+mikimaus221: folds 
+serioushippo677: raises 200 to 300
+mihran6971: calls 250
+rolandomauro: calls 200
+jamivicente: calls 200
+EL FIERA1972: calls 200
+*** FLOP *** [Qs 3h 4d]
+mihran6971: bets 1000
+rolandomauro: folds 
+jamivicente: folds 
+EL FIERA1972: raises 7250 to 8250 and is all-in
+serioushippo677: folds 
+mihran6971: calls 7250
+*** TURN *** [Qs 3h 4d] [Th]
+*** RIVER *** [Qs 3h 4d Th] [3s]
+*** SHOW DOWN ***
+mihran6971: shows [4c 3c] (a full house, Threes full of Fours)
+EL FIERA1972: shows [9h Qh] (two pair, Queens and Threes)
+mihran6971 collected 17010 from pot
+*** SUMMARY ***
+Total pot 18000 | Rake 990 
+Board [Qs 3h 4d Th 3s]
+Seat 1: jamivicente folded on the Flop
+Seat 2: EL FIERA1972 showed [9h Qh] and lost with two pair, Queens and Threes
+Seat 3: mikimaus221 folded before Flop (didn't bet)
+Seat 4: serioushippo677 (button) folded on the Flop
+Seat 5: mihran6971 (small blind) showed [4c 3c] and won (17010) with a full house, Threes full of Fours
+Seat 6: rolandomauro (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240427428709:  Hold'em No Limit (50/100) - 2022/12/13 0:23:00 CUST [2022/12/12 18:23:00 ET]
+Table 'Simeisa II' 6-max (Play Money) Seat #5 is the button
+Seat 1: jamivicente (30057 in chips) 
+Seat 3: mikimaus221 (13616 in chips) 
+Seat 4: serioushippo677 (13778 in chips) 
+Seat 5: mihran6971 (20335 in chips) 
+Seat 6: rolandomauro (3100 in chips) 
+rolandomauro: posts small blind 50
+jamivicente: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kc As]
+mikimaus221 has timed out
+mikimaus221: folds 
+serioushippo677: raises 200 to 300
+mihran6971: calls 300
+rolandomauro: calls 250
+jamivicente: calls 200
+*** FLOP *** [Jd Qh 5h]
+rolandomauro: checks 
+jamivicente: checks 
+serioushippo677: checks 
+mihran6971: checks 
+*** TURN *** [Jd Qh 5h] [Kd]
+rolandomauro: checks 
+jamivicente: checks 
+serioushippo677: bets 567
+mihran6971: calls 567
+rolandomauro: folds 
+jamivicente: calls 567
+*** RIVER *** [Jd Qh 5h Kd] [Qd]
+jamivicente: checks 
+serioushippo677: checks 
+mihran6971: checks 
+*** SHOW DOWN ***
+jamivicente: shows [Kh Qc] (a full house, Queens full of Kings)
+serioushippo677: mucks hand 
+mihran6971: mucks hand 
+jamivicente collected 2741 from pot
+*** SUMMARY ***
+Total pot 2901 | Rake 160 
+Board [Jd Qh 5h Kd Qd]
+Seat 1: jamivicente (big blind) showed [Kh Qc] and won (2741) with a full house, Queens full of Kings
+Seat 3: mikimaus221 folded before Flop (didn't bet)
+Seat 4: serioushippo677 mucked [Kc As]
+Seat 5: mihran6971 (button) mucked [Jc Ts]
+Seat 6: rolandomauro (small blind) folded on the Turn
+
+
+

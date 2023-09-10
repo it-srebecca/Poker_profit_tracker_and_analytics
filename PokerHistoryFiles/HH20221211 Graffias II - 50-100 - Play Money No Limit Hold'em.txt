@@ -1,0 +1,329 @@
+﻿PokerStars Hand #240407210151:  Hold'em No Limit (50/100) - 2022/12/11 23:48:40 CUST [2022/12/11 17:48:40 ET]
+Table 'Graffias II' 6-max (Play Money) Seat #6 is the button
+Seat 1: ocsi888888 (2207 in chips) 
+Seat 2: Luizão993 (12389 in chips) 
+Seat 3: kalifa_al (10203 in chips) 
+Seat 4: ValentinU764 (16758 in chips) 
+Seat 5: serioushippo677 (10000 in chips) 
+Seat 6: Camila_CC461 (37347 in chips) 
+ocsi888888: posts small blind 50
+Luizão993: posts big blind 100
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ts 9h]
+kalifa_al: folds 
+ValentinU764: folds 
+kalifa_al leaves the table
+serioushippo677: checks 
+Camila_CC461: calls 100
+ocsi888888: folds 
+Luizão993: checks 
+*** FLOP *** [2c Kc 7d]
+Luizão993: checks 
+zeppelinsuar joins the table at seat #3 
+serioushippo677: checks 
+Camila_CC461: checks 
+*** TURN *** [2c Kc 7d] [Td]
+Luizão993: checks 
+serioushippo677: checks 
+Camila_CC461: checks 
+*** RIVER *** [2c Kc 7d Td] [Th]
+Luizão993: checks 
+serioushippo677: bets 331
+Camila_CC461: folds 
+Luizão993: folds 
+Uncalled bet (331) returned to serioushippo677
+serioushippo677 collected 331 from pot
+serioushippo677: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 19 
+Board [2c Kc 7d Td Th]
+Seat 1: ocsi888888 (small blind) folded before Flop
+Seat 2: Luizão993 (big blind) folded on the River
+Seat 3: kalifa_al folded before Flop (didn't bet)
+Seat 4: ValentinU764 folded before Flop (didn't bet)
+Seat 5: serioushippo677 collected (331)
+Seat 6: Camila_CC461 (button) folded on the River
+
+
+
+PokerStars Hand #240407230162:  Hold'em No Limit (50/100) - 2022/12/11 23:49:34 CUST [2022/12/11 17:49:34 ET]
+Table 'Graffias II' 6-max (Play Money) Seat #1 is the button
+Seat 1: ocsi888888 (2157 in chips) 
+Seat 2: Luizão993 (12289 in chips) 
+Seat 3: zeppelinsuar (10000 in chips) 
+Seat 4: ValentinU764 (16758 in chips) 
+Seat 5: serioushippo677 (10231 in chips) 
+Seat 6: Camila_CC461 (37247 in chips) 
+Luizão993: posts small blind 50
+zeppelinsuar: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Qh 4h]
+ValentinU764: raises 300 to 400
+serioushippo677: folds 
+Camila_CC461: calls 400
+ocsi888888: calls 400
+Luizão993: calls 350
+zeppelinsuar: calls 300
+*** FLOP *** [9c Jh 2c]
+Luizão993: checks 
+zeppelinsuar: checks 
+ValentinU764: bets 400
+Camila_CC461: calls 400
+ocsi888888: folds 
+Luizão993: folds 
+zeppelinsuar: folds 
+*** TURN *** [9c Jh 2c] [Qc]
+ValentinU764: bets 1800
+Camila_CC461: raises 8000 to 9800
+ValentinU764: raises 6158 to 15958 and is all-in
+Camila_CC461: calls 6158
+*** RIVER *** [9c Jh 2c Qc] [8c]
+*** SHOW DOWN ***
+ValentinU764: shows [Qd 9h] (two pair, Queens and Nines)
+Camila_CC461: shows [6c Kc] (a flush, King high)
+Camila_CC461 collected 32807 from pot
+*** SUMMARY ***
+Total pot 34716 | Rake 1909 
+Board [9c Jh 2c Qc 8c]
+Seat 1: ocsi888888 (button) folded on the Flop
+Seat 2: Luizão993 (small blind) folded on the Flop
+Seat 3: zeppelinsuar (big blind) folded on the Flop
+Seat 4: ValentinU764 showed [Qd 9h] and lost with two pair, Queens and Nines
+Seat 5: serioushippo677 folded before Flop (didn't bet)
+Seat 6: Camila_CC461 showed [6c Kc] and won (32807) with a flush, King high
+
+
+
+PokerStars Hand #240407248705:  Hold'em No Limit (50/100) - 2022/12/11 23:50:24 CUST [2022/12/11 17:50:24 ET]
+Table 'Graffias II' 6-max (Play Money) Seat #2 is the button
+Seat 1: ocsi888888 (1757 in chips) 
+Seat 2: Luizão993 (11889 in chips) 
+Seat 3: zeppelinsuar (9600 in chips) 
+Seat 4: ValentinU764 (10000 in chips) 
+Seat 5: serioushippo677 (10231 in chips) 
+Seat 6: Camila_CC461 (53296 in chips) 
+zeppelinsuar: posts small blind 50
+ValentinU764: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4d 2s]
+serioushippo677: folds 
+Camila_CC461: calls 100
+ocsi888888: folds 
+Luizão993: calls 100
+zeppelinsuar: calls 50
+ValentinU764: raises 600 to 700
+Camila_CC461: calls 600
+Luizão993: calls 600
+zeppelinsuar: calls 600
+*** FLOP *** [Td 3d 8s]
+zeppelinsuar: checks 
+ValentinU764: bets 2800
+Camila_CC461: folds 
+Luizão993: calls 2800
+zeppelinsuar: calls 2800
+*** TURN *** [Td 3d 8s] [Ad]
+zeppelinsuar: checks 
+ValentinU764: bets 6500 and is all-in
+Luizão993: calls 6500
+zeppelinsuar: calls 6100 and is all-in
+*** RIVER *** [Td 3d 8s Ad] [Kc]
+*** SHOW DOWN ***
+ValentinU764: shows [2c Ts] (a pair of Tens)
+Luizão993: shows [Jd Ks] (a pair of Kings)
+Luizão993 collected 756 from side pot
+zeppelinsuar: shows [Ah 8d] (two pair, Aces and Eights)
+zeppelinsuar collected 27877 from main pot
+*** SUMMARY ***
+Total pot 30300 Main pot 27877. Side pot 756. | Rake 1667 
+Board [Td 3d 8s Ad Kc]
+Seat 1: ocsi888888 folded before Flop (didn't bet)
+Seat 2: Luizão993 (button) showed [Jd Ks] and won (756) with a pair of Kings
+Seat 3: zeppelinsuar (small blind) showed [Ah 8d] and won (27877) with two pair, Aces and Eights
+Seat 4: ValentinU764 (big blind) showed [2c Ts] and lost with a pair of Tens
+Seat 5: serioushippo677 folded before Flop (didn't bet)
+Seat 6: Camila_CC461 folded on the Flop
+
+
+
+PokerStars Hand #240407264682:  Hold'em No Limit (50/100) - 2022/12/11 23:51:08 CUST [2022/12/11 17:51:08 ET]
+Table 'Graffias II' 6-max (Play Money) Seat #3 is the button
+Seat 1: ocsi888888 (1757 in chips) 
+Seat 2: Luizão993 (2645 in chips) 
+Seat 3: zeppelinsuar (27877 in chips) 
+Seat 4: ValentinU764 (10000 in chips) 
+Seat 5: serioushippo677 (10231 in chips) 
+Seat 6: Camila_CC461 (52596 in chips) 
+ValentinU764: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [5s 5h]
+Camila_CC461: calls 100
+ocsi888888: calls 100
+Luizão993: calls 100
+zeppelinsuar: calls 100
+ValentinU764: raises 1350 to 1450
+serioushippo677: calls 1350
+Camila_CC461: calls 1350
+ocsi888888: calls 1350
+Luizão993: calls 1350
+zeppelinsuar: folds 
+*** FLOP *** [Qd 9d As]
+ValentinU764: bets 8550 and is all-in
+serioushippo677: folds 
+Camila_CC461: folds 
+ocsi888888: calls 307 and is all-in
+Luizão993: folds 
+Uncalled bet (8243) returned to ValentinU764
+*** TURN *** [Qd 9d As] [3h]
+*** RIVER *** [Qd 9d As 3h] [6h]
+*** SHOW DOWN ***
+ValentinU764: shows [Js 8h] (high card Ace)
+ocsi888888: shows [Kc 9s] (a pair of Nines)
+ocsi888888 collected 7526 from pot
+*** SUMMARY ***
+Total pot 7964 | Rake 438 
+Board [Qd 9d As 3h 6h]
+Seat 1: ocsi888888 showed [Kc 9s] and won (7526) with a pair of Nines
+Seat 2: Luizão993 folded on the Flop
+Seat 3: zeppelinsuar (button) folded before Flop
+Seat 4: ValentinU764 (small blind) showed [Js 8h] and lost with high card Ace
+Seat 5: serioushippo677 (big blind) folded on the Flop
+Seat 6: Camila_CC461 folded on the Flop
+
+
+
+PokerStars Hand #240407280477:  Hold'em No Limit (50/100) - 2022/12/11 23:51:52 CUST [2022/12/11 17:51:52 ET]
+Table 'Graffias II' 6-max (Play Money) Seat #4 is the button
+Seat 1: ocsi888888 (7526 in chips) 
+Seat 2: Luizão993 (1195 in chips) 
+Seat 3: zeppelinsuar (27777 in chips) 
+Seat 4: ValentinU764 (8243 in chips) 
+Seat 5: serioushippo677 (8781 in chips) 
+Seat 6: Camila_CC461 (51146 in chips) 
+serioushippo677: posts small blind 50
+Camila_CC461: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jc 5s]
+ocsi888888: calls 100
+Luizão993: calls 100
+zeppelinsuar: calls 100
+ValentinU764: raises 8143 to 8243 and is all-in
+serioushippo677: folds 
+Camila_CC461: folds 
+ocsi888888: folds 
+Luizão993: calls 1095 and is all-in
+zeppelinsuar: folds 
+Uncalled bet (7048) returned to ValentinU764
+*** FLOP *** [6d 7s 9s]
+*** TURN *** [6d 7s 9s] [Th]
+*** RIVER *** [6d 7s 9s Th] [4d]
+*** SHOW DOWN ***
+Luizão993: shows [8c Js] (a straight, Seven to Jack)
+ValentinU764: shows [5d 9c] (a pair of Nines)
+Luizão993 collected 2589 from pot
+*** SUMMARY ***
+Total pot 2740 | Rake 151 
+Board [6d 7s 9s Th 4d]
+Seat 1: ocsi888888 folded before Flop
+Seat 2: Luizão993 showed [8c Js] and won (2589) with a straight, Seven to Jack
+Seat 3: zeppelinsuar folded before Flop
+Seat 4: ValentinU764 (button) showed [5d 9c] and lost with a pair of Nines
+Seat 5: serioushippo677 (small blind) folded before Flop
+Seat 6: Camila_CC461 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240407292909:  Hold'em No Limit (50/100) - 2022/12/11 23:52:26 CUST [2022/12/11 17:52:26 ET]
+Table 'Graffias II' 6-max (Play Money) Seat #5 is the button
+Seat 1: ocsi888888 (7426 in chips) 
+Seat 2: Luizão993 (2589 in chips) 
+Seat 3: zeppelinsuar (27677 in chips) 
+Seat 4: ValentinU764 (7048 in chips) 
+Seat 5: serioushippo677 (8731 in chips) 
+Seat 6: Camila_CC461 (51046 in chips) 
+Camila_CC461: posts small blind 50
+ocsi888888: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4d 2h]
+Luizão993: calls 100
+zeppelinsuar: calls 100
+ValentinU764: raises 6948 to 7048 and is all-in
+serioushippo677: folds 
+Camila_CC461: folds 
+ocsi888888: folds 
+Luizão993: calls 2489 and is all-in
+zeppelinsuar: folds 
+Uncalled bet (4459) returned to ValentinU764
+zeppelinsuar leaves the table
+*** FLOP *** [Jh Ad Kc]
+*** TURN *** [Jh Ad Kc] [Ac]
+FKova joins the table at seat #3 
+*** RIVER *** [Jh Ad Kc Ac] [Jd]
+*** SHOW DOWN ***
+Luizão993: shows [7c Ah] (a full house, Aces full of Jacks)
+ValentinU764: shows [8d Td] (two pair, Aces and Jacks)
+Luizão993 collected 5129 from pot
+*** SUMMARY ***
+Total pot 5428 | Rake 299 
+Board [Jh Ad Kc Ac Jd]
+Seat 1: ocsi888888 (big blind) folded before Flop
+Seat 2: Luizão993 showed [7c Ah] and won (5129) with a full house, Aces full of Jacks
+Seat 3: zeppelinsuar folded before Flop
+Seat 4: ValentinU764 showed [8d Td] and lost with two pair, Aces and Jacks
+Seat 5: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 6: Camila_CC461 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240407301101:  Hold'em No Limit (50/100) - 2022/12/11 23:52:49 CUST [2022/12/11 17:52:49 ET]
+Table 'Graffias II' 6-max (Play Money) Seat #6 is the button
+Seat 1: ocsi888888 (7326 in chips) 
+Seat 2: Luizão993 (5129 in chips) 
+Seat 3: FKova (10000 in chips) 
+Seat 4: ValentinU764 (4459 in chips) 
+Seat 5: serioushippo677 (8731 in chips) 
+Seat 6: Camila_CC461 (50996 in chips) 
+ocsi888888: posts small blind 50
+Luizão993: posts big blind 100
+FKova: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Td Kd]
+FKova: raises 200 to 300
+ValentinU764: raises 4159 to 4459 and is all-in
+serioushippo677: folds 
+Camila_CC461: calls 4459
+ocsi888888: folds 
+Luizão993: calls 4359
+FKova: calls 4159
+*** FLOP *** [7d 7s 2c]
+Luizão993: checks 
+FKova: checks 
+Camila_CC461: checks 
+*** TURN *** [7d 7s 2c] [Jc]
+Luizão993: checks 
+FKova: checks 
+Camila_CC461: checks 
+*** RIVER *** [7d 7s 2c Jc] [8h]
+Luizão993: checks 
+FKova: checks 
+Camila_CC461: checks 
+*** SHOW DOWN ***
+Luizão993: shows [Th Ad] (a pair of Sevens)
+FKova: shows [Kc Ah] (a pair of Sevens - Ace+King kicker)
+ValentinU764: shows [As Kh] (a pair of Sevens)
+Camila_CC461: shows [5h 4h] (a pair of Sevens - lower kicker)
+FKova collected 8451 from pot
+ValentinU764 collected 8451 from pot
+*** SUMMARY ***
+Total pot 17886 | Rake 984 
+Board [7d 7s 2c Jc 8h]
+Seat 1: ocsi888888 (small blind) folded before Flop
+Seat 2: Luizão993 (big blind) showed [Th Ad] and lost with a pair of Sevens
+Seat 3: FKova showed [Kc Ah] and won (8451) with a pair of Sevens
+Seat 4: ValentinU764 showed [As Kh] and won (8451) with a pair of Sevens
+Seat 5: serioushippo677 folded before Flop (didn't bet)
+Seat 6: Camila_CC461 (button) showed [5h 4h] and lost with a pair of Sevens
+
+
+

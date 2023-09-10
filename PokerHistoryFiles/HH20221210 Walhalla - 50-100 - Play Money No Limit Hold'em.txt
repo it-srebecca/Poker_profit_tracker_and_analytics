@@ -1,0 +1,796 @@
+﻿PokerStars Hand #240382740356:  Hold'em No Limit (50/100) - 2022/12/10 22:16:09 CUST [2022/12/10 16:16:09 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #1 is the button
+Seat 1: penny-in-fla (6676 in chips) 
+Seat 2: Andrea in571 (11828 in chips) 
+Seat 3: serioushippo677 (10000 in chips) 
+Seat 4: MarilynGordg (2502 in chips) 
+Seat 5: Mineraljack31 (9700 in chips) 
+Seat 6: pikquik (14708 in chips) 
+Andrea in571: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kd 8h]
+MarilynGordg: calls 100
+Mineraljack31: calls 100
+pikquik: calls 100
+penny-in-fla: calls 100
+Andrea in571: raises 300 to 400
+serioushippo677: folds 
+MarilynGordg: folds 
+Mineraljack31: calls 300
+pikquik: calls 300
+penny-in-fla: calls 300
+*** FLOP *** [Ac Ts 5s]
+Andrea in571: checks 
+Mineraljack31: checks 
+pikquik: checks 
+penny-in-fla: bets 500
+Andrea in571: calls 500
+Mineraljack31: calls 500
+pikquik: calls 500
+*** TURN *** [Ac Ts 5s] [As]
+Andrea in571: checks 
+Mineraljack31: bets 1000
+pikquik: calls 1000
+penny-in-fla: calls 1000
+Andrea in571: calls 1000
+*** RIVER *** [Ac Ts 5s As] [9h]
+Andrea in571: checks 
+Mineraljack31: bets 1100
+pikquik: calls 1100
+penny-in-fla: raises 3676 to 4776 and is all-in
+Andrea in571: folds 
+Mineraljack31: calls 3676
+pikquik: folds 
+*** SHOW DOWN ***
+penny-in-fla: shows [Ah 9c] (a full house, Aces full of Nines)
+Mineraljack31: shows [Ad Jc] (three of a kind, Aces)
+penny-in-fla collected 17437 from pot
+*** SUMMARY ***
+Total pot 18452 | Rake 1015 
+Board [Ac Ts 5s As 9h]
+Seat 1: penny-in-fla (button) showed [Ah 9c] and won (17437) with a full house, Aces full of Nines
+Seat 2: Andrea in571 (small blind) folded on the River
+Seat 3: serioushippo677 (big blind) folded before Flop
+Seat 4: MarilynGordg folded before Flop
+Seat 5: Mineraljack31 showed [Ad Jc] and lost with three of a kind, Aces
+Seat 6: pikquik folded on the River
+
+
+
+PokerStars Hand #240382777224:  Hold'em No Limit (50/100) - 2022/12/10 22:17:49 CUST [2022/12/10 16:17:49 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #2 is the button
+Seat 1: penny-in-fla (17437 in chips) 
+Seat 2: Andrea in571 (10000 in chips) 
+Seat 3: serioushippo677 (9900 in chips) 
+Seat 4: MarilynGordg (2402 in chips) 
+Seat 5: Mineraljack31 (3024 in chips) 
+Seat 6: pikquik (11708 in chips) 
+serioushippo677: posts small blind 50
+MarilynGordg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jd 4h]
+Mineraljack31: calls 100
+pikquik: calls 100
+penny-in-fla: calls 100
+Andrea in571: calls 100
+serioushippo677: folds 
+MarilynGordg: checks 
+*** FLOP *** [8h 6d 2d]
+MarilynGordg: bets 100
+Mineraljack31 has timed out
+Mineraljack31: folds 
+pikquik: calls 100
+penny-in-fla: calls 100
+Andrea in571: folds 
+*** TURN *** [8h 6d 2d] [5c]
+MarilynGordg: checks 
+pikquik: checks 
+Andrea in571 leaves the table
+penny-in-fla: bets 400
+MarilynGordg: calls 400
+pikquik: calls 400
+*** RIVER *** [8h 6d 2d 5c] [6h]
+Mineraljack31 leaves the table
+MarilynGordg: checks 
+pikquik: checks 
+penny-in-fla: bets 500
+MarilynGordg: folds 
+pikquik: folds 
+Uncalled bet (500) returned to penny-in-fla
+penny-in-fla collected 1937 from pot
+penny-in-fla: doesn't show hand 
+*** SUMMARY ***
+Total pot 2050 | Rake 113 
+Board [8h 6d 2d 5c 6h]
+Seat 1: penny-in-fla collected (1937)
+Seat 2: Andrea in571 (button) folded on the Flop
+Seat 3: serioushippo677 (small blind) folded before Flop
+Seat 4: MarilynGordg (big blind) folded on the River
+Seat 5: Mineraljack31 folded on the Flop
+Seat 6: pikquik folded on the River
+
+
+
+PokerStars Hand #240382803413:  Hold'em No Limit (50/100) - 2022/12/10 22:19:00 CUST [2022/12/10 16:19:00 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #3 is the button
+Seat 1: penny-in-fla (18774 in chips) 
+Seat 3: serioushippo677 (9850 in chips) 
+Seat 4: MarilynGordg (1802 in chips) 
+Seat 6: pikquik (11108 in chips) 
+MarilynGordg: posts small blind 50
+pikquik: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [8s Qc]
+penny-in-fla: folds 
+serioushippo677: folds 
+MarilynGordg: calls 50
+pikquik: checks 
+*** FLOP *** [Kh Ah 6s]
+MarilynGordg: checks 
+pikquik: checks 
+*** TURN *** [Kh Ah 6s] [Jc]
+MarilynGordg: checks 
+pikquik: checks 
+*** RIVER *** [Kh Ah 6s Jc] [2d]
+MarilynGordg: checks 
+pikquik: bets 300
+MarilynGordg: folds 
+Uncalled bet (300) returned to pikquik
+pikquik collected 189 from pot
+pikquik: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 11 
+Board [Kh Ah 6s Jc 2d]
+Seat 1: penny-in-fla folded before Flop (didn't bet)
+Seat 3: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 4: MarilynGordg (small blind) folded on the River
+Seat 6: pikquik (big blind) collected (189)
+
+
+
+PokerStars Hand #240382814469:  Hold'em No Limit (50/100) - 2022/12/10 22:19:30 CUST [2022/12/10 16:19:30 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #4 is the button
+Seat 1: penny-in-fla (18774 in chips) 
+Seat 3: serioushippo677 (9850 in chips) 
+Seat 4: MarilynGordg (1702 in chips) 
+Seat 6: pikquik (11197 in chips) 
+pikquik: posts small blind 50
+penny-in-fla: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Jh 2d]
+serioushippo677: folds 
+MarilynGordg: calls 100
+pikquik: calls 50
+penny-in-fla: checks 
+*** FLOP *** [2h 5h 7h]
+pikquik: checks 
+penny-in-fla: checks 
+MarilynGordg: checks 
+*** TURN *** [2h 5h 7h] [2c]
+pikquik: checks 
+ELikLit joins the table at seat #5 
+penny-in-fla: bets 300
+MarilynGordg: calls 300
+pikquik: calls 300
+*** RIVER *** [2h 5h 7h 2c] [Qs]
+pikquik: checks 
+noyara joins the table at seat #2 
+penny-in-fla: bets 400
+MarilynGordg: folds 
+pikquik: raises 400 to 800
+penny-in-fla: calls 400
+*** SHOW DOWN ***
+pikquik: shows [2s 8c] (three of a kind, Deuces)
+penny-in-fla: mucks hand 
+pikquik collected 2646 from pot
+*** SUMMARY ***
+Total pot 2800 | Rake 154 
+Board [2h 5h 7h 2c Qs]
+Seat 1: penny-in-fla (big blind) mucked [6d 7d]
+Seat 3: serioushippo677 folded before Flop (didn't bet)
+Seat 4: MarilynGordg (button) folded on the River
+Seat 6: pikquik (small blind) showed [2s 8c] and won (2646) with three of a kind, Deuces
+
+
+
+PokerStars Hand #240382831274:  Hold'em No Limit (50/100) - 2022/12/10 22:20:15 CUST [2022/12/10 16:20:15 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #6 is the button
+Seat 1: penny-in-fla (17574 in chips) 
+Seat 2: noyara (9772 in chips) 
+Seat 3: serioushippo677 (9850 in chips) 
+Seat 4: MarilynGordg (1302 in chips) 
+Seat 5: ELikLit (10000 in chips) 
+Seat 6: pikquik (12643 in chips) 
+penny-in-fla: posts small blind 50
+noyara: posts big blind 100
+ELikLit: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Th 5s]
+serioushippo677: folds 
+MarilynGordg: calls 100
+ELikLit: checks 
+pikquik: calls 100
+penny-in-fla: calls 50
+noyara: checks 
+*** FLOP *** [2d 7h Kc]
+penny-in-fla: checks 
+noyara: bets 100
+MarilynGordg: calls 100
+ELikLit: folds 
+pikquik: calls 100
+penny-in-fla: calls 100
+*** TURN *** [2d 7h Kc] [Td]
+penny-in-fla: checks 
+noyara: checks 
+MarilynGordg: checks 
+pikquik: bets 425
+penny-in-fla: folds 
+noyara: folds 
+MarilynGordg: folds 
+Uncalled bet (425) returned to pikquik
+pikquik collected 850 from pot
+pikquik: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 50 
+Board [2d 7h Kc Td]
+Seat 1: penny-in-fla (small blind) folded on the Turn
+Seat 2: noyara (big blind) folded on the Turn
+Seat 3: serioushippo677 folded before Flop (didn't bet)
+Seat 4: MarilynGordg folded on the Turn
+Seat 5: ELikLit folded on the Flop (didn't bet)
+Seat 6: pikquik (button) collected (850)
+
+
+
+PokerStars Hand #240382851756:  Hold'em No Limit (50/100) - 2022/12/10 22:21:09 CUST [2022/12/10 16:21:09 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #1 is the button
+Seat 1: penny-in-fla (17374 in chips) 
+Seat 2: noyara (9572 in chips) 
+Seat 3: serioushippo677 (9850 in chips) 
+Seat 4: MarilynGordg (1102 in chips) 
+Seat 5: ELikLit (9900 in chips) 
+Seat 6: pikquik (13293 in chips) 
+noyara: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4s 6c]
+MarilynGordg: calls 100
+ELikLit: calls 100
+pikquik: calls 100
+penny-in-fla: calls 100
+noyara: calls 50
+serioushippo677: checks 
+*** FLOP *** [9d 2c 7h]
+noyara: bets 100
+serioushippo677: folds 
+MarilynGordg: calls 100
+ELikLit: folds 
+pikquik: raises 100 to 200
+penny-in-fla: calls 200
+noyara: calls 100
+MarilynGordg: calls 100
+*** TURN *** [9d 2c 7h] [8h]
+noyara: checks 
+MarilynGordg: checks 
+pikquik: bets 200
+penny-in-fla: calls 200
+noyara: calls 200
+MarilynGordg: calls 200
+*** RIVER *** [9d 2c 7h 8h] [5s]
+noyara: bets 100
+MarilynGordg: calls 100
+pikquik: raises 100 to 200
+penny-in-fla: folds 
+noyara: calls 100
+MarilynGordg: calls 100
+*** SHOW DOWN ***
+pikquik: shows [Ks 9h] (a pair of Nines)
+noyara: shows [6h 2s] (a straight, Five to Nine)
+MarilynGordg: mucks hand 
+noyara collected 2646 from pot
+*** SUMMARY ***
+Total pot 2800 | Rake 154 
+Board [9d 2c 7h 8h 5s]
+Seat 1: penny-in-fla (button) folded on the River
+Seat 2: noyara (small blind) showed [6h 2s] and won (2646) with a straight, Five to Nine
+Seat 3: serioushippo677 (big blind) folded on the Flop
+Seat 4: MarilynGordg mucked [5d 7c]
+Seat 5: ELikLit folded on the Flop
+Seat 6: pikquik showed [Ks 9h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #240382875908:  Hold'em No Limit (50/100) - 2022/12/10 22:22:13 CUST [2022/12/10 16:22:13 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #2 is the button
+Seat 1: penny-in-fla (16874 in chips) 
+Seat 2: noyara (11518 in chips) 
+Seat 3: serioushippo677 (9750 in chips) 
+Seat 4: MarilynGordg (402 in chips) 
+Seat 5: ELikLit (9800 in chips) 
+Seat 6: pikquik (12593 in chips) 
+serioushippo677: posts small blind 50
+MarilynGordg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2c Tc]
+ELikLit: calls 100
+pikquik: calls 100
+penny-in-fla: calls 100
+noyara: calls 100
+serioushippo677: folds 
+MarilynGordg: checks 
+*** FLOP *** [6c 3s 2s]
+MarilynGordg: checks 
+ELikLit: checks 
+pikquik: checks 
+penny-in-fla: bets 2900
+noyara: folds 
+MarilynGordg: folds 
+noyara leaves the table
+ELikLit: folds 
+pikquik: folds 
+Uncalled bet (2900) returned to penny-in-fla
+penny-in-fla collected 520 from pot
+penny-in-fla: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 30 
+Board [6c 3s 2s]
+Seat 1: penny-in-fla collected (520)
+Seat 2: noyara (button) folded on the Flop
+Seat 3: serioushippo677 (small blind) folded before Flop
+Seat 4: MarilynGordg (big blind) folded on the Flop
+Seat 5: ELikLit folded on the Flop
+Seat 6: pikquik folded on the Flop
+
+
+
+PokerStars Hand #240382888818:  Hold'em No Limit (50/100) - 2022/12/10 22:22:48 CUST [2022/12/10 16:22:48 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #3 is the button
+Seat 1: penny-in-fla (17294 in chips) 
+Seat 3: serioushippo677 (9700 in chips) 
+Seat 4: MarilynGordg (302 in chips) 
+Seat 5: ELikLit (9700 in chips) 
+Seat 6: pikquik (12493 in chips) 
+MarilynGordg: posts small blind 50
+ELikLit: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Kc Qc]
+pikquik: calls 100
+penny-in-fla: calls 100
+serioushippo677: raises 200 to 300
+voll narr007 joins the table at seat #2 
+MarilynGordg: folds 
+ELikLit: folds 
+pikquik: calls 200
+penny-in-fla: calls 200
+*** FLOP *** [6c Tc 9c]
+pikquik: checks 
+penny-in-fla: checks 
+serioushippo677: checks 
+*** TURN *** [6c Tc 9c] [Jc]
+pikquik: checks 
+penny-in-fla: checks 
+serioushippo677: checks 
+*** RIVER *** [6c Tc 9c Jc] [6h]
+pikquik: bets 400
+penny-in-fla: folds 
+serioushippo677: raises 400 to 800
+pikquik: folds 
+Uncalled bet (400) returned to serioushippo677
+serioushippo677 collected 1748 from pot
+serioushippo677: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 102 
+Board [6c Tc 9c Jc 6h]
+Seat 1: penny-in-fla folded on the River
+Seat 3: serioushippo677 (button) collected (1748)
+Seat 4: MarilynGordg (small blind) folded before Flop
+Seat 5: ELikLit (big blind) folded before Flop
+Seat 6: pikquik folded on the River
+
+
+
+PokerStars Hand #240382916819:  Hold'em No Limit (50/100) - 2022/12/10 22:24:02 CUST [2022/12/10 16:24:02 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #4 is the button
+Seat 1: penny-in-fla (16994 in chips) 
+Seat 2: voll narr007 (10000 in chips) 
+Seat 3: serioushippo677 (10748 in chips) 
+Seat 4: MarilynGordg (252 in chips) 
+Seat 5: ELikLit (9600 in chips) 
+Seat 6: pikquik (11793 in chips) 
+ELikLit: posts small blind 50
+pikquik: posts big blind 100
+voll narr007: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ts Ad]
+penny-in-fla: folds 
+voll narr007: checks 
+serioushippo677: raises 200 to 300
+MarilynGordg: calls 252 and is all-in
+ELikLit: folds 
+pikquik: calls 200
+voll narr007: calls 200
+*** FLOP *** [4s Ah 9c]
+pikquik: checks 
+voll narr007: checks 
+serioushippo677: bets 568
+pikquik: folds 
+voll narr007: folds 
+Uncalled bet (568) returned to serioushippo677
+*** TURN *** [4s Ah 9c] [5c]
+*** RIVER *** [4s Ah 9c 5c] [Qd]
+*** SHOW DOWN ***
+serioushippo677: shows [Ts Ad] (a pair of Aces)
+serioushippo677 collected 136 from side pot
+MarilynGordg: shows [Td 9d] (a pair of Nines)
+serioushippo677 collected 1000 from main pot
+*** SUMMARY ***
+Total pot 1202 Main pot 1000. Side pot 136. | Rake 66 
+Board [4s Ah 9c 5c Qd]
+Seat 1: penny-in-fla folded before Flop (didn't bet)
+Seat 2: voll narr007 folded on the Flop
+Seat 3: serioushippo677 showed [Ts Ad] and won (1136) with a pair of Aces
+Seat 4: MarilynGordg (button) showed [Td 9d] and lost with a pair of Nines
+Seat 5: ELikLit (small blind) folded before Flop
+Seat 6: pikquik (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240382930460:  Hold'em No Limit (50/100) - 2022/12/10 22:24:39 CUST [2022/12/10 16:24:39 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #5 is the button
+Seat 1: penny-in-fla (16994 in chips) 
+Seat 2: voll narr007 (9700 in chips) 
+Seat 3: serioushippo677 (11584 in chips) 
+Seat 5: ELikLit (9550 in chips) 
+Seat 6: pikquik (11493 in chips) 
+pikquik: posts small blind 50
+penny-in-fla: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [5s Td]
+voll narr007: calls 100
+serioushippo677: folds 
+ELikLit: folds 
+MarilynGordg leaves the table
+pikquik: calls 50
+ELikLit leaves the table
+penny-in-fla: checks 
+*** FLOP *** [Ac 9s 6h]
+BadFoxNF637 joins the table at seat #5 
+paulo cés123 joins the table at seat #4 
+pikquik: checks 
+penny-in-fla: checks 
+voll narr007: bets 283
+pikquik: calls 283
+penny-in-fla: raises 16611 to 16894 and is all-in
+voll narr007: folds 
+pikquik: folds 
+Uncalled bet (16611) returned to penny-in-fla
+penny-in-fla collected 1086 from pot
+penny-in-fla: doesn't show hand 
+*** SUMMARY ***
+Total pot 1149 | Rake 63 
+Board [Ac 9s 6h]
+Seat 1: penny-in-fla (big blind) collected (1086)
+Seat 2: voll narr007 folded on the Flop
+Seat 3: serioushippo677 folded before Flop (didn't bet)
+Seat 5: ELikLit (button) folded before Flop (didn't bet)
+Seat 6: pikquik (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240382949948:  Hold'em No Limit (50/100) - 2022/12/10 22:25:31 CUST [2022/12/10 16:25:31 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #6 is the button
+Seat 1: penny-in-fla (17697 in chips) 
+Seat 2: voll narr007 (9317 in chips) 
+Seat 3: serioushippo677 (11584 in chips) 
+Seat 4: paulo cés123 (4000 in chips) 
+Seat 5: BadFoxNF637 (10000 in chips) 
+Seat 6: pikquik (11110 in chips) 
+penny-in-fla: posts small blind 50
+voll narr007: posts big blind 100
+paulo cés123: posts big blind 100
+BadFoxNF637: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [4s 2s]
+serioushippo677: folds 
+paulo cés123: checks 
+BadFoxNF637: checks 
+pikquik: calls 100
+penny-in-fla: calls 50
+voll narr007: raises 900 to 1000
+paulo cés123: folds 
+BadFoxNF637: calls 900
+pikquik: folds 
+penny-in-fla: folds 
+*** FLOP *** [Td 3c 6d]
+voll narr007: bets 2173
+BadFoxNF637 has timed out
+BadFoxNF637: folds 
+Uncalled bet (2173) returned to voll narr007
+voll narr007 collected 2173 from pot
+*** SUMMARY ***
+Total pot 2300 | Rake 127 
+Board [Td 3c 6d]
+Seat 1: penny-in-fla (small blind) folded before Flop
+Seat 2: voll narr007 (big blind) collected (2173)
+Seat 3: serioushippo677 folded before Flop (didn't bet)
+Seat 4: paulo cés123 folded before Flop (didn't bet)
+Seat 5: BadFoxNF637 folded on the Flop
+Seat 6: pikquik (button) folded before Flop
+
+
+
+PokerStars Hand #240382973829:  Hold'em No Limit (50/100) - 2022/12/10 22:26:36 CUST [2022/12/10 16:26:36 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #1 is the button
+Seat 1: penny-in-fla (17597 in chips) 
+Seat 2: voll narr007 (10490 in chips) 
+Seat 3: serioushippo677 (11584 in chips) 
+Seat 4: paulo cés123 (3900 in chips) 
+Seat 6: pikquik (11010 in chips) 
+voll narr007: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [6d Tc]
+paulo cés123: calls 100
+pikquik: calls 100
+penny-in-fla: folds 
+voll narr007: calls 50
+serioushippo677: checks 
+*** FLOP *** [3d 7h 2c]
+voll narr007: bets 378
+serioushippo677: folds 
+paulo cés123: folds 
+pikquik: calls 378
+*** TURN *** [3d 7h 2c] [4d]
+voll narr007: checks 
+pikquik: checks 
+*** RIVER *** [3d 7h 2c 4d] [Ks]
+voll narr007: bets 700
+pikquik: folds 
+Uncalled bet (700) returned to voll narr007
+voll narr007 collected 1092 from pot
+*** SUMMARY ***
+Total pot 1156 | Rake 64 
+Board [3d 7h 2c 4d Ks]
+Seat 1: penny-in-fla (button) folded before Flop (didn't bet)
+Seat 2: voll narr007 (small blind) collected (1092)
+Seat 3: serioushippo677 (big blind) folded on the Flop
+Seat 4: paulo cés123 folded on the Flop
+Seat 6: pikquik folded on the River
+
+
+
+PokerStars Hand #240382992730:  Hold'em No Limit (50/100) - 2022/12/10 22:27:26 CUST [2022/12/10 16:27:26 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #2 is the button
+Seat 1: penny-in-fla (17597 in chips) 
+Seat 2: voll narr007 (11104 in chips) 
+Seat 3: serioushippo677 (11484 in chips) 
+Seat 4: paulo cés123 (3800 in chips) 
+Seat 5: BadFoxNF637 (9000 in chips) 
+Seat 6: pikquik (10532 in chips) 
+serioushippo677: posts small blind 50
+paulo cés123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ac 2s]
+BadFoxNF637: calls 100
+pikquik: calls 100
+penny-in-fla: calls 100
+voll narr007: calls 100
+serioushippo677: raises 100 to 200
+paulo cés123: calls 100
+BadFoxNF637: calls 100
+pikquik: calls 100
+penny-in-fla: calls 100
+voll narr007: calls 100
+*** FLOP *** [Kd As Td]
+serioushippo677: bets 567
+paulo cés123: calls 567
+BadFoxNF637: calls 567
+pikquik: folds 
+penny-in-fla: folds 
+voll narr007: folds 
+*** TURN *** [Kd As Td] [2h]
+serioushippo677: checks 
+paulo cés123: checks 
+BadFoxNF637: checks 
+*** RIVER *** [Kd As Td 2h] [9d]
+serioushippo677: bets 3000
+paulo cés123: folds 
+BadFoxNF637: folds 
+Uncalled bet (3000) returned to serioushippo677
+serioushippo677 collected 2741 from pot
+serioushippo677: doesn't show hand 
+*** SUMMARY ***
+Total pot 2901 | Rake 160 
+Board [Kd As Td 2h 9d]
+Seat 1: penny-in-fla folded on the Flop
+Seat 2: voll narr007 (button) folded on the Flop
+Seat 3: serioushippo677 (small blind) collected (2741)
+Seat 4: paulo cés123 (big blind) folded on the River
+Seat 5: BadFoxNF637 folded on the River
+Seat 6: pikquik folded on the Flop
+
+
+
+PokerStars Hand #240383020455:  Hold'em No Limit (50/100) - 2022/12/10 22:28:39 CUST [2022/12/10 16:28:39 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #3 is the button
+Seat 1: penny-in-fla (17397 in chips) 
+Seat 2: voll narr007 (10904 in chips) 
+Seat 3: serioushippo677 (13458 in chips) 
+Seat 4: paulo cés123 (3033 in chips) 
+Seat 5: BadFoxNF637 (8233 in chips) 
+Seat 6: pikquik (10332 in chips) 
+paulo cés123: posts small blind 50
+BadFoxNF637: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3c 2d]
+pikquik: calls 100
+penny-in-fla: folds 
+voll narr007: raises 350 to 450
+serioushippo677: folds 
+paulo cés123: folds 
+BadFoxNF637: calls 350
+pikquik: calls 350
+*** FLOP *** [7d 2c Ad]
+BadFoxNF637: checks 
+pikquik: checks 
+voll narr007: checks 
+*** TURN *** [7d 2c Ad] [Ah]
+BadFoxNF637: checks 
+pikquik: checks 
+voll narr007: checks 
+*** RIVER *** [7d 2c Ad Ah] [5d]
+BadFoxNF637: bets 7783 and is all-in
+pikquik: calls 7783
+voll narr007: folds 
+voll narr007 leaves the table
+*** SHOW DOWN ***
+BadFoxNF637: shows [Qd 5c] (two pair, Aces and Fives)
+pikquik: shows [Jd 6d] (a flush, Ace high)
+pikquik collected 16033 from pot
+*** SUMMARY ***
+Total pot 16966 | Rake 933 
+Board [7d 2c Ad Ah 5d]
+Seat 1: penny-in-fla folded before Flop (didn't bet)
+Seat 2: voll narr007 folded on the River
+Seat 3: serioushippo677 (button) folded before Flop (didn't bet)
+Seat 4: paulo cés123 (small blind) folded before Flop
+Seat 5: BadFoxNF637 (big blind) showed [Qd 5c] and lost with two pair, Aces and Fives
+Seat 6: pikquik showed [Jd 6d] and won (16033) with a flush, Ace high
+
+
+
+PokerStars Hand #240383038557:  Hold'em No Limit (50/100) - 2022/12/10 22:29:26 CUST [2022/12/10 16:29:26 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #4 is the button
+Seat 1: penny-in-fla (17397 in chips) 
+Seat 3: serioushippo677 (13458 in chips) 
+Seat 4: paulo cés123 (2983 in chips) 
+Seat 6: pikquik (18132 in chips) 
+pikquik: posts small blind 50
+penny-in-fla: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [3s 9s]
+serioushippo677: folds 
+paulo cés123: calls 100
+pikquik: calls 50
+CamiloRad joins the table at seat #2 
+penny-in-fla: checks 
+*** FLOP *** [Ah 6s 2d]
+pikquik: checks 
+penny-in-fla: checks 
+paulo cés123: checks 
+*** TURN *** [Ah 6s 2d] [Qc]
+pikquik: checks 
+penny-in-fla: checks 
+paulo cés123: checks 
+*** RIVER *** [Ah 6s 2d Qc] [Kd]
+pikquik: checks 
+penny-in-fla: checks 
+paulo cés123: checks 
+*** SHOW DOWN ***
+pikquik: shows [3c Th] (high card Ace)
+penny-in-fla: mucks hand 
+paulo cés123: shows [Jh 8s] (high card Ace - King+Queen+Jack kicker)
+paulo cés123 collected 283 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 17 
+Board [Ah 6s 2d Qc Kd]
+Seat 1: penny-in-fla (big blind) mucked [9h 5d]
+Seat 3: serioushippo677 folded before Flop (didn't bet)
+Seat 4: paulo cés123 (button) showed [Jh 8s] and won (283) with high card Ace
+Seat 6: pikquik (small blind) showed [3c Th] and lost with high card Ace
+
+
+
+PokerStars Hand #240383059424:  Hold'em No Limit (50/100) - 2022/12/10 22:30:21 CUST [2022/12/10 16:30:21 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #6 is the button
+Seat 1: penny-in-fla (17297 in chips) 
+Seat 2: CamiloRad (10000 in chips) 
+Seat 3: serioushippo677 (13458 in chips) 
+Seat 4: paulo cés123 (3166 in chips) 
+Seat 6: pikquik (18032 in chips) 
+penny-in-fla: posts small blind 50
+CamiloRad: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [2c As]
+serioushippo677: folds 
+paulo cés123: calls 100
+pikquik: calls 100
+penny-in-fla: calls 50
+CamiloRad: checks 
+*** FLOP *** [Tc 3h Qc]
+penny-in-fla: checks 
+CamiloRad: checks 
+paulo cés123: checks 
+pikquik: checks 
+*** TURN *** [Tc 3h Qc] [7s]
+penny-in-fla: bets 100
+CamiloRad: raises 100 to 200
+paulo cés123: folds 
+pikquik: folds 
+penny-in-fla: raises 100 to 300
+CamiloRad: calls 100
+*** RIVER *** [Tc 3h Qc 7s] [Kh]
+penny-in-fla: bets 500
+CamiloRad: folds 
+Uncalled bet (500) returned to penny-in-fla
+penny-in-fla collected 945 from pot
+penny-in-fla: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 55 
+Board [Tc 3h Qc 7s Kh]
+Seat 1: penny-in-fla (small blind) collected (945)
+Seat 2: CamiloRad (big blind) folded on the River
+Seat 3: serioushippo677 folded before Flop (didn't bet)
+Seat 4: paulo cés123 folded on the Turn
+Seat 6: pikquik (button) folded on the Turn
+
+
+
+PokerStars Hand #240383085863:  Hold'em No Limit (50/100) - 2022/12/10 22:31:29 CUST [2022/12/10 16:31:29 ET]
+Table 'Walhalla' 6-max (Play Money) Seat #1 is the button
+Seat 1: penny-in-fla (17842 in chips) 
+Seat 2: CamiloRad (9600 in chips) 
+Seat 3: serioushippo677 (13458 in chips) 
+Seat 4: paulo cés123 (3066 in chips) 
+Seat 6: pikquik (17932 in chips) 
+CamiloRad: posts small blind 50
+serioushippo677: posts big blind 100
+*** HOLE CARDS ***
+Dealt to serioushippo677 [Ac 9s]
+paulo cés123: calls 100
+pikquik: calls 100
+penny-in-fla: calls 100
+CamiloRad: calls 50
+serioushippo677: raises 200 to 300
+paulo cés123: calls 200
+pikquik: calls 200
+penny-in-fla: folds 
+CamiloRad: calls 200
+*** FLOP *** [4c 8c 7c]
+CamiloRad: bets 100
+serioushippo677: raises 714 to 814
+BadFoxNF637 leaves the table
+paulo cés123: calls 814
+pikquik: folds 
+CamiloRad: folds 
+*** TURN *** [4c 8c 7c] [7d]
+serioushippo677: checks 
+paulo cés123: bets 1952 and is all-in
+serioushippo677: calls 1952
+*** RIVER *** [4c 8c 7c 7d] [Qh]
+*** SHOW DOWN ***
+serioushippo677: shows [Ac 9s] (a pair of Sevens)
+paulo cés123: shows [5h 6s] (a straight, Four to Eight)
+paulo cés123 collected 6551 from pot
+*** SUMMARY ***
+Total pot 6932 | Rake 381 
+Board [4c 8c 7c 7d Qh]
+Seat 1: penny-in-fla (button) folded before Flop
+Seat 2: CamiloRad (small blind) folded on the Flop
+Seat 3: serioushippo677 (big blind) showed [Ac 9s] and lost with a pair of Sevens
+Seat 4: paulo cés123 showed [5h 6s] and won (6551) with a straight, Four to Eight
+Seat 6: pikquik folded on the Flop
+
+
+
